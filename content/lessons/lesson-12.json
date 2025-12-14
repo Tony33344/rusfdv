@@ -1,0 +1,374 @@
+{
+  "id": 12,
+  "title": {
+    "ru": "Страны и города",
+    "sl": "Države in mesta",
+    "en": "Countries and cities"
+  },
+  "textbookTheme": 11,
+  "phonetics": {
+    "focus": [
+      "Предложный падеж",
+      "окончания -е, -и"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "в России",
+          "в Словении",
+          "в Москве",
+          "в Любляне",
+          "в Европе",
+          "в Азии"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Предложный падеж существительных (Prepositional case)",
+    "explanation": {
+      "ru": "Предложный падеж используется с предлогами В и НА для обозначения места. Окончания: -е (большинство слов), -и (слова на -ия, -ие, -ий), -у (некоторые односложные слова).",
+      "sl": "Mestnik se uporablja s predlogoma В in НА za označevanje kraja. Končnice: -е (večina besed), -и (besede na -ия, -ие, -ий), -у (nekatere enozložne besede).",
+      "en": "Grammar focus: Предложный падеж существительных (Prepositional case). See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Россия → в России",
+        "gender": "ж",
+        "rule": "-ия → -ии"
+      },
+      {
+        "word": "Словения → в Словении",
+        "gender": "ж",
+        "rule": "-ия → -ии"
+      },
+      {
+        "word": "Москва → в Москве",
+        "gender": "ж",
+        "rule": "-а → -е"
+      },
+      {
+        "word": "город → в городе",
+        "gender": "м",
+        "rule": "consonant → -е"
+      },
+      {
+        "word": "лес → в лесу",
+        "gender": "м",
+        "rule": "special -у ending"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Поставьте слова в предложный падеж с предлогом «в»",
+        "items": [
+          "Германия",
+          "Франция",
+          "Италия",
+          "Америка",
+          "Китай"
+        ],
+        "answers": [
+          "в Германии",
+          "во Франции",
+          "в Италии",
+          "в Америке",
+          "в Китае"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Страны и города",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Страны и города",
+          "sl": "Dialog: Страны и города",
+          "en": "Dialogue: Страны и города"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Где вы живёте?",
+            "sl": "Kje živite?",
+            "en": "(EN) Где вы живёте?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я живу в Словении.",
+            "sl": "Živim v Sloveniji.",
+            "en": "(EN) Я живу в Словении."
+          },
+          {
+            "speaker": "A",
+            "ru": "В каком городе?",
+            "sl": "V katerem mestu?",
+            "en": "(EN) В каком городе?"
+          },
+          {
+            "speaker": "B",
+            "ru": "В Любляне.",
+            "sl": "V Ljubljani.",
+            "en": "(EN) В Любляне."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы были в России?",
+            "sl": "Ste bili v Rusiji?",
+            "en": "(EN) Вы были в России?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, я был(а) в Москве.",
+            "sl": "Da, bil/a sem v Moskvi.",
+            "en": "(EN) Да, я был(а) в Москве."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Где вы живёте?",
+        "sl": "Kje živite?",
+        "audio": null,
+        "en": "(EN) Где вы живёте?"
+      },
+      {
+        "ru": "Я живу в Словении.",
+        "sl": "Živim v Sloveniji.",
+        "audio": null,
+        "en": "(EN) Я живу в Словении."
+      },
+      {
+        "ru": "В каком городе?",
+        "sl": "V katerem mestu?",
+        "audio": null,
+        "en": "(EN) В каком городе?"
+      },
+      {
+        "ru": "В Любляне.",
+        "sl": "V Ljubljani.",
+        "audio": null,
+        "en": "(EN) В Любляне."
+      },
+      {
+        "ru": "Вы были в России?",
+        "sl": "Ste bili v Rusiji?",
+        "audio": null,
+        "en": "(EN) Вы были в России?"
+      },
+      {
+        "ru": "Да, я был(а) в Москве.",
+        "sl": "Da, bil/a sem v Moskvi.",
+        "audio": null,
+        "en": "(EN) Да, я был(а) в Москве."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "страна",
+      "sl": "država",
+      "en": "(EN) страна"
+    },
+    {
+      "ru": "город",
+      "sl": "mesto",
+      "en": "(EN) город"
+    },
+    {
+      "ru": "столица",
+      "sl": "prestolnica",
+      "en": "(EN) столица"
+    },
+    {
+      "ru": "Россия",
+      "sl": "Rusija",
+      "en": "(EN) Россия"
+    },
+    {
+      "ru": "Словения",
+      "sl": "Slovenija",
+      "en": "(EN) Словения"
+    },
+    {
+      "ru": "Европа",
+      "sl": "Evropa",
+      "en": "(EN) Европа"
+    },
+    {
+      "ru": "жить",
+      "sl": "živeti",
+      "en": "(EN) жить"
+    },
+    {
+      "ru": "находиться",
+      "sl": "nahajati se",
+      "en": "(EN) находиться"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Страны и города»",
+      "Практиковать грамматику: Предложный падеж существительных (Prepositional case)",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Страны и города»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Страны и города«",
+      "Vaditi slovnico: Предложный падеж существительных (Prepositional case)",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Страны и города«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Страны и города”",
+      "Practice grammar: Предложный падеж существительных (Prepositional case)",
+      "Build 6–8 simple sentences and a mini-dialogue for “Страны и города”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "страна",
+            "sl": "država",
+            "en": "(EN) страна"
+          },
+          {
+            "ru": "город",
+            "sl": "mesto",
+            "en": "(EN) город"
+          },
+          {
+            "ru": "столица",
+            "sl": "prestolnica",
+            "en": "(EN) столица"
+          },
+          {
+            "ru": "Россия",
+            "sl": "Rusija",
+            "en": "(EN) Россия"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "страна",
+            "sl": "država",
+            "en": "(EN) страна"
+          },
+          {
+            "ru": "город",
+            "sl": "mesto",
+            "en": "(EN) город"
+          },
+          {
+            "ru": "столица",
+            "sl": "prestolnica",
+            "en": "(EN) столица"
+          },
+          {
+            "ru": "Россия",
+            "sl": "Rusija",
+            "en": "(EN) Россия"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Страны и города».",
+      "sl": "Napišite 6–8 stavkov na temo »Države in mesta«.",
+      "en": "Write 6–8 sentences about “Countries and cities”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "id": 29,
+  "title": {
+    "ru": "Языки и национальности (продолжение)",
+    "sl": "Jeziki in narodnosti (nadaljevanje)",
+    "en": "Languages and nationalities (continued)"
+  },
+  "textbookTheme": 22,
+  "phonetics": {
+    "focus": [
+      "Названия национальностей"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "русский",
+          "русская",
+          "словенец",
+          "словенка",
+          "немец",
+          "немка",
+          "француз",
+          "француженка"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Названия национальностей",
+    "explanation": {
+      "ru": "Названия национальностей имеют разные формы для мужчин и женщин: русский/русская, словенец/словенка, немец/немка. Некоторые формы нерегулярные.",
+      "sl": "Imena narodnosti imajo različne oblike za moške in ženske: ruski/ruska, Slovenec/Slovenka, Nemec/Nemka. Nekatere oblike so nepravilne.",
+      "en": "Grammar focus: Названия национальностей. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "русский / русская",
+        "gender": "",
+        "rule": "Russian (m/f)"
+      },
+      {
+        "word": "словенец / словенка",
+        "gender": "",
+        "rule": "Slovenian (m/f)"
+      },
+      {
+        "word": "немец / немка",
+        "gender": "",
+        "rule": "German (m/f)"
+      },
+      {
+        "word": "француз / француженка",
+        "gender": "",
+        "rule": "French (m/f)"
+      },
+      {
+        "word": "американец / американка",
+        "gender": "",
+        "rule": "American (m/f)"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Напишите национальность",
+        "items": [
+          "Он из России. Он ___.",
+          "Она из Словении. Она ___.",
+          "Он из Германии. Он ___.",
+          "Она из Франции. Она ___."
+        ],
+        "answers": [
+          "русский",
+          "словенка",
+          "немец",
+          "француженка"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "О национальностях",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: О национальностях",
+          "sl": "Dialog: О национальностях",
+          "en": "Dialogue: О национальностях"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Кто вы по национальности?",
+            "sl": "Kakšne narodnosti ste?",
+            "en": "(EN) Кто вы по национальности?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я словенец / словенка.",
+            "sl": "Sem Slovenec / Slovenka.",
+            "en": "(EN) Я словенец / словенка."
+          },
+          {
+            "speaker": "A",
+            "ru": "Откуда ваши родители?",
+            "sl": "Od kod so vaši starši?",
+            "en": "(EN) Откуда ваши родители?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Мой отец русский, а мать словенка.",
+            "sl": "Moj oče je Rus, mama pa Slovenka.",
+            "en": "(EN) Мой отец русский, а мать словенка."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Кто вы по национальности?",
+        "sl": "Kakšne narodnosti ste?",
+        "audio": null,
+        "en": "(EN) Кто вы по национальности?"
+      },
+      {
+        "ru": "Я словенец / словенка.",
+        "sl": "Sem Slovenec / Slovenka.",
+        "audio": null,
+        "en": "(EN) Я словенец / словенка."
+      },
+      {
+        "ru": "Откуда ваши родители?",
+        "sl": "Od kod so vaši starši?",
+        "audio": null,
+        "en": "(EN) Откуда ваши родители?"
+      },
+      {
+        "ru": "Мой отец русский, а мать словенка.",
+        "sl": "Moj oče je Rus, mama pa Slovenka.",
+        "audio": null,
+        "en": "(EN) Мой отец русский, а мать словенка."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "национальность",
+      "sl": "narodnost",
+      "en": "(EN) национальность"
+    },
+    {
+      "ru": "русский/русская",
+      "sl": "Rus/Rusinja",
+      "en": "(EN) русский/русская"
+    },
+    {
+      "ru": "словенец/словенка",
+      "sl": "Slovenec/Slovenka",
+      "en": "(EN) словенец/словенка"
+    },
+    {
+      "ru": "немец/немка",
+      "sl": "Nemec/Nemka",
+      "en": "(EN) немец/немка"
+    },
+    {
+      "ru": "француз/француженка",
+      "sl": "Francoz/Francozinja",
+      "en": "(EN) француз/француженка"
+    },
+    {
+      "ru": "американец/американка",
+      "sl": "Američan/Američanka",
+      "en": "(EN) американец/американка"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «О национальностях»",
+      "Практиковать грамматику: Названия национальностей",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Языки и национальности (продолжение)»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »О национальностях«",
+      "Vaditi slovnico: Названия национальностей",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Языки и национальности (продолжение)«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “О национальностях”",
+      "Practice grammar: Названия национальностей",
+      "Build 6–8 simple sentences and a mini-dialogue for “Языки и национальности (продолжение)”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "национальность",
+            "sl": "narodnost",
+            "en": "(EN) национальность"
+          },
+          {
+            "ru": "русский/русская",
+            "sl": "Rus/Rusinja",
+            "en": "(EN) русский/русская"
+          },
+          {
+            "ru": "словенец/словенка",
+            "sl": "Slovenec/Slovenka",
+            "en": "(EN) словенец/словенка"
+          },
+          {
+            "ru": "немец/немка",
+            "sl": "Nemec/Nemka",
+            "en": "(EN) немец/немка"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "национальность",
+            "sl": "narodnost",
+            "en": "(EN) национальность"
+          },
+          {
+            "ru": "русский/русская",
+            "sl": "Rus/Rusinja",
+            "en": "(EN) русский/русская"
+          },
+          {
+            "ru": "словенец/словенка",
+            "sl": "Slovenec/Slovenka",
+            "en": "(EN) словенец/словенка"
+          },
+          {
+            "ru": "немец/немка",
+            "sl": "Nemec/Nemka",
+            "en": "(EN) немец/немка"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Языки и национальности (продолжение)».",
+      "sl": "Napišite 6–8 stavkov na temo »Jeziki in narodnosti (nadaljevanje)«.",
+      "en": "Write 6–8 sentences about “Languages and nationalities (continued)”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": 4,
+  "title": {
+    "ru": "Профессии",
+    "sl": "Poklici",
+    "en": "Professions"
+  },
+  "textbookTheme": 4,
+  "objectives": {
+    "ru": [
+      "Сказать, кто вы по профессии (Я студент / Я врач / Я программист)",
+      "Спросить и ответить, где вы работаете (Где вы работаете? Я работаю в ...)",
+      "Спрягать базовые глаголы I спряжения в настоящем времени"
+    ],
+    "sl": [
+      "Povedati svoj poklic (Sem študent / zdravnik / programer)",
+      "Vprašati in odgovoriti, kje delaš/delate (Kje delate? Delam v ...)",
+      "Spregati osnovne glagole I. spregatve v sedanjiku"
+    ],
+    "en": [
+      "Say your profession (I’m a student / doctor / programmer)",
+      "Ask and answer where you work (Where do you work? I work at/in ...)",
+      "Conjugate common 1st conjugation verbs in the present tense"
+    ]
+  },
+  "phonetics": {
+    "focus": ["ж", "ш", "ч", "щ"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["журналист", "школа", "врач", "ещё", "хороший", "большой"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глаголы I спряжения",
+    "explanation": {
+      "ru": "Глаголы I спряжения имеют окончания: -у/-ю, -ешь, -ет, -ем, -ете, -ут/-ют. Например: работать → я работаю, ты работаешь, он работает.",
+      "sl": "Glagoli I. spregatve imajo končnice: -у/-ю, -ешь, -ет, -ем, -ете, -ут/-ют. Na primer: работать → я работаю, ты работаешь, он работает.",
+      "en": "1st conjugation verbs take these present-tense endings: -у/-ю, -ешь, -ет, -ем, -ете, -ут/-ют. Example: работать → я работаю, ты работаешь, он/она работает."
+    },
+    "examples": [
+      { "word": "я работаю", "gender": "", "rule": "I work" },
+      { "word": "ты работаешь", "gender": "", "rule": "you work" },
+      { "word": "он/она работает", "gender": "", "rule": "he/she works" },
+      { "word": "мы работаем", "gender": "", "rule": "we work" },
+      { "word": "вы работаете", "gender": "", "rule": "you (pl.) work" },
+      { "word": "они работают", "gender": "", "rule": "they work" }
+    ],
+    "exercises": [
+      {
+        "type": "conjugation",
+        "instruction": "Проспрягайте глагол «читать»",
+        "items": ["я ___", "ты ___", "он ___", "мы ___", "вы ___", "они ___"],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Кто вы по профессии?",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: На конференции",
+          "sl": "Dialog: Na konferenci",
+          "en": "Dialogue: At a conference"
+        },
+        "context": {
+          "ru": "Два человека знакомятся и говорят о работе.",
+          "sl": "Dva človeka se spoznata in govorita o službi.",
+          "en": "Two people meet and talk about work."
+        },
+        "lines": [
+          {
+            "speaker": "Мария",
+            "ru": "Здравствуйте! Кто вы по профессии?",
+            "sl": "Pozdravljeni! Kakšen je vaš poklic?",
+            "en": "Hello! What do you do? (profession)"
+          },
+          {
+            "speaker": "Иван",
+            "ru": "Я программист. А вы?",
+            "sl": "Sem programer. In vi?",
+            "en": "I'm a programmer. And you?"
+          },
+          {
+            "speaker": "Мария",
+            "ru": "Я работаю врачом. Где вы работаете?",
+            "sl": "Delam kot zdravnica. Kje delate?",
+            "en": "I work as a doctor. Where do you work?"
+          },
+          {
+            "speaker": "Иван",
+            "ru": "Я работаю в компании. Мне нравится моя работа.",
+            "sl": "Delam v podjetju. Všeč mi je moje delo.",
+            "en": "I work at a company. I like my job."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Кто вы по профессии?", "sl": "Kakšen je vaš poklic?", "en": "What is your profession?", "audio": null },
+      { "ru": "Я студент.", "sl": "Sem študent.", "en": "I'm a student.", "audio": null },
+      { "ru": "Я работаю врачом.", "sl": "Delam kot zdravnik.", "en": "I work as a doctor.", "audio": null },
+      { "ru": "Где вы работаете?", "sl": "Kje delate?", "en": "Where do you work?", "audio": null },
+      { "ru": "Я работаю в офисе.", "sl": "Delam v pisarni.", "en": "I work in an office.", "audio": null },
+      { "ru": "Мне нравится моя работа.", "sl": "Všeč mi je moje delo.", "en": "I like my job.", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я работаю...",
+          "sl": "Vzorec: Delam...",
+          "en": "Pattern: I work..."
+        },
+        "model": {
+          "ru": "Я работаю в офисе.",
+          "sl": "Delam v pisarni.",
+          "en": "I work in an office."
+        },
+        "prompts": [
+          { "ru": "Я работаю в школе.", "sl": "Delam v šoli.", "en": "I work at a school." },
+          { "ru": "Я работаю в больнице.", "sl": "Delam v bolnišnici.", "en": "I work in a hospital." },
+          { "ru": "Я работаю в компании.", "sl": "Delam v podjetju.", "en": "I work at a company." },
+          { "ru": "Я работаю дома.", "sl": "Delam doma.", "en": "I work from home." }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я ... (профессия)",
+          "sl": "Vzorec: Sem ... (poklic)",
+          "en": "Pattern: I am a ... (profession)"
+        },
+        "model": {
+          "ru": "Я программист.",
+          "sl": "Sem programer.",
+          "en": "I'm a programmer."
+        },
+        "prompts": [
+          { "ru": "Я врач.", "sl": "Sem zdravnik/zdravnica.", "en": "I'm a doctor." },
+          { "ru": "Я учитель.", "sl": "Sem učitelj/učiteljica.", "en": "I'm a teacher." },
+          { "ru": "Я инженер.", "sl": "Sem inženir.", "en": "I'm an engineer." },
+          { "ru": "Я студент.", "sl": "Sem študent.", "en": "I'm a student." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Какой вариант — форма «ты»?",
+          "sl": "Katera možnost je oblika »ti«?",
+          "en": "Which option is the informal (ты) form?"
+        },
+        "options": [
+          { "ru": "Где вы работаете?", "sl": "Kje delate?", "en": "Where do you work? (formal)" },
+          { "ru": "Где ты работаешь?", "sl": "Kje delaš?", "en": "Where do you work? (informal)" },
+          { "ru": "Кто вы по профессии?", "sl": "Kakšen je vaš poklic?", "en": "What is your profession?" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "«ты работаешь» — форма для «ты».",
+          "sl": "«ты работаешь» je oblika za »ti«.",
+          "en": "«ты работаешь» is the form used with «ты»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 5–6 предложений: кто вы, где вы работаете/учитесь, что вам нравится.",
+      "sl": "Napišite 5–6 stavkov: kdo ste, kje delate/študirate, kaj vam je všeč.",
+      "en": "Write 5–6 sentences: who you are, where you work/study, what you like."
+    },
+    "checklist": {
+      "ru": ["Используйте 3 формы глагола I спряжения", "Добавьте одно предложение с «мне нравится»"],
+      "sl": ["Uporabite 3 oblike glagola I. spregatve", "Dodajte en stavek z «мне нравится»"],
+      "en": ["Use 3 present-tense forms of a 1st conjugation verb", "Include one sentence with «мне нравится»"]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Проспрягайте глаголы «работать» и «читать» (я/ты/он/мы/вы/они).",
+        "sl": "Spregajte glagola «работать» in «читать» (jaz/ti/on/mi/vi/oni).",
+        "en": "Conjugate «работать» and «читать» (I/you/he/we/you(pl)/they)."
+      },
+      {
+        "ru": "Запишите голосом (TTS/Voice Teacher): 4 предложения о вашей профессии/учёбе.",
+        "sl": "Posnemite: 4 stavke o vašem poklicu/študiju.",
+        "en": "Record: 4 sentences about your profession/studies."
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В русском часто спрашивают «Кем вы работаете?» или «Кто вы по профессии?». Оба варианта нормальные на уровне A1–A2.",
+      "sl": "V ruščini pogosto vprašajo «Кем вы работаете?» ali «Кто вы по профессии?». Obe možnosti sta normalni na ravni A1–A2.",
+      "en": "In Russian you can ask «Кем вы работаете?» or «Кто вы по профессии?». Both are common at A1–A2."
+    }
+  },
+  "vocabulary": [
+    { "ru": "профессия", "sl": "poklic", "en": "profession" },
+    { "ru": "студент", "sl": "študent", "en": "student" },
+    { "ru": "врач", "sl": "zdravnik", "en": "doctor" },
+    { "ru": "учитель", "sl": "učitelj", "en": "teacher" },
+    { "ru": "инженер", "sl": "inženir", "en": "engineer" },
+    { "ru": "программист", "sl": "programer", "en": "programmer" },
+    { "ru": "журналист", "sl": "novinar", "en": "journalist" },
+    { "ru": "работать", "sl": "delati", "en": "to work" },
+    { "ru": "офис", "sl": "pisarna", "en": "office" },
+    { "ru": "компания", "sl": "podjetje", "en": "company" }
+  ],
+  "audioResources": []
+}

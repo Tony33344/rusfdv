@@ -1,0 +1,364 @@
+{
+  "id": 16,
+  "title": {
+    "ru": "Климат и погода",
+    "sl": "Podnebje in vreme",
+    "en": "Climate and weather"
+  },
+  "textbookTheme": 15,
+  "phonetics": {
+    "focus": [
+      "Числительные 1-100"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "один",
+          "десять",
+          "двадцать",
+          "тридцать",
+          "сорок",
+          "пятьдесят",
+          "сто"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Числительные",
+    "explanation": {
+      "ru": "Числительные 1-4 согласуются с существительным. После 2, 3, 4 — родительный падеж ед.ч. После 5-20 — родительный падеж мн.ч. Особые формы: сорок, девяносто, сто.",
+      "sl": "Števniki 1-4 se ujemajo s samostalnikom. Po 2, 3, 4 — rodilnik ed. Po 5-20 — rodilnik mn. Posebne oblike: štirideset, devetdeset, sto.",
+      "en": "Grammar focus: Числительные. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "один градус",
+        "gender": "",
+        "rule": "1 + nominative"
+      },
+      {
+        "word": "два градуса",
+        "gender": "",
+        "rule": "2-4 + genitive singular"
+      },
+      {
+        "word": "пять градусов",
+        "gender": "",
+        "rule": "5-20 + genitive plural"
+      },
+      {
+        "word": "двадцать один градус",
+        "gender": "",
+        "rule": "21 + nominative"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "number-noun",
+        "instruction": "Напишите правильную форму слова «градус»",
+        "items": [
+          "1 ___",
+          "3 ___",
+          "5 ___",
+          "21 ___",
+          "25 ___"
+        ],
+        "answers": [
+          "градус",
+          "градуса",
+          "градусов",
+          "градус",
+          "градусов"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Климат и погода",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Климат и погода",
+          "sl": "Dialog: Климат и погода",
+          "en": "Dialogue: Климат и погода"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какая сегодня температура?",
+            "sl": "Kakšna je danes temperatura?",
+            "en": "(EN) Какая сегодня температура?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Сегодня плюс двадцать градусов.",
+            "sl": "Danes je plus dvajset stopinj.",
+            "en": "(EN) Сегодня плюс двадцать градусов."
+          },
+          {
+            "speaker": "A",
+            "ru": "Какой климат в Словении?",
+            "sl": "Kakšno je podnebje v Sloveniji?",
+            "en": "(EN) Какой климат в Словении?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Климат умеренный.",
+            "sl": "Podnebje je zmerno.",
+            "en": "(EN) Климат умеренный."
+          },
+          {
+            "speaker": "A",
+            "ru": "Зимой холодно?",
+            "sl": "Je pozimi mrzlo?",
+            "en": "(EN) Зимой холодно?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, бывает минус десять.",
+            "sl": "Da, včasih je minus deset.",
+            "en": "(EN) Да, бывает минус десять."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какая сегодня температура?",
+        "sl": "Kakšna je danes temperatura?",
+        "audio": null,
+        "en": "(EN) Какая сегодня температура?"
+      },
+      {
+        "ru": "Сегодня плюс двадцать градусов.",
+        "sl": "Danes je plus dvajset stopinj.",
+        "audio": null,
+        "en": "(EN) Сегодня плюс двадцать градусов."
+      },
+      {
+        "ru": "Какой климат в Словении?",
+        "sl": "Kakšno je podnebje v Sloveniji?",
+        "audio": null,
+        "en": "(EN) Какой климат в Словении?"
+      },
+      {
+        "ru": "Климат умеренный.",
+        "sl": "Podnebje je zmerno.",
+        "audio": null,
+        "en": "(EN) Климат умеренный."
+      },
+      {
+        "ru": "Зимой холодно?",
+        "sl": "Je pozimi mrzlo?",
+        "audio": null,
+        "en": "(EN) Зимой холодно?"
+      },
+      {
+        "ru": "Да, бывает минус десять.",
+        "sl": "Da, včasih je minus deset.",
+        "audio": null,
+        "en": "(EN) Да, бывает минус десять."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "температура",
+      "sl": "temperatura",
+      "en": "(EN) температура"
+    },
+    {
+      "ru": "градус",
+      "sl": "stopinja",
+      "en": "(EN) градус"
+    },
+    {
+      "ru": "климат",
+      "sl": "podnebje",
+      "en": "(EN) климат"
+    },
+    {
+      "ru": "плюс",
+      "sl": "plus",
+      "en": "(EN) плюс"
+    },
+    {
+      "ru": "минус",
+      "sl": "minus",
+      "en": "(EN) минус"
+    },
+    {
+      "ru": "умеренный",
+      "sl": "zmeren",
+      "en": "(EN) умеренный"
+    },
+    {
+      "ru": "континентальный",
+      "sl": "celinsko",
+      "en": "(EN) континентальный"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Климат и погода»",
+      "Практиковать грамматику: Числительные",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Климат и погода»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Климат и погода«",
+      "Vaditi slovnico: Числительные",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Климат и погода«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Климат и погода”",
+      "Practice grammar: Числительные",
+      "Build 6–8 simple sentences and a mini-dialogue for “Климат и погода”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "температура",
+            "sl": "temperatura",
+            "en": "(EN) температура"
+          },
+          {
+            "ru": "градус",
+            "sl": "stopinja",
+            "en": "(EN) градус"
+          },
+          {
+            "ru": "климат",
+            "sl": "podnebje",
+            "en": "(EN) климат"
+          },
+          {
+            "ru": "плюс",
+            "sl": "plus",
+            "en": "(EN) плюс"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "температура",
+            "sl": "temperatura",
+            "en": "(EN) температура"
+          },
+          {
+            "ru": "градус",
+            "sl": "stopinja",
+            "en": "(EN) градус"
+          },
+          {
+            "ru": "климат",
+            "sl": "podnebje",
+            "en": "(EN) климат"
+          },
+          {
+            "ru": "плюс",
+            "sl": "plus",
+            "en": "(EN) плюс"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Климат и погода».",
+      "sl": "Napišite 6–8 stavkov na temo »Podnebje in vreme«.",
+      "en": "Write 6–8 sentences about “Climate and weather”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

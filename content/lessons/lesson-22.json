@@ -1,0 +1,330 @@
+{
+  "id": 22,
+  "title": {
+    "ru": "Москва и Санкт-Петербург",
+    "sl": "Moskva in Sankt Peterburg",
+    "en": "Moscow and Saint Petersburg"
+  },
+  "textbookTheme": 19,
+  "phonetics": {
+    "focus": [
+      "Суперлатив самый"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "самый большой",
+          "самая красивая",
+          "самое интересное",
+          "самые известные"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Прилагательные. Суперлатив самый +",
+    "explanation": {
+      "ru": "Превосходная степень образуется с помощью слова «самый» + прилагательное. Оба слова согласуются с существительным: самый большой город, самая красивая площадь.",
+      "sl": "Presežnik se tvori s pomočjo besede «самый» + pridevnik. Obe besedi se ujemata s samostalnikom: самый большой город, самая красивая площадь.",
+      "en": "Grammar focus: Прилагательные. Суперлатив самый +. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "самый большой город",
+        "gender": "м",
+        "rule": "the biggest city"
+      },
+      {
+        "word": "самая красивая площадь",
+        "gender": "ж",
+        "rule": "the most beautiful square"
+      },
+      {
+        "word": "самое старое здание",
+        "gender": "ср",
+        "rule": "the oldest building"
+      },
+      {
+        "word": "самые известные музеи",
+        "gender": "мн",
+        "rule": "the most famous museums"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "superlative",
+        "instruction": "Образуйте превосходную степень",
+        "items": [
+          "(интересный) музей",
+          "(красивый) город",
+          "(старый) церковь",
+          "(известный) театр"
+        ],
+        "answers": [
+          "самый интересный",
+          "самый красивый",
+          "самая старая",
+          "самый известный"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Москва и Санкт-Петербург",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Москва и Санкт-Петербург",
+          "sl": "Dialog: Москва и Санкт-Петербург",
+          "en": "Dialogue: Москва и Санкт-Петербург"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Москва — самый большой город России.",
+            "sl": "Moskva je največje mesto Rusije.",
+            "en": "(EN) Москва — самый большой город России."
+          },
+          {
+            "speaker": "B",
+            "ru": "Красная площадь — самая известная площадь.",
+            "sl": "Rdeči trg je najbolj znan trg.",
+            "en": "(EN) Красная площадь — самая известная площадь."
+          },
+          {
+            "speaker": "A",
+            "ru": "Эрмитаж — самый большой музей.",
+            "sl": "Ermitaž je največji muzej.",
+            "en": "(EN) Эрмитаж — самый большой музей."
+          },
+          {
+            "speaker": "B",
+            "ru": "Санкт-Петербург — самый красивый город.",
+            "sl": "Sankt Peterburg je najlepše mesto.",
+            "en": "(EN) Санкт-Петербург — самый красивый город."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Москва — самый большой город России.",
+        "sl": "Moskva je največje mesto Rusije.",
+        "audio": null,
+        "en": "(EN) Москва — самый большой город России."
+      },
+      {
+        "ru": "Красная площадь — самая известная площадь.",
+        "sl": "Rdeči trg je najbolj znan trg.",
+        "audio": null,
+        "en": "(EN) Красная площадь — самая известная площадь."
+      },
+      {
+        "ru": "Эрмитаж — самый большой музей.",
+        "sl": "Ermitaž je največji muzej.",
+        "audio": null,
+        "en": "(EN) Эрмитаж — самый большой музей."
+      },
+      {
+        "ru": "Санкт-Петербург — самый красивый город.",
+        "sl": "Sankt Peterburg je najlepše mesto.",
+        "audio": null,
+        "en": "(EN) Санкт-Петербург — самый красивый город."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "самый",
+      "sl": "najbolj",
+      "en": "(EN) самый"
+    },
+    {
+      "ru": "Красная площадь",
+      "sl": "Rdeči trg",
+      "en": "(EN) Красная площадь"
+    },
+    {
+      "ru": "Кремль",
+      "sl": "Kremelj",
+      "en": "(EN) Кремль"
+    },
+    {
+      "ru": "Эрмитаж",
+      "sl": "Ermitaž",
+      "en": "(EN) Эрмитаж"
+    },
+    {
+      "ru": "Невский проспект",
+      "sl": "Nevski prospekt",
+      "en": "(EN) Невский проспект"
+    },
+    {
+      "ru": "собор",
+      "sl": "katedrala",
+      "en": "(EN) собор"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Москва и Санкт-Петербург»",
+      "Практиковать грамматику: Прилагательные. Суперлатив самый +",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Москва и Санкт-Петербург»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Москва и Санкт-Петербург«",
+      "Vaditi slovnico: Прилагательные. Суперлатив самый +",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Москва и Санкт-Петербург«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Москва и Санкт-Петербург”",
+      "Practice grammar: Прилагательные. Суперлатив самый +",
+      "Build 6–8 simple sentences and a mini-dialogue for “Москва и Санкт-Петербург”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "самый",
+            "sl": "najbolj",
+            "en": "(EN) самый"
+          },
+          {
+            "ru": "Красная площадь",
+            "sl": "Rdeči trg",
+            "en": "(EN) Красная площадь"
+          },
+          {
+            "ru": "Кремль",
+            "sl": "Kremelj",
+            "en": "(EN) Кремль"
+          },
+          {
+            "ru": "Эрмитаж",
+            "sl": "Ermitaž",
+            "en": "(EN) Эрмитаж"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "самый",
+            "sl": "najbolj",
+            "en": "(EN) самый"
+          },
+          {
+            "ru": "Красная площадь",
+            "sl": "Rdeči trg",
+            "en": "(EN) Красная площадь"
+          },
+          {
+            "ru": "Кремль",
+            "sl": "Kremelj",
+            "en": "(EN) Кремль"
+          },
+          {
+            "ru": "Эрмитаж",
+            "sl": "Ermitaž",
+            "en": "(EN) Эрмитаж"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Москва и Санкт-Петербург».",
+      "sl": "Napišite 6–8 stavkov na temo »Moskva in Sankt Peterburg«.",
+      "en": "Write 6–8 sentences about “Moscow and Saint Petersburg”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

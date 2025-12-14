@@ -1,0 +1,247 @@
+{
+  "id": 3,
+  "title": {
+    "ru": "Семья",
+    "sl": "Družina",
+    "en": "Family"
+  },
+  "textbookTheme": 3,
+  "objectives": {
+    "ru": [
+      "Говорить о семье: мама, папа, брат, сестра, бабушка, дедушка",
+      "Использовать притяжательные местоимения (мой/моя/моё; твой/твоя/твоё)",
+      "Спросить и ответить о возрасте (Сколько тебе лет? Мне ... лет.)"
+    ],
+    "sl": [
+      "Govoriti o družini: mama, oče, brat, sestra, babica, dedek",
+      "Uporabljati svojilne zaimke (мой/моя/моё; твой/твоя/твоё)",
+      "Vprašati in odgovoriti o starosti (Сколько тебе лет? Мне ... лет.)"
+    ],
+    "en": [
+      "Talk about family members: mom, dad, brother, sister, grandma, grandpa",
+      "Use possessive pronouns (мой/моя/моё; твой/твоя/твоё)",
+      "Ask and answer about age (Сколько тебе лет? Мне ... лет.)"
+    ]
+  },
+  "phonetics": {
+    "focus": ["ы", "й", "soft consonants"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["мы", "вы", "сын", "дочь", "брат", "сестра"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Притяжательные местоимения",
+    "explanation": {
+      "ru": "Притяжательные местоимения показывают принадлежность: мой, твой, его, её, наш, ваш, их. Они согласуются с существительным в роде и числе.",
+      "sl": "Svojilni zaimki kažejo pripadnost: moj, tvoj, njegov, njen, naš, vaš, njihov. Ujemajo se s samostalnikom v spolu in številu.",
+      "en": "Possessive pronouns show ownership: мой, твой, его, её, наш, ваш, их. They agree with the noun in gender and number (мой брат, моя сестра, моё окно)."
+    },
+    "examples": [
+      { "word": "мой брат", "gender": "м", "rule": "my brother" },
+      { "word": "моя сестра", "gender": "ж", "rule": "my sister" },
+      { "word": "моё окно", "gender": "ср", "rule": "my window" },
+      { "word": "твой друг", "gender": "м", "rule": "your friend" },
+      { "word": "наша семья", "gender": "ж", "rule": "our family" }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Вставьте правильное притяжательное местоимение",
+        "items": ["___ мама (я)", "___ папа (ты)", "___ дом (мы)", "___ книга (она)"],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Моя семья",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Расскажите о семье",
+          "sl": "Dialog: Povej o družini",
+          "en": "Dialogue: Talk about your family"
+        },
+        "context": {
+          "ru": "Два студента разговаривают после занятия.",
+          "sl": "Dva študenta se pogovarjata po uri.",
+          "en": "Two students talk after class."
+        },
+        "lines": [
+          {
+            "speaker": "Тони",
+            "ru": "У тебя есть брат или сестра?",
+            "sl": "Imaš brata ali sestro?",
+            "en": "Do you have a brother or a sister?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Да, у меня есть брат. Его зовут Марк.",
+            "sl": "Da, imam brata. Ime mu je Mark.",
+            "en": "Yes, I have a brother. His name is Mark."
+          },
+          {
+            "speaker": "Тони",
+            "ru": "А это твоя мама на фото?",
+            "sl": "In to je tvoja mama na fotografiji?",
+            "en": "And is this your mom in the photo?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Да, это моя мама. Её зовут Ирина.",
+            "sl": "Da, to je moja mama. Ime ji je Irina.",
+            "en": "Yes, this is my mom. Her name is Irina."
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Сколько тебе лет?",
+            "sl": "Koliko si star/a?",
+            "en": "How old are you?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Мне двадцать лет. А тебе?",
+            "sl": "Stara sem dvajset let. In ti?",
+            "en": "I'm twenty. And you?"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Это моя семья.", "sl": "To je moja družina.", "en": "This is my family.", "audio": null },
+      { "ru": "У меня есть брат.", "sl": "Imam brata.", "en": "I have a brother.", "audio": null },
+      { "ru": "У меня есть сестра.", "sl": "Imam sestro.", "en": "I have a sister.", "audio": null },
+      { "ru": "Как зовут твою маму?", "sl": "Kako je ime tvoji mami?", "en": "What's your mom's name?", "audio": null },
+      { "ru": "Сколько тебе лет?", "sl": "Koliko si star/a?", "en": "How old are you?", "audio": null },
+      { "ru": "Мне двадцать лет.", "sl": "Star/a sem dvajset let.", "en": "I'm twenty years old.", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: мой / моя / моё",
+          "sl": "Vzorec: мой / моя / моё",
+          "en": "Pattern: мой / моя / моё"
+        },
+        "model": {
+          "ru": "Это моя мама. Это мой брат. Это моё фото.",
+          "sl": "To je moja mama. To je moj brat. To je moja fotografija.",
+          "en": "This is my mom. This is my brother. This is my photo."
+        },
+        "prompts": [
+          { "ru": "___ сестра", "sl": "___ sestra", "en": "___ sister" },
+          { "ru": "___ дедушка", "sl": "___ dedek", "en": "___ grandpa" },
+          { "ru": "___ семья", "sl": "___ družina", "en": "___ family" },
+          { "ru": "___ окно", "sl": "___ okno", "en": "___ window" }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: У меня есть...",
+          "sl": "Vzorec: Imam...",
+          "en": "Pattern: I have..."
+        },
+        "model": {
+          "ru": "У меня есть брат и сестра.",
+          "sl": "Imam brata in sestro.",
+          "en": "I have a brother and a sister."
+        },
+        "prompts": [
+          { "ru": "У меня есть мама и папа.", "sl": "Imam mamo in očeta.", "en": "I have a mom and a dad." },
+          { "ru": "У меня есть бабушка.", "sl": "Imam babico.", "en": "I have a grandma." },
+          { "ru": "У меня нет брата.", "sl": "Nimam brata.", "en": "I don't have a brother." },
+          { "ru": "У меня есть ...", "sl": "Imam ...", "en": "I have ..." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Как правильно сказать: 'my sister' ?",
+          "sl": "Kako pravilno reči: 'my sister'?",
+          "en": "How do you correctly say 'my sister'?"
+        },
+        "options": [
+          { "ru": "мой сестра", "sl": "moj sestra", "en": "(incorrect)" },
+          { "ru": "моя сестра", "sl": "moja sestra", "en": "my sister" },
+          { "ru": "моё сестра", "sl": "moje sestra", "en": "(incorrect)" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "«сестра» — женский род → «моя».",
+          "sl": "«сестра» je ženskega spola → «моя».",
+          "en": "«сестра» is feminine → use «моя»."
+        }
+      },
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: У меня ___ брат.",
+          "sl": "Dopolni: U menja ___ brat.",
+          "en": "Fill in: У меня ___ брат."
+        },
+        "answerText": { "ru": "есть", "sl": "imam", "en": "(there) is / I have" },
+        "explanation": {
+          "ru": "Конструкция: «У меня есть ...» = I have ...",
+          "sl": "Konstrukcija: «У меня есть ...» = imam ...",
+          "en": "Pattern: «У меня есть ...» = I have ..."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 5–7 предложений о своей семье (кто есть, как зовут, сколько лет).",
+      "sl": "Napišite 5–7 stavkov o svoji družini (kdo je, kako mu/ji je ime, koliko je star/a).",
+      "en": "Write 5–7 sentences about your family (who you have, names, ages)."
+    },
+    "checklist": {
+      "ru": ["Используйте 3 притяжательных местоимения", "Добавьте минимум 2 возраста"],
+      "sl": ["Uporabite 3 svojilne zaimke", "Dodajte vsaj 2 starosti"],
+      "en": ["Use 3 possessive pronouns", "Include at least 2 ages"]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Выучите 10 слов по теме «Семья» и составьте 6 словосочетаний (мой/моя/моё).",
+        "sl": "Naučite se 10 besed na temo »Družina« in naredite 6 besednih zvez (мой/моя/моё).",
+        "en": "Learn 10 family words and make 6 phrases using мой/моя/моё."
+      },
+      {
+        "ru": "Запишите голосом (Voice Teacher): «Это моя семья. У меня есть ...»",
+        "sl": "Posnemite (Voice Teacher): «Это моя семья. У меня есть ...»",
+        "en": "Record (Voice Teacher): «Это моя семья. У меня есть ...»"
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В русском часто спрашивают «Сколько тебе лет?» (на «ты») или «Сколько вам лет?» (на «вы»). Ответ: «Мне ... лет».",
+      "sl": "V ruščini pogosto vprašajo «Сколько тебе лет?» (ti) ali «Сколько вам лет?» (vi). Odgovor: «Мне ... лет».",
+      "en": "In Russian you ask «Сколько тебе лет?» (informal) or «Сколько вам лет?» (formal). Reply: «Мне ... лет»."
+    }
+  },
+  "vocabulary": [
+    { "ru": "семья", "sl": "družina", "en": "family" },
+    { "ru": "мама", "sl": "mama", "en": "mom" },
+    { "ru": "папа", "sl": "oče", "en": "dad" },
+    { "ru": "брат", "sl": "brat", "en": "brother" },
+    { "ru": "сестра", "sl": "sestra", "en": "sister" },
+    { "ru": "сын", "sl": "sin", "en": "son" },
+    { "ru": "дочь", "sl": "hči", "en": "daughter" },
+    { "ru": "бабушка", "sl": "babica", "en": "grandma" },
+    { "ru": "дедушка", "sl": "dedek", "en": "grandpa" },
+    { "ru": "муж", "sl": "mož", "en": "husband" },
+    { "ru": "жена", "sl": "žena", "en": "wife" }
+  ],
+  "audioResources": []
+}

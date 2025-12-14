@@ -1,0 +1,331 @@
+{
+  "id": 27,
+  "title": {
+    "ru": "Прогресс (продолжение)",
+    "sl": "Napredek (nadaljevanje)",
+    "en": "Progress (continued)"
+  },
+  "textbookTheme": 21,
+  "phonetics": {
+    "focus": [
+      "Глагол мочь"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "могу",
+          "можешь",
+          "может",
+          "можем",
+          "можете",
+          "могут"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глагол мочь + инфинитив",
+    "explanation": {
+      "ru": "Глагол «мочь» выражает способность или возможность. Спряжение: могу, можешь, может, можем, можете, могут. После него используется инфинитив.",
+      "sl": "Glagol «мочь» izraža sposobnost ali možnost. Spregatev: могу, можешь, может, можем, можете, могут. Za njim se uporablja nedoločnik.",
+      "en": "Grammar focus: Глагол мочь + инфинитив. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Я могу говорить по-русски.",
+        "gender": "",
+        "rule": "I can speak Russian."
+      },
+      {
+        "word": "Ты можешь мне помочь?",
+        "gender": "",
+        "rule": "Can you help me?"
+      },
+      {
+        "word": "Она не может прийти.",
+        "gender": "",
+        "rule": "She can't come."
+      },
+      {
+        "word": "Мы можем начать.",
+        "gender": "",
+        "rule": "We can start."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "conjugation",
+        "instruction": "Проспрягайте глагол «мочь»",
+        "items": [
+          "я ___",
+          "ты ___",
+          "он ___",
+          "мы ___",
+          "вы ___",
+          "они ___"
+        ],
+        "answers": [
+          "могу",
+          "можешь",
+          "может",
+          "можем",
+          "можете",
+          "могут"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Способности и возможности",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Способности и возможности",
+          "sl": "Dialog: Способности и возможности",
+          "en": "Dialogue: Способности и возможности"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Вы можете говорить по-английски?",
+            "sl": "Ali znate govoriti angleško?",
+            "en": "(EN) Вы можете говорить по-английски?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, могу.",
+            "sl": "Da, znam.",
+            "en": "(EN) Да, могу."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы можете мне помочь?",
+            "sl": "Mi lahko pomagate?",
+            "en": "(EN) Вы можете мне помочь?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Конечно, что нужно?",
+            "sl": "Seveda, kaj potrebujete?",
+            "en": "(EN) Конечно, что нужно?"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Вы можете говорить по-английски?",
+        "sl": "Ali znate govoriti angleško?",
+        "audio": null,
+        "en": "(EN) Вы можете говорить по-английски?"
+      },
+      {
+        "ru": "Да, могу.",
+        "sl": "Da, znam.",
+        "audio": null,
+        "en": "(EN) Да, могу."
+      },
+      {
+        "ru": "Вы можете мне помочь?",
+        "sl": "Mi lahko pomagate?",
+        "audio": null,
+        "en": "(EN) Вы можете мне помочь?"
+      },
+      {
+        "ru": "Конечно, что нужно?",
+        "sl": "Seveda, kaj potrebujete?",
+        "audio": null,
+        "en": "(EN) Конечно, что нужно?"
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "мочь",
+      "sl": "moči",
+      "en": "(EN) мочь"
+    },
+    {
+      "ru": "уметь",
+      "sl": "znati",
+      "en": "(EN) уметь"
+    },
+    {
+      "ru": "способность",
+      "sl": "sposobnost",
+      "en": "(EN) способность"
+    },
+    {
+      "ru": "возможность",
+      "sl": "možnost",
+      "en": "(EN) возможность"
+    },
+    {
+      "ru": "помочь",
+      "sl": "pomagati",
+      "en": "(EN) помочь"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Способности и возможности»",
+      "Практиковать грамматику: Глагол мочь + инфинитив",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Прогресс (продолжение)»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Способности и возможности«",
+      "Vaditi slovnico: Глагол мочь + инфинитив",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Прогресс (продолжение)«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Способности и возможности”",
+      "Practice grammar: Глагол мочь + инфинитив",
+      "Build 6–8 simple sentences and a mini-dialogue for “Прогресс (продолжение)”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "мочь",
+            "sl": "moči",
+            "en": "(EN) мочь"
+          },
+          {
+            "ru": "уметь",
+            "sl": "znati",
+            "en": "(EN) уметь"
+          },
+          {
+            "ru": "способность",
+            "sl": "sposobnost",
+            "en": "(EN) способность"
+          },
+          {
+            "ru": "возможность",
+            "sl": "možnost",
+            "en": "(EN) возможность"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "мочь",
+            "sl": "moči",
+            "en": "(EN) мочь"
+          },
+          {
+            "ru": "уметь",
+            "sl": "znati",
+            "en": "(EN) уметь"
+          },
+          {
+            "ru": "способность",
+            "sl": "sposobnost",
+            "en": "(EN) способность"
+          },
+          {
+            "ru": "возможность",
+            "sl": "možnost",
+            "en": "(EN) возможность"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Прогресс (продолжение)».",
+      "sl": "Napišite 6–8 stavkov na temo »Napredek (nadaljevanje)«.",
+      "en": "Write 6–8 sentences about “Progress (continued)”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "id": 8,
+  "title": {
+    "ru": "Покупки",
+    "sl": "Nakupovanje",
+    "en": "Shopping"
+  },
+  "textbookTheme": 8,
+  "phonetics": {
+    "focus": [
+      "numbers 11-100",
+      "stress in numbers"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "одиннадцать",
+          "двадцать",
+          "тридцать",
+          "сто",
+          "рубль",
+          "копейка"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Числительные и родительный падеж",
+    "explanation": {
+      "ru": "После числительных 2, 3, 4 используется родительный падеж единственного числа. После 5-20 — родительный падеж множественного числа.",
+      "sl": "Po številnikih 2, 3, 4 se uporablja rodilnik ednine. Po 5-20 — rodilnik množine.",
+      "en": "Grammar focus: Числительные и родительный падеж. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "один рубль",
+        "gender": "",
+        "rule": "1 + nominative"
+      },
+      {
+        "word": "два рубля",
+        "gender": "",
+        "rule": "2-4 + genitive singular"
+      },
+      {
+        "word": "пять рублей",
+        "gender": "",
+        "rule": "5-20 + genitive plural"
+      },
+      {
+        "word": "двадцать один рубль",
+        "gender": "",
+        "rule": "21 + nominative"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "number-noun",
+        "instruction": "Напишите правильную форму слова «рубль»",
+        "items": [
+          "3 ___",
+          "7 ___",
+          "21 ___",
+          "100 ___"
+        ],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "В магазине",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: В магазине",
+          "sl": "Dialog: В магазине",
+          "en": "Dialogue: В магазине"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Сколько это стоит?",
+            "sl": "Koliko to stane?",
+            "en": "(EN) Сколько это стоит?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Это стоит сто рублей.",
+            "sl": "To stane sto rubljev.",
+            "en": "(EN) Это стоит сто рублей."
+          },
+          {
+            "speaker": "A",
+            "ru": "Можно посмотреть?",
+            "sl": "Lahko pogledam?",
+            "en": "(EN) Можно посмотреть?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я возьму это.",
+            "sl": "Vzel/a bom to.",
+            "en": "(EN) Я возьму это."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы принимаете карты?",
+            "sl": "Sprejemate kartice?",
+            "en": "(EN) Вы принимаете карты?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, конечно.",
+            "sl": "Da, seveda.",
+            "en": "(EN) Да, конечно."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Сколько это стоит?",
+        "sl": "Koliko to stane?",
+        "audio": null,
+        "en": "(EN) Сколько это стоит?"
+      },
+      {
+        "ru": "Это стоит сто рублей.",
+        "sl": "To stane sto rubljev.",
+        "audio": null,
+        "en": "(EN) Это стоит сто рублей."
+      },
+      {
+        "ru": "Можно посмотреть?",
+        "sl": "Lahko pogledam?",
+        "audio": null,
+        "en": "(EN) Можно посмотреть?"
+      },
+      {
+        "ru": "Я возьму это.",
+        "sl": "Vzel/a bom to.",
+        "audio": null,
+        "en": "(EN) Я возьму это."
+      },
+      {
+        "ru": "Вы принимаете карты?",
+        "sl": "Sprejemate kartice?",
+        "audio": null,
+        "en": "(EN) Вы принимаете карты?"
+      },
+      {
+        "ru": "Да, конечно.",
+        "sl": "Da, seveda.",
+        "audio": null,
+        "en": "(EN) Да, конечно."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "магазин",
+      "sl": "trgovina",
+      "en": "(EN) магазин"
+    },
+    {
+      "ru": "цена",
+      "sl": "cena",
+      "en": "(EN) цена"
+    },
+    {
+      "ru": "деньги",
+      "sl": "denar",
+      "en": "(EN) деньги"
+    },
+    {
+      "ru": "рубль",
+      "sl": "rubelj",
+      "en": "(EN) рубль"
+    },
+    {
+      "ru": "дорого",
+      "sl": "drago",
+      "en": "(EN) дорого"
+    },
+    {
+      "ru": "дёшево",
+      "sl": "poceni",
+      "en": "(EN) дёшево"
+    },
+    {
+      "ru": "покупать",
+      "sl": "kupovati",
+      "en": "(EN) покупать"
+    },
+    {
+      "ru": "продавать",
+      "sl": "prodajati",
+      "en": "(EN) продавать"
+    },
+    {
+      "ru": "касса",
+      "sl": "blagajna",
+      "en": "(EN) касса"
+    },
+    {
+      "ru": "чек",
+      "sl": "račun",
+      "en": "(EN) чек"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «В магазине»",
+      "Практиковать грамматику: Числительные и родительный падеж",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Покупки»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »В магазине«",
+      "Vaditi slovnico: Числительные и родительный падеж",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Покупки«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “В магазине”",
+      "Practice grammar: Числительные и родительный падеж",
+      "Build 6–8 simple sentences and a mini-dialogue for “Покупки”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "магазин",
+            "sl": "trgovina",
+            "en": "(EN) магазин"
+          },
+          {
+            "ru": "цена",
+            "sl": "cena",
+            "en": "(EN) цена"
+          },
+          {
+            "ru": "деньги",
+            "sl": "denar",
+            "en": "(EN) деньги"
+          },
+          {
+            "ru": "рубль",
+            "sl": "rubelj",
+            "en": "(EN) рубль"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "магазин",
+            "sl": "trgovina",
+            "en": "(EN) магазин"
+          },
+          {
+            "ru": "цена",
+            "sl": "cena",
+            "en": "(EN) цена"
+          },
+          {
+            "ru": "деньги",
+            "sl": "denar",
+            "en": "(EN) деньги"
+          },
+          {
+            "ru": "рубль",
+            "sl": "rubelj",
+            "en": "(EN) рубль"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Покупки».",
+      "sl": "Napišite 6–8 stavkov na temo »Nakupovanje«.",
+      "en": "Write 6–8 sentences about “Shopping”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

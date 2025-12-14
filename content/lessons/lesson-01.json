@@ -1,0 +1,218 @@
+{
+  "id": 1,
+  "title": {
+    "ru": "Фонетика и азбука",
+    "sl": "Fonetika in abeceda",
+    "en": "Phonetics and Alphabet"
+  },
+  "textbookTheme": 1,
+  "objectives": {
+    "ru": [
+      "Распознавать и произносить базовые гласные А/О/У/Э/И/Ы",
+      "Читать простые слоги (ма, мо, му, мы) и короткие слова",
+      "Поздороваться и попрощаться в формальной и неформальной ситуации"
+    ],
+    "sl": [
+      "Prepoznati in izgovoriti osnovne samoglasnike А/О/У/Э/И/Ы",
+      "Prebrati preproste zloge (ма, мо, му, мы) in kratke besede",
+      "Pozdraviti in se posloviti v formalnih in neformalnih situacijah"
+    ],
+    "en": [
+      "Recognize and pronounce the core vowels А/О/У/Э/И/Ы",
+      "Read simple syllables (ма, мо, му, мы) and short words",
+      "Greet and say goodbye in formal and informal situations"
+    ]
+  },
+  "phonetics": {
+    "focus": ["А", "О", "У", "Э", "И", "Ы"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["а", "о", "у", "э", "и", "ы", "ма", "мо", "му", "мы"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Кириллица — русский алфавит",
+    "explanation": {
+      "ru": "Русский алфавит состоит из 33 букв: 10 гласных, 21 согласная и 2 знака (ъ, ь). Многие буквы похожи на латинские, но произносятся по-другому.",
+      "sl": "Ruska abeceda ima 33 črk: 10 samoglasnikov, 21 soglasnikov in 2 znaka (ъ, ь). Mnoge črke so podobne latinskim, a se izgovarjajo drugače."
+    },
+    "examples": [
+      { "word": "А а", "gender": "", "rule": "a (as in 'father')" },
+      { "word": "Б б", "gender": "", "rule": "b" },
+      { "word": "В в", "gender": "", "rule": "v" },
+      { "word": "Г г", "gender": "", "rule": "g" },
+      { "word": "Д д", "gender": "", "rule": "d" },
+      { "word": "Е е", "gender": "", "rule": "ye" }
+    ],
+    "exercises": [
+      {
+        "type": "matching",
+        "instruction": "Соедините буквы с их звуками",
+        "items": ["А", "Б", "В", "Г", "Д", "Е"],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Приветствие",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог 1: В аудитории",
+          "sl": "Dialog 1: V učilnici",
+          "en": "Dialogue 1: In the classroom"
+        },
+        "context": {
+          "ru": "Два студента знакомятся перед занятием.",
+          "sl": "Dva študenta se spoznata pred uro.",
+          "en": "Two students meet before class."
+        },
+        "lines": [
+          {
+            "speaker": "Аня",
+            "ru": "Привет!",
+            "sl": "Zdravo!",
+            "en": "Hi!"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Привет! Как дела?",
+            "sl": "Zdravo! Kako si?",
+            "en": "Hi! How are you?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Хорошо, спасибо. А у тебя?",
+            "sl": "Dobro, hvala. In ti?",
+            "en": "Good, thanks. And you?"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Тоже хорошо. До встречи!",
+            "sl": "Tudi dobro. Se vidimo!",
+            "en": "Good too. See you!"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "До встречи!",
+            "sl": "Se vidimo!",
+            "en": "See you!"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Привет!", "sl": "Zdravo!", "en": "Hi!", "audio": null },
+      { "ru": "Здравствуйте!", "sl": "Pozdravljeni!", "en": "Hello! (formal)", "audio": null },
+      { "ru": "Доброе утро!", "sl": "Dobro jutro!", "en": "Good morning!", "audio": null },
+      { "ru": "Добрый день!", "sl": "Dober dan!", "en": "Good afternoon!", "audio": null },
+      { "ru": "Добрый вечер!", "sl": "Dober večer!", "en": "Good evening!", "audio": null },
+      { "ru": "До свидания!", "sl": "Nasvidenje!", "en": "Goodbye!", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Приветствие",
+          "sl": "Vzorec: Pozdrav",
+          "en": "Pattern: Greeting"
+        },
+        "model": {
+          "ru": "Привет! — Привет!",
+          "sl": "Zdravo! — Zdravo!",
+          "en": "Hi! — Hi!"
+        },
+        "prompts": [
+          { "ru": "Здравствуйте! — ...", "sl": "Pozdravljeni! — ...", "en": "Hello! (formal) — ..." },
+          { "ru": "Доброе утро! — ...", "sl": "Dobro jutro! — ...", "en": "Good morning! — ..." },
+          { "ru": "До свидания! — ...", "sl": "Nasvidenje! — ...", "en": "Goodbye! — ..." },
+          { "ru": "Привет! Как дела? — ...", "sl": "Zdravo! Kako si? — ...", "en": "Hi! How are you? — ..." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Какое слово подходит для формального приветствия?",
+          "sl": "Katera beseda je primerna za formalni pozdrav?",
+          "en": "Which word is appropriate for a formal greeting?"
+        },
+        "options": [
+          { "ru": "Привет!", "sl": "Zdravo!", "en": "Hi!" },
+          { "ru": "Здравствуйте!", "sl": "Pozdravljeni!", "en": "Hello! (formal)" },
+          { "ru": "Пока!", "sl": "Čau!", "en": "Bye!" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "«Здравствуйте!» — нейтрально-вежливая форма.",
+          "sl": "«Здравствуйте!» je nevtralno-vljudna oblika.",
+          "en": "«Здравствуйте!» is a neutral polite form."
+        }
+      },
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Добрый ___! (днём)",
+          "sl": "Dopolni: Dobry ___! (podnevi)",
+          "en": "Fill in: Добрый ___! (in the daytime)"
+        },
+        "answerText": { "ru": "день", "sl": "dan", "en": "day" },
+        "explanation": {
+          "ru": "Говорим «Добрый день!» днём.",
+          "sl": "Podnevi rečemo «Добрый день!».",
+          "en": "We say «Добрый день!» during the day."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 3 коротких реплики: (1) приветствие, (2) вопрос «Как дела?», (3) прощание.",
+      "sl": "Napišite 3 kratke replike: (1) pozdrav, (2) vprašanje «Kako si?», (3) slovo.",
+      "en": "Write 3 short lines: (1) a greeting, (2) the question “How are you?”, (3) a goodbye."
+    },
+    "checklist": {
+      "ru": ["Используйте минимум 2 разных приветствия", "Добавьте «спасибо» хотя бы один раз"],
+      "sl": ["Uporabite vsaj 2 različna pozdrava", "Dodajte «спасибо» vsaj enkrat"],
+      "en": ["Use at least 2 different greetings", "Include «спасибо» at least once"]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Тренируйте звуки А/О/У/Э/И/Ы: прочитайте вслух слоги ма-мо-му-мы 5 раз.",
+        "sl": "Vadite samoglasnike A/O/U/E/I/Y: 5× preberite zloge ma-mo-mu-my.",
+        "en": "Practice the vowels A/O/U/E/I/Y: read the syllables ma-mo-mu-my aloud 5 times."
+      },
+      {
+        "ru": "Запишите голосом (в Voice Teacher) 3 приветствия и одно прощание.",
+        "sl": "Posnemite (v Voice Teacher) 3 pozdrave in eno slovo.",
+        "en": "Record (in Voice Teacher) 3 greetings and one goodbye."
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В России часто используют «Здравствуйте!» с незнакомыми людьми и в официальной обстановке. «Привет!» — для друзей и ровесников.",
+      "sl": "V Rusiji se «Здравствуйте!» pogosto uporablja z neznanci in v uradnih situacijah. «Привет!» je za prijatelje.",
+      "en": "In Russian, «Здравствуйте!» is common with strangers and in formal contexts. «Привет!» is for friends/peers."
+    }
+  },
+  "vocabulary": [
+    { "ru": "привет", "sl": "zdravo", "en": "hi" },
+    { "ru": "здравствуйте", "sl": "pozdravljeni", "en": "hello (formal)" },
+    { "ru": "да", "sl": "da", "en": "yes" },
+    { "ru": "нет", "sl": "ne", "en": "no" },
+    { "ru": "спасибо", "sl": "hvala", "en": "thank you" },
+    { "ru": "пожалуйста", "sl": "prosim", "en": "please / you're welcome" }
+  ],
+  "audioResources": []
+}

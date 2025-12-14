@@ -1,0 +1,360 @@
+{
+  "id": 15,
+  "title": {
+    "ru": "Интересы и планы",
+    "sl": "Interesi in načrti",
+    "en": "Interests and plans"
+  },
+  "textbookTheme": 14,
+  "phonetics": {
+    "focus": [
+      "Винительный падеж одушевлённых существительных"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "вижу брата",
+          "знаю сестру",
+          "люблю маму",
+          "жду друга",
+          "встречаю подругу"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Винительный падеж существительных (Accusative case)",
+    "explanation": {
+      "ru": "Винительный падеж отвечает на вопросы кого? что? Для одушевлённых м.р. форма = родительному падежу. Для ж.р.: -а → -у, -я → -ю. Для неодушевлённых = именительному.",
+      "sl": "Tožilnik odgovarja na vprašanja koga? kaj? Za žive m.r. je oblika = rodilniku. Za ž.r.: -а → -у, -я → -ю. Za nežive = imenovalniku.",
+      "en": "Grammar focus: Винительный падеж существительных (Accusative case). See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "брат → брата",
+        "gender": "м одуш",
+        "rule": "animate masculine"
+      },
+      {
+        "word": "сестра → сестру",
+        "gender": "ж",
+        "rule": "-а → -у"
+      },
+      {
+        "word": "книга → книгу",
+        "gender": "ж",
+        "rule": "-а → -у"
+      },
+      {
+        "word": "стол → стол",
+        "gender": "м неодуш",
+        "rule": "inanimate = nominative"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Поставьте слова в винительный падеж",
+        "items": [
+          "Я вижу (брат).",
+          "Она любит (музыка).",
+          "Мы ждём (друг).",
+          "Они знают (Анна)."
+        ],
+        "answers": [
+          "брата",
+          "музыку",
+          "друга",
+          "Анну"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Интересы и планы",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Интересы и планы",
+          "sl": "Dialog: Интересы и планы",
+          "en": "Dialogue: Интересы и планы"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какие у вас планы на выходные?",
+            "sl": "Kakšne načrte imate za vikend?",
+            "en": "(EN) Какие у вас планы на выходные?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я хочу посмотреть новый фильм.",
+            "sl": "Želim si ogledati nov film.",
+            "en": "(EN) Я хочу посмотреть новый фильм."
+          },
+          {
+            "speaker": "A",
+            "ru": "Кого вы ждёте?",
+            "sl": "Koga čakate?",
+            "en": "(EN) Кого вы ждёте?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я жду друга.",
+            "sl": "Čakam prijatelja.",
+            "en": "(EN) Я жду друга."
+          },
+          {
+            "speaker": "A",
+            "ru": "Что вы любите читать?",
+            "sl": "Kaj radi berete?",
+            "en": "(EN) Что вы любите читать?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я люблю читать детективы.",
+            "sl": "Rad/a berem detektivke.",
+            "en": "(EN) Я люблю читать детективы."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какие у вас планы на выходные?",
+        "sl": "Kakšne načrte imate za vikend?",
+        "audio": null,
+        "en": "(EN) Какие у вас планы на выходные?"
+      },
+      {
+        "ru": "Я хочу посмотреть новый фильм.",
+        "sl": "Želim si ogledati nov film.",
+        "audio": null,
+        "en": "(EN) Я хочу посмотреть новый фильм."
+      },
+      {
+        "ru": "Кого вы ждёте?",
+        "sl": "Koga čakate?",
+        "audio": null,
+        "en": "(EN) Кого вы ждёте?"
+      },
+      {
+        "ru": "Я жду друга.",
+        "sl": "Čakam prijatelja.",
+        "audio": null,
+        "en": "(EN) Я жду друга."
+      },
+      {
+        "ru": "Что вы любите читать?",
+        "sl": "Kaj radi berete?",
+        "audio": null,
+        "en": "(EN) Что вы любите читать?"
+      },
+      {
+        "ru": "Я люблю читать детективы.",
+        "sl": "Rad/a berem detektivke.",
+        "audio": null,
+        "en": "(EN) Я люблю читать детективы."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "план",
+      "sl": "načrt",
+      "en": "(EN) план"
+    },
+    {
+      "ru": "интерес",
+      "sl": "interes",
+      "en": "(EN) интерес"
+    },
+    {
+      "ru": "выходные",
+      "sl": "vikend",
+      "en": "(EN) выходные"
+    },
+    {
+      "ru": "ждать",
+      "sl": "čakati",
+      "en": "(EN) ждать"
+    },
+    {
+      "ru": "встречать",
+      "sl": "srečati",
+      "en": "(EN) встречать"
+    },
+    {
+      "ru": "видеть",
+      "sl": "videti",
+      "en": "(EN) видеть"
+    },
+    {
+      "ru": "знать",
+      "sl": "vedeti/poznati",
+      "en": "(EN) знать"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Интересы и планы»",
+      "Практиковать грамматику: Винительный падеж существительных (Accusative case)",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Интересы и планы»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Интересы и планы«",
+      "Vaditi slovnico: Винительный падеж существительных (Accusative case)",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Интересы и планы«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Интересы и планы”",
+      "Practice grammar: Винительный падеж существительных (Accusative case)",
+      "Build 6–8 simple sentences and a mini-dialogue for “Интересы и планы”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "план",
+            "sl": "načrt",
+            "en": "(EN) план"
+          },
+          {
+            "ru": "интерес",
+            "sl": "interes",
+            "en": "(EN) интерес"
+          },
+          {
+            "ru": "выходные",
+            "sl": "vikend",
+            "en": "(EN) выходные"
+          },
+          {
+            "ru": "ждать",
+            "sl": "čakati",
+            "en": "(EN) ждать"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "план",
+            "sl": "načrt",
+            "en": "(EN) план"
+          },
+          {
+            "ru": "интерес",
+            "sl": "interes",
+            "en": "(EN) интерес"
+          },
+          {
+            "ru": "выходные",
+            "sl": "vikend",
+            "en": "(EN) выходные"
+          },
+          {
+            "ru": "ждать",
+            "sl": "čakati",
+            "en": "(EN) ждать"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Интересы и планы».",
+      "sl": "Napišite 6–8 stavkov na temo »Interesi in načrti«.",
+      "en": "Write 6–8 sentences about “Interests and plans”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

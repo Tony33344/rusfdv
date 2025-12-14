@@ -1,0 +1,367 @@
+{
+  "id": 20,
+  "title": {
+    "ru": "Качество и характеристики (продолжение)",
+    "sl": "Kakovost in lastnosti (nadaljevanje)",
+    "en": "Quality and characteristics (continued)"
+  },
+  "textbookTheme": 18,
+  "phonetics": {
+    "focus": [
+      "Мягкие и твёрдые основы прилагательных"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "синий",
+          "синяя",
+          "синее",
+          "последний",
+          "последняя",
+          "домашний",
+          "домашняя"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Прилагательные с мягкой основой",
+    "explanation": {
+      "ru": "Прилагательные с мягкой основой (на -н-, -к-, -г-, -х-) имеют окончания: м.р. -ий, ж.р. -яя, ср.р. -ее, мн.ч. -ие. Примеры: синий, последний, домашний.",
+      "sl": "Pridevniki z mehko osnovo (na -н-, -к-, -г-, -х-) imajo končnice: m. -ий, ž. -яя, sr. -ее, mn. -ие. Primeri: синий, последний, домашний.",
+      "en": "Grammar focus: Прилагательные с мягкой основой. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "синий карандаш",
+        "gender": "м",
+        "rule": "soft stem -ий"
+      },
+      {
+        "word": "синяя ручка",
+        "gender": "ж",
+        "rule": "soft stem -яя"
+      },
+      {
+        "word": "синее море",
+        "gender": "ср",
+        "rule": "soft stem -ее"
+      },
+      {
+        "word": "последний раз",
+        "gender": "м",
+        "rule": "soft stem"
+      },
+      {
+        "word": "домашнее задание",
+        "gender": "ср",
+        "rule": "soft stem"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "agreement",
+        "instruction": "Согласуйте прилагательное «синий» с существительным",
+        "items": [
+          "___ небо",
+          "___ машина",
+          "___ цвет",
+          "___ глаза"
+        ],
+        "answers": [
+          "синее",
+          "синяя",
+          "синий",
+          "синие"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Описание предметов",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Описание предметов",
+          "sl": "Dialog: Описание предметов",
+          "en": "Dialogue: Описание предметов"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какого цвета ваша машина?",
+            "sl": "Kakšne barve je vaš avto?",
+            "en": "(EN) Какого цвета ваша машина?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Моя машина синяя.",
+            "sl": "Moj avto je moder.",
+            "en": "(EN) Моя машина синяя."
+          },
+          {
+            "speaker": "A",
+            "ru": "Это последний автобус?",
+            "sl": "Je to zadnji avtobus?",
+            "en": "(EN) Это последний автобус?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, последний.",
+            "sl": "Da, zadnji.",
+            "en": "(EN) Да, последний."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы сделали домашнее задание?",
+            "sl": "Ste naredili domačo nalogo?",
+            "en": "(EN) Вы сделали домашнее задание?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, сделал(а).",
+            "sl": "Da, naredil/a sem.",
+            "en": "(EN) Да, сделал(а)."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какого цвета ваша машина?",
+        "sl": "Kakšne barve je vaš avto?",
+        "audio": null,
+        "en": "(EN) Какого цвета ваша машина?"
+      },
+      {
+        "ru": "Моя машина синяя.",
+        "sl": "Moj avto je moder.",
+        "audio": null,
+        "en": "(EN) Моя машина синяя."
+      },
+      {
+        "ru": "Это последний автобус?",
+        "sl": "Je to zadnji avtobus?",
+        "audio": null,
+        "en": "(EN) Это последний автобус?"
+      },
+      {
+        "ru": "Да, последний.",
+        "sl": "Da, zadnji.",
+        "audio": null,
+        "en": "(EN) Да, последний."
+      },
+      {
+        "ru": "Вы сделали домашнее задание?",
+        "sl": "Ste naredili domačo nalogo?",
+        "audio": null,
+        "en": "(EN) Вы сделали домашнее задание?"
+      },
+      {
+        "ru": "Да, сделал(а).",
+        "sl": "Da, naredil/a sem.",
+        "audio": null,
+        "en": "(EN) Да, сделал(а)."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "синий",
+      "sl": "moder",
+      "en": "(EN) синий"
+    },
+    {
+      "ru": "последний",
+      "sl": "zadnji",
+      "en": "(EN) последний"
+    },
+    {
+      "ru": "домашний",
+      "sl": "domač",
+      "en": "(EN) домашний"
+    },
+    {
+      "ru": "летний",
+      "sl": "poletni",
+      "en": "(EN) летний"
+    },
+    {
+      "ru": "зимний",
+      "sl": "zimski",
+      "en": "(EN) зимний"
+    },
+    {
+      "ru": "утренний",
+      "sl": "jutranji",
+      "en": "(EN) утренний"
+    },
+    {
+      "ru": "вечерний",
+      "sl": "večerni",
+      "en": "(EN) вечерний"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Описание предметов»",
+      "Практиковать грамматику: Прилагательные с мягкой основой",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Качество и характеристики (продолжение)»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Описание предметов«",
+      "Vaditi slovnico: Прилагательные с мягкой основой",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Качество и характеристики (продолжение)«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Описание предметов”",
+      "Practice grammar: Прилагательные с мягкой основой",
+      "Build 6–8 simple sentences and a mini-dialogue for “Качество и характеристики (продолжение)”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "синий",
+            "sl": "moder",
+            "en": "(EN) синий"
+          },
+          {
+            "ru": "последний",
+            "sl": "zadnji",
+            "en": "(EN) последний"
+          },
+          {
+            "ru": "домашний",
+            "sl": "domač",
+            "en": "(EN) домашний"
+          },
+          {
+            "ru": "летний",
+            "sl": "poletni",
+            "en": "(EN) летний"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "синий",
+            "sl": "moder",
+            "en": "(EN) синий"
+          },
+          {
+            "ru": "последний",
+            "sl": "zadnji",
+            "en": "(EN) последний"
+          },
+          {
+            "ru": "домашний",
+            "sl": "domač",
+            "en": "(EN) домашний"
+          },
+          {
+            "ru": "летний",
+            "sl": "poletni",
+            "en": "(EN) летний"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Качество и характеристики (продолжение)».",
+      "sl": "Napišite 6–8 stavkov na temo »Kakovost in lastnosti (nadaljevanje)«.",
+      "en": "Write 6–8 sentences about “Quality and characteristics (continued)”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": 2,
+  "title": {
+    "ru": "Знакомство",
+    "sl": "Spoznavanje",
+    "en": "Getting acquainted"
+  },
+  "textbookTheme": 2,
+  "objectives": {
+    "ru": [
+      "Спросить и сказать имя (Как вас зовут? Меня зовут ...)",
+      "Спросить откуда человек (Откуда вы?)",
+      "Понять базовый принцип рода существительных"
+    ],
+    "sl": [
+      "Vprašati in povedati ime (Как вас зовут? Меня зовут ...)",
+      "Vprašati od kod je oseba (Откуда вы?)",
+      "Razumeti osnovni princip spola samostalnikov"
+    ],
+    "en": [
+      "Ask and say your name (Как вас зовут? Меня зовут ...)",
+      "Ask where someone is from (Откуда вы?)",
+      "Understand the basic idea of noun gender"
+    ]
+  },
+  "phonetics": {
+    "focus": ["Й", "Е", "Ё", "Ю", "Я"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["я", "ты", "он", "она", "мы", "вы", "они"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Род существительных",
+    "explanation": {
+      "ru": "В русском языке три рода: мужской (он), женский (она), средний (оно). Род определяется по окончанию: согласная/й → м.р., -а/-я → ж.р., -о/-е → ср.р.",
+      "sl": "V ruščini so trije spoli: moški (on), ženski (ona), srednji (ono). Spol se določi po končnici: soglasnik/й → m., -а/-я → ž., -о/-е → sr.",
+      "en": "Russian has three grammatical genders: masculine (он), feminine (она), neuter (оно). Often you can guess gender by the ending: consonant/й → masc, -а/-я → fem, -о/-е → neut."
+    },
+    "examples": [
+      { "word": "студент", "gender": "м", "rule": "consonant ending" },
+      { "word": "книга", "gender": "ж", "rule": "-а ending" },
+      { "word": "окно", "gender": "ср", "rule": "-о ending" },
+      { "word": "музей", "gender": "м", "rule": "-й ending" },
+      { "word": "неделя", "gender": "ж", "rule": "-я ending" }
+    ],
+    "exercises": [
+      {
+        "type": "sorting",
+        "instruction": "Распределите слова по родам",
+        "items": ["дом", "машина", "море", "друг", "подруга", "письмо"],
+        "categories": ["мужской", "женский", "средний"]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Как вас зовут?",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Первое знакомство",
+          "sl": "Dialog: Prvo spoznavanje",
+          "en": "Dialogue: First meeting"
+        },
+        "context": {
+          "ru": "Студенты встречаются в коридоре университета.",
+          "sl": "Študenta se srečata na hodniku univerze.",
+          "en": "Students meet in the university hallway."
+        },
+        "lines": [
+          {
+            "speaker": "Аня",
+            "ru": "Здравствуйте! Как вас зовут?",
+            "sl": "Pozdravljeni! Kako vam je ime?",
+            "en": "Hello! What's your name? (formal)"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Меня зовут Тони. А вас?",
+            "sl": "Ime mi je Toni. In vi?",
+            "en": "My name is Toni. And you?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Меня зовут Анна. Очень приятно!",
+            "sl": "Ime mi je Ana. Zelo mi je drago!",
+            "en": "My name is Anna. Nice to meet you!"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Очень приятно. Откуда вы?",
+            "sl": "Zelo mi je drago. Od kod ste?",
+            "en": "Nice to meet you. Where are you from?"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Я из Словении. А вы из России?",
+            "sl": "Iz Slovenije sem. Ste vi iz Rusije?",
+            "en": "I'm from Slovenia. Are you from Russia?"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Нет, я тоже из Словении. Я учу русский язык.",
+            "sl": "Ne, tudi jaz sem iz Slovenije. Učim se ruščino.",
+            "en": "No, I'm also from Slovenia. I’m learning Russian."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Как вас зовут?", "sl": "Kako vam je ime?", "en": "What's your name? (formal)", "audio": null },
+      { "ru": "Меня зовут Анна.", "sl": "Ime mi je Ana.", "en": "My name is Anna.", "audio": null },
+      { "ru": "Очень приятно!", "sl": "Zelo mi je drago!", "en": "Nice to meet you!", "audio": null },
+      { "ru": "Откуда вы?", "sl": "Od kod ste?", "en": "Where are you from?", "audio": null },
+      { "ru": "Я из Словении.", "sl": "Iz Slovenije sem.", "en": "I'm from Slovenia.", "audio": null },
+      { "ru": "Вы говорите по-русски?", "sl": "Ali govorite rusko?", "en": "Do you speak Russian?", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Меня зовут...",
+          "sl": "Vzorec: Ime mi je...",
+          "en": "Pattern: My name is..."
+        },
+        "model": {
+          "ru": "Меня зовут Анна.",
+          "sl": "Ime mi je Ana.",
+          "en": "My name is Anna."
+        },
+        "prompts": [
+          { "ru": "Меня зовут Мария.", "sl": "Ime mi je Marija.", "en": "My name is Maria." },
+          { "ru": "Меня зовут Том.", "sl": "Ime mi je Tom.", "en": "My name is Tom." },
+          { "ru": "Меня зовут Алекс.", "sl": "Ime mi je Aleks.", "en": "My name is Alex." },
+          { "ru": "Меня зовут ...", "sl": "Ime mi je ...", "en": "My name is ..." }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я из...",
+          "sl": "Vzorec: Sem iz...",
+          "en": "Pattern: I'm from..."
+        },
+        "model": {
+          "ru": "Я из Словении.",
+          "sl": "Iz Slovenije sem.",
+          "en": "I'm from Slovenia."
+        },
+        "prompts": [
+          { "ru": "Я из Любляны.", "sl": "Iz Ljubljane sem.", "en": "I'm from Ljubljana." },
+          { "ru": "Я из Марибора.", "sl": "Iz Maribora sem.", "en": "I'm from Maribor." },
+          { "ru": "Я из России.", "sl": "Iz Rusije sem.", "en": "I'm from Russia." },
+          { "ru": "Я из ...", "sl": "Sem iz ...", "en": "I'm from ..." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Как спросить имя вежливо?",
+          "sl": "Kako vljudno vprašati za ime?",
+          "en": "How do you politely ask someone's name?"
+        },
+        "options": [
+          { "ru": "Как тебя зовут?", "sl": "Kako ti je ime?", "en": "What's your name? (informal)" },
+          { "ru": "Как вас зовут?", "sl": "Kako vam je ime?", "en": "What's your name? (formal)" },
+          { "ru": "Где ты живёшь?", "sl": "Kje živiš?", "en": "Where do you live?" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "«вас» используется в вежливой форме обращения.",
+          "sl": "«вас» je vljudna oblika nagovora.",
+          "en": "«вас» is used for polite/formal address."
+        }
+      },
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Меня ___ Тони.",
+          "sl": "Dopolni: Menja ___ Toni.",
+          "en": "Fill in: Меня ___ Toni."
+        },
+        "answerText": { "ru": "зовут", "sl": "ime mi je (dobesedno: kličejo)", "en": "(they) call (me)" },
+        "explanation": {
+          "ru": "Устойчивое выражение: «Меня зовут ...».",
+          "sl": "Ustaljena fraza: «Меня зовут ...».",
+          "en": "Fixed phrase: «Меня зовут ...» (My name is...)."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите мини-знакомство (3–5 предложений): имя, откуда вы, что вы изучаете.",
+      "sl": "Napišite kratko predstavitev (3–5 stavkov): ime, od kod ste, kaj študirate.",
+      "en": "Write a short self-introduction (3–5 sentences): name, where you're from, what you study."
+    },
+    "checklist": {
+      "ru": ["Используйте «Меня зовут ...»", "Используйте «Я из ...»", "Добавьте одно «Очень приятно!»"],
+      "sl": ["Uporabite «Меня зовут ...»", "Uporabite «Я из ...»", "Dodajte «Очень приятно!»"],
+      "en": ["Use «Меня зовут ...»", "Use «Я из ...»", "Add one «Очень приятно!»"]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Выучите 8 слов из словаря и составьте 4 предложения (2 про имя, 2 про страну/город).",
+        "sl": "Naučite se 8 besed iz slovarja in napišite 4 stavke (2 o imenu, 2 o državi/mestu).",
+        "en": "Learn 8 vocabulary words and write 4 sentences (2 about names, 2 about country/city)."
+      },
+      {
+        "ru": "Запишите голосом (Voice Teacher): «Здравствуйте! Меня зовут ... Я из ...»",
+        "sl": "Posnemite (Voice Teacher): «Здравствуйте! Меня зовут ... Я из ...»",
+        "en": "Record (Voice Teacher): «Здравствуйте! Меня зовут ... Я из ...»"
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В русском часто говорят «Очень приятно!» после знакомства. Это нейтрально и уместно почти всегда.",
+      "sl": "V ruščini po spoznanju pogosto rečejo «Очень приятно!». To je nevtralno in skoraj vedno primerno.",
+      "en": "In Russian it’s common to say «Очень приятно!» after introductions. It’s neutral and widely appropriate."
+    }
+  },
+  "vocabulary": [
+    { "ru": "имя", "sl": "ime", "en": "name" },
+    { "ru": "фамилия", "sl": "priimek", "en": "surname" },
+    { "ru": "студент", "sl": "študent", "en": "student (m.)" },
+    { "ru": "студентка", "sl": "študentka", "en": "student (f.)" },
+    { "ru": "университет", "sl": "univerza", "en": "university" },
+    { "ru": "страна", "sl": "država", "en": "country" },
+    { "ru": "город", "sl": "mesto", "en": "city" },
+    { "ru": "язык", "sl": "jezik", "en": "language" }
+  ],
+  "audioResources": []
+}

@@ -1,0 +1,334 @@
+{
+  "id": 11,
+  "title": {
+    "ru": "Семья",
+    "sl": "Družina",
+    "en": "Family"
+  },
+  "textbookTheme": 10,
+  "phonetics": {
+    "focus": [
+      "Притяжательные местоимения",
+      "нерегулярные формы"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "мой",
+          "твой",
+          "его",
+          "её",
+          "наш",
+          "ваш",
+          "их",
+          "дети",
+          "родители"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Притяжательные местоимения. Нерегулярные формы существительных",
+    "explanation": {
+      "ru": "Притяжательные местоимения согласуются с существительным в роде, числе и падеже. Некоторые существительные имеют нерегулярные формы множественного числа: дети, люди, друзья.",
+      "sl": "Svojilni zaimki se ujemajo s samostalnikom v spolu, številu in sklonu. Nekateri samostalniki imajo nepravilne oblike množine: otroci, ljudje, prijatelji.",
+      "en": "Grammar focus: Притяжательные местоимения. Нерегулярные формы существительных. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "мой брат — мои братья",
+        "gender": "",
+        "rule": "irregular plural"
+      },
+      {
+        "word": "ребёнок — дети",
+        "gender": "",
+        "rule": "suppletive plural"
+      },
+      {
+        "word": "человек — люди",
+        "gender": "",
+        "rule": "suppletive plural"
+      },
+      {
+        "word": "друг — друзья",
+        "gender": "",
+        "rule": "irregular plural"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Вставьте правильную форму притяжательного местоимения",
+        "items": [
+          "Это ___ (я) семья.",
+          "Где ___ (ты) родители?",
+          "___ (мы) дети в школе."
+        ],
+        "answers": [
+          "моя",
+          "твои",
+          "Наши"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Семья",
+    "dialogues": [
+      {
+        "speakers": [
+          "А",
+          "Б"
+        ],
+        "lines": [
+          {
+            "speaker": "А",
+            "ru": "У тебя большая семья?",
+            "sl": "Imaš veliko družino?"
+          },
+          {
+            "speaker": "Б",
+            "ru": "Да, у меня есть брат и две сестры.",
+            "sl": "Da, imam brata in dve sestri."
+          },
+          {
+            "speaker": "А",
+            "ru": "А родители?",
+            "sl": "In starši?"
+          },
+          {
+            "speaker": "Б",
+            "ru": "Мои родители живут в другом городе.",
+            "sl": "Moji starši živijo v drugem mestu."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "У меня большая семья.",
+        "sl": "Imam veliko družino.",
+        "audio": null,
+        "en": "(EN) У меня большая семья."
+      },
+      {
+        "ru": "Мои родители живут в Любляне.",
+        "sl": "Moji starši živijo v Ljubljani.",
+        "audio": null,
+        "en": "(EN) Мои родители живут в Любляне."
+      },
+      {
+        "ru": "У меня двое детей.",
+        "sl": "Imam dva otroka.",
+        "audio": null,
+        "en": "(EN) У меня двое детей."
+      },
+      {
+        "ru": "Моя сестра замужем.",
+        "sl": "Moja sestra je poročena.",
+        "audio": null,
+        "en": "(EN) Моя сестра замужем."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "type": "written",
+        "description": "Напишите о своей семье (50-70 слов)",
+        "page": "стр. 26-27, упр. 1,2,3"
+      },
+      {
+        "type": "oral",
+        "description": "Расскажите о своей семье устно",
+        "page": "стр. 46, упр. 2"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "семья",
+      "sl": "družina",
+      "en": "(EN) семья"
+    },
+    {
+      "ru": "родители",
+      "sl": "starši",
+      "en": "(EN) родители"
+    },
+    {
+      "ru": "дети",
+      "sl": "otroci",
+      "en": "(EN) дети"
+    },
+    {
+      "ru": "ребёнок",
+      "sl": "otrok",
+      "en": "(EN) ребёнок"
+    },
+    {
+      "ru": "муж",
+      "sl": "mož",
+      "en": "(EN) муж"
+    },
+    {
+      "ru": "жена",
+      "sl": "žena",
+      "en": "(EN) жена"
+    },
+    {
+      "ru": "замужем",
+      "sl": "poročena",
+      "en": "(EN) замужем"
+    },
+    {
+      "ru": "женат",
+      "sl": "poročen",
+      "en": "(EN) женат"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Семья»",
+      "Практиковать грамматику: Притяжательные местоимения. Нерегулярные формы существительных",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Семья»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Семья«",
+      "Vaditi slovnico: Притяжательные местоимения. Нерегулярные формы существительных",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Семья«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Семья”",
+      "Practice grammar: Притяжательные местоимения. Нерегулярные формы существительных",
+      "Build 6–8 simple sentences and a mini-dialogue for “Семья”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "семья",
+            "sl": "družina",
+            "en": "(EN) семья"
+          },
+          {
+            "ru": "родители",
+            "sl": "starši",
+            "en": "(EN) родители"
+          },
+          {
+            "ru": "дети",
+            "sl": "otroci",
+            "en": "(EN) дети"
+          },
+          {
+            "ru": "ребёнок",
+            "sl": "otrok",
+            "en": "(EN) ребёнок"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "семья",
+            "sl": "družina",
+            "en": "(EN) семья"
+          },
+          {
+            "ru": "родители",
+            "sl": "starši",
+            "en": "(EN) родители"
+          },
+          {
+            "ru": "дети",
+            "sl": "otroci",
+            "en": "(EN) дети"
+          },
+          {
+            "ru": "ребёнок",
+            "sl": "otrok",
+            "en": "(EN) ребёнок"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Семья».",
+      "sl": "Napišite 6–8 stavkov na temo »Družina«.",
+      "en": "Write 6–8 sentences about “Family”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

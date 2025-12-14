@@ -1,0 +1,358 @@
+{
+  "id": 24,
+  "title": {
+    "ru": "Отдых и путешествия",
+    "sl": "Počitek in potovanja",
+    "en": "Rest and travel"
+  },
+  "textbookTheme": 20,
+  "phonetics": {
+    "focus": [
+      "Наречия"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "хорошо",
+          "плохо",
+          "быстро",
+          "медленно",
+          "интересно",
+          "красиво"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Наречия",
+    "explanation": {
+      "ru": "Наречия образуются от прилагательных с помощью суффикса -о/-е: хороший → хорошо, быстрый → быстро. Наречия не изменяются по родам и числам.",
+      "sl": "Prislovi se tvorijo iz pridevnikov s pripono -о/-е: хороший → хорошо, быстрый → быстро. Prislovi se ne spreminjajo po spolu in številu.",
+      "en": "Grammar focus: Наречия. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "хороший → хорошо",
+        "gender": "",
+        "rule": "adjective → adverb"
+      },
+      {
+        "word": "быстрый → быстро",
+        "gender": "",
+        "rule": "adjective → adverb"
+      },
+      {
+        "word": "медленный → медленно",
+        "gender": "",
+        "rule": "adjective → adverb"
+      },
+      {
+        "word": "красивый → красиво",
+        "gender": "",
+        "rule": "adjective → adverb"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Образуйте наречия от прилагательных",
+        "items": [
+          "интересный",
+          "плохой",
+          "тихий",
+          "громкий",
+          "лёгкий"
+        ],
+        "answers": [
+          "интересно",
+          "плохо",
+          "тихо",
+          "громко",
+          "легко"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Отдых и путешествия",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Отдых и путешествия",
+          "sl": "Dialog: Отдых и путешествия",
+          "en": "Dialogue: Отдых и путешествия"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Как вы отдыхаете?",
+            "sl": "Kako počivate?",
+            "en": "(EN) Как вы отдыхаете?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я люблю путешествовать.",
+            "sl": "Rad/a potujem.",
+            "en": "(EN) Я люблю путешествовать."
+          },
+          {
+            "speaker": "A",
+            "ru": "Куда вы ездили в отпуск?",
+            "sl": "Kam ste šli na dopust?",
+            "en": "(EN) Куда вы ездили в отпуск?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Мы ездили в Италию.",
+            "sl": "Šli smo v Italijo.",
+            "en": "(EN) Мы ездили в Италию."
+          },
+          {
+            "speaker": "A",
+            "ru": "Там было хорошо?",
+            "sl": "Je bilo tam lepo?",
+            "en": "(EN) Там было хорошо?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, было замечательно!",
+            "sl": "Da, bilo je čudovito!",
+            "en": "(EN) Да, было замечательно!"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Как вы отдыхаете?",
+        "sl": "Kako počivate?",
+        "audio": null,
+        "en": "(EN) Как вы отдыхаете?"
+      },
+      {
+        "ru": "Я люблю путешествовать.",
+        "sl": "Rad/a potujem.",
+        "audio": null,
+        "en": "(EN) Я люблю путешествовать."
+      },
+      {
+        "ru": "Куда вы ездили в отпуск?",
+        "sl": "Kam ste šli na dopust?",
+        "audio": null,
+        "en": "(EN) Куда вы ездили в отпуск?"
+      },
+      {
+        "ru": "Мы ездили в Италию.",
+        "sl": "Šli smo v Italijo.",
+        "audio": null,
+        "en": "(EN) Мы ездили в Италию."
+      },
+      {
+        "ru": "Там было хорошо?",
+        "sl": "Je bilo tam lepo?",
+        "audio": null,
+        "en": "(EN) Там было хорошо?"
+      },
+      {
+        "ru": "Да, было замечательно!",
+        "sl": "Da, bilo je čudovito!",
+        "audio": null,
+        "en": "(EN) Да, было замечательно!"
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "отдых",
+      "sl": "počitek",
+      "en": "(EN) отдых"
+    },
+    {
+      "ru": "отпуск",
+      "sl": "dopust",
+      "en": "(EN) отпуск"
+    },
+    {
+      "ru": "путешествие",
+      "sl": "potovanje",
+      "en": "(EN) путешествие"
+    },
+    {
+      "ru": "путешествовать",
+      "sl": "potovati",
+      "en": "(EN) путешествовать"
+    },
+    {
+      "ru": "ездить",
+      "sl": "voziti se",
+      "en": "(EN) ездить"
+    },
+    {
+      "ru": "замечательно",
+      "sl": "čudovito",
+      "en": "(EN) замечательно"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Отдых и путешествия»",
+      "Практиковать грамматику: Наречия",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Отдых и путешествия»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Отдых и путешествия«",
+      "Vaditi slovnico: Наречия",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Отдых и путешествия«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Отдых и путешествия”",
+      "Practice grammar: Наречия",
+      "Build 6–8 simple sentences and a mini-dialogue for “Отдых и путешествия”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "отдых",
+            "sl": "počitek",
+            "en": "(EN) отдых"
+          },
+          {
+            "ru": "отпуск",
+            "sl": "dopust",
+            "en": "(EN) отпуск"
+          },
+          {
+            "ru": "путешествие",
+            "sl": "potovanje",
+            "en": "(EN) путешествие"
+          },
+          {
+            "ru": "путешествовать",
+            "sl": "potovati",
+            "en": "(EN) путешествовать"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "отдых",
+            "sl": "počitek",
+            "en": "(EN) отдых"
+          },
+          {
+            "ru": "отпуск",
+            "sl": "dopust",
+            "en": "(EN) отпуск"
+          },
+          {
+            "ru": "путешествие",
+            "sl": "potovanje",
+            "en": "(EN) путешествие"
+          },
+          {
+            "ru": "путешествовать",
+            "sl": "potovati",
+            "en": "(EN) путешествовать"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Отдых и путешествия».",
+      "sl": "Napišite 6–8 stavkov na temo »Počitek in potovanja«.",
+      "en": "Write 6–8 sentences about “Rest and travel”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

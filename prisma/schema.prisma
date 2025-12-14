@@ -1,0 +1,261 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  STUDENT
+  TEACHER
+  ADMIN
+}
+
+enum AttendanceStatus {
+  PRESENT
+  ABSENT
+  EXCUSED
+  LATE
+}
+
+enum LessonProgressStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  COMPLETED
+}
+
+enum HomeworkSubmissionType {
+  PHOTO
+  SCAN
+  TYPED
+}
+
+enum HomeworkSubmissionStatus {
+  PENDING
+  GRADED
+}
+
+enum AssessmentCategory {
+  WRITTEN
+  ORAL
+  SEMINAR
+  PARTICIPATION
+  MOCK_TEST
+}
+
+enum AssessmentAttemptStatus {
+  STARTED
+  SUBMITTED
+  GRADED
+}
+
+enum SpeakingContext {
+  PHONETICS
+  GRAMMAR
+  CONVERSATION
+}
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  emailVerified DateTime?
+  passwordHash  String?
+  name          String?
+  role          UserRole @default(STUDENT)
+
+  lessonProgress               LessonProgress[]
+  attendanceRecords            AttendanceRecord[] @relation("AttendanceByStudent")
+  attendanceMarked             AttendanceRecord[] @relation("AttendanceMarkedBy")
+  homeworkSubmissions          HomeworkSubmission[] @relation("HomeworkSubmissionsByStudent")
+  createdHomeworkAssignments   HomeworkAssignment[] @relation("HomeworkAssignmentsCreatedBy")
+  gradedHomeworkSubmissions    HomeworkSubmission[] @relation("HomeworkSubmissionsGradedBy")
+  assessmentAttempts           AssessmentAttempt[] @relation("AssessmentAttemptsByStudent")
+  gradedAssessmentAttempts     AssessmentAttempt[] @relation("AssessmentAttemptsGradedBy")
+  speakingAttempts             SpeakingAttempt[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Lesson {
+  id          String   @id @default(cuid())
+  number      Int      @unique
+  slug        String   @unique
+  scheduledAt DateTime?
+  published   Boolean  @default(true)
+
+  progress           LessonProgress[]
+  attendanceRecords  AttendanceRecord[]
+  homeworkAssignments HomeworkAssignment[]
+  assessments        Assessment[]
+  speakingAttempts   SpeakingAttempt[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model LessonProgress {
+  id            String             @id @default(cuid())
+  lessonId      String
+  studentId     String
+  status        LessonProgressStatus @default(NOT_STARTED)
+  startedAt     DateTime?
+  completedAt   DateTime?
+  lastSeenAt    DateTime?
+  moduleProgress Json?
+
+  lesson  Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  student User   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([lessonId, studentId])
+  @@index([studentId])
+}
+
+model AttendanceRecord {
+  id          String           @id @default(cuid())
+  lessonId    String
+  studentId   String
+  status      AttendanceStatus @default(PRESENT)
+  checkedInAt DateTime?
+  markedById  String?
+  note        String?
+
+  lesson   Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  student  User   @relation("AttendanceByStudent", fields: [studentId], references: [id], onDelete: Cascade)
+  markedBy User?  @relation("AttendanceMarkedBy", fields: [markedById], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([lessonId, studentId])
+  @@index([studentId])
+  @@index([lessonId])
+}
+
+model HomeworkAssignment {
+  id             String                 @id @default(cuid())
+  code           String                 @unique
+  lessonId       String?
+  dueAt          DateTime
+  submissionType HomeworkSubmissionType
+  writtenTasks   Json?
+  oralTasks      Json?
+  createdById    String?
+
+  lesson      Lesson? @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+  createdBy   User?   @relation("HomeworkAssignmentsCreatedBy", fields: [createdById], references: [id], onDelete: SetNull)
+  submissions HomeworkSubmission[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([dueAt])
+  @@index([lessonId])
+}
+
+model HomeworkSubmission {
+  id           String                   @id @default(cuid())
+  assignmentId String
+  studentId    String
+  submittedAt  DateTime                 @default(now())
+  status       HomeworkSubmissionStatus @default(PENDING)
+  isLate       Boolean                  @default(false)
+  score        Int?
+  feedback     String?
+  audioUrl     String?
+  gradedById   String?
+
+  assignment HomeworkAssignment @relation(fields: [assignmentId], references: [id], onDelete: Cascade)
+  student    User              @relation("HomeworkSubmissionsByStudent", fields: [studentId], references: [id], onDelete: Cascade)
+  gradedBy   User?             @relation("HomeworkSubmissionsGradedBy", fields: [gradedById], references: [id], onDelete: SetNull)
+  files      HomeworkSubmissionFile[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([assignmentId, studentId])
+  @@index([studentId])
+  @@index([assignmentId])
+}
+
+model HomeworkSubmissionFile {
+  id           String @id @default(cuid())
+  submissionId String
+  url          String
+  fileName     String
+  mimeType     String?
+  sizeBytes    Int?
+
+  submission HomeworkSubmission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([submissionId])
+}
+
+model Assessment {
+  id              String            @id @default(cuid())
+  code            String            @unique
+  title           String
+  category        AssessmentCategory
+  maxPoints       Int
+  durationMinutes Int?
+  lessonId        String?
+
+  lesson   Lesson? @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+  attempts AssessmentAttempt[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([category])
+  @@index([lessonId])
+}
+
+model AssessmentAttempt {
+  id           String                @id @default(cuid())
+  assessmentId String
+  studentId    String
+  status       AssessmentAttemptStatus @default(STARTED)
+  startedAt    DateTime              @default(now())
+  submittedAt  DateTime?
+  gradedAt     DateTime?
+  score        Int?
+  feedback     String?
+  gradedById   String?
+
+  assessment Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  student    User       @relation("AssessmentAttemptsByStudent", fields: [studentId], references: [id], onDelete: Cascade)
+  gradedBy   User?      @relation("AssessmentAttemptsGradedBy", fields: [gradedById], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([studentId])
+  @@index([assessmentId])
+}
+
+model SpeakingAttempt {
+  id                String          @id @default(cuid())
+  studentId         String
+  lessonId          String?
+  context           SpeakingContext
+  targetText        String?
+  transcript        String?
+  pronunciationScore Int?
+  feedback          Json?
+  audioUrl          String?
+
+  student User  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  lesson   Lesson? @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+
+  @@index([studentId])
+  @@index([lessonId])
+}

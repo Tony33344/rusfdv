@@ -1,0 +1,334 @@
+{
+  "id": 23,
+  "title": {
+    "ru": "Москва и Санкт-Петербург (продолжение)",
+    "sl": "Moskva in Sankt Peterburg (nadaljevanje)",
+    "en": "Moscow and Saint Petersburg (continued)"
+  },
+  "textbookTheme": 19,
+  "phonetics": {
+    "focus": [
+      "Сравнительная степень"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "больше",
+          "меньше",
+          "лучше",
+          "хуже",
+          "красивее",
+          "интереснее"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Сравнительная степень прилагательных",
+    "explanation": {
+      "ru": "Сравнительная степень образуется с помощью суффикса -ее/-ей или слова «более». Некоторые формы нерегулярные: хороший → лучше, плохой → хуже, большой → больше.",
+      "sl": "Primernik se tvori s pripono -ее/-ей ali besedo «более». Nekatere oblike so nepravilne: хороший → лучше, плохой → хуже, большой → больше.",
+      "en": "Grammar focus: Сравнительная степень прилагательных. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "красивый → красивее",
+        "gender": "",
+        "rule": "regular -ее"
+      },
+      {
+        "word": "интересный → интереснее",
+        "gender": "",
+        "rule": "regular -ее"
+      },
+      {
+        "word": "хороший → лучше",
+        "gender": "",
+        "rule": "irregular"
+      },
+      {
+        "word": "плохой → хуже",
+        "gender": "",
+        "rule": "irregular"
+      },
+      {
+        "word": "большой → больше",
+        "gender": "",
+        "rule": "irregular"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "comparative",
+        "instruction": "Образуйте сравнительную степень",
+        "items": [
+          "интересный",
+          "красивый",
+          "хороший",
+          "плохой",
+          "маленький"
+        ],
+        "answers": [
+          "интереснее",
+          "красивее",
+          "лучше",
+          "хуже",
+          "меньше"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Сравнение городов",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Сравнение городов",
+          "sl": "Dialog: Сравнение городов",
+          "en": "Dialogue: Сравнение городов"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Москва больше, чем Санкт-Петербург.",
+            "sl": "Moskva je večja kot Sankt Peterburg.",
+            "en": "(EN) Москва больше, чем Санкт-Петербург."
+          },
+          {
+            "speaker": "B",
+            "ru": "Санкт-Петербург красивее.",
+            "sl": "Sankt Peterburg je lepši.",
+            "en": "(EN) Санкт-Петербург красивее."
+          },
+          {
+            "speaker": "A",
+            "ru": "Какой город вам нравится больше?",
+            "sl": "Katero mesto vam je bolj všeč?",
+            "en": "(EN) Какой город вам нравится больше?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Мне больше нравится Петербург.",
+            "sl": "Bolj mi je všeč Peterburg.",
+            "en": "(EN) Мне больше нравится Петербург."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Москва больше, чем Санкт-Петербург.",
+        "sl": "Moskva je večja kot Sankt Peterburg.",
+        "audio": null,
+        "en": "(EN) Москва больше, чем Санкт-Петербург."
+      },
+      {
+        "ru": "Санкт-Петербург красивее.",
+        "sl": "Sankt Peterburg je lepši.",
+        "audio": null,
+        "en": "(EN) Санкт-Петербург красивее."
+      },
+      {
+        "ru": "Какой город вам нравится больше?",
+        "sl": "Katero mesto vam je bolj všeč?",
+        "audio": null,
+        "en": "(EN) Какой город вам нравится больше?"
+      },
+      {
+        "ru": "Мне больше нравится Петербург.",
+        "sl": "Bolj mi je všeč Peterburg.",
+        "audio": null,
+        "en": "(EN) Мне больше нравится Петербург."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "больше",
+      "sl": "več/večji",
+      "en": "(EN) больше"
+    },
+    {
+      "ru": "меньше",
+      "sl": "manj/manjši",
+      "en": "(EN) меньше"
+    },
+    {
+      "ru": "лучше",
+      "sl": "boljši",
+      "en": "(EN) лучше"
+    },
+    {
+      "ru": "хуже",
+      "sl": "slabši",
+      "en": "(EN) хуже"
+    },
+    {
+      "ru": "чем",
+      "sl": "kot",
+      "en": "(EN) чем"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Сравнение городов»",
+      "Практиковать грамматику: Сравнительная степень прилагательных",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Москва и Санкт-Петербург (продолжение)»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Сравнение городов«",
+      "Vaditi slovnico: Сравнительная степень прилагательных",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Москва и Санкт-Петербург (продолжение)«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Сравнение городов”",
+      "Practice grammar: Сравнительная степень прилагательных",
+      "Build 6–8 simple sentences and a mini-dialogue for “Москва и Санкт-Петербург (продолжение)”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "больше",
+            "sl": "več/večji",
+            "en": "(EN) больше"
+          },
+          {
+            "ru": "меньше",
+            "sl": "manj/manjši",
+            "en": "(EN) меньше"
+          },
+          {
+            "ru": "лучше",
+            "sl": "boljši",
+            "en": "(EN) лучше"
+          },
+          {
+            "ru": "хуже",
+            "sl": "slabši",
+            "en": "(EN) хуже"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "больше",
+            "sl": "več/večji",
+            "en": "(EN) больше"
+          },
+          {
+            "ru": "меньше",
+            "sl": "manj/manjši",
+            "en": "(EN) меньше"
+          },
+          {
+            "ru": "лучше",
+            "sl": "boljši",
+            "en": "(EN) лучше"
+          },
+          {
+            "ru": "хуже",
+            "sl": "slabši",
+            "en": "(EN) хуже"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Москва и Санкт-Петербург (продолжение)».",
+      "sl": "Napišite 6–8 stavkov na temo »Moskva in Sankt Peterburg (nadaljevanje)«.",
+      "en": "Write 6–8 sentences about “Moscow and Saint Petersburg (continued)”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

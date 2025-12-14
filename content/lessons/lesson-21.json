@@ -1,0 +1,327 @@
+{
+  "id": 21,
+  "title": {
+    "ru": "Качество и характеристики (закрепление)",
+    "sl": "Kakovost in lastnosti (utrjevanje)",
+    "en": "Quality and characteristics (consolidation)"
+  },
+  "textbookTheme": 18,
+  "phonetics": {
+    "focus": [
+      "Ударение в прилагательных"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "молодой",
+          "молодая",
+          "дорогой",
+          "дорогая",
+          "плохой",
+          "плохая"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Прилагательные с ударным окончанием",
+    "explanation": {
+      "ru": "Некоторые прилагательные имеют ударение на окончании: молодой, большой, плохой, дорогой. В этом случае окончание м.р. -ой (не -ый).",
+      "sl": "Nekateri pridevniki imajo poudarek na končnici: молодой, большой, плохой, дорогой. V tem primeru je končnica m. -ой (ne -ый).",
+      "en": "Grammar focus: Прилагательные с ударным окончанием. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "молодой человек",
+        "gender": "м",
+        "rule": "stressed ending -ой"
+      },
+      {
+        "word": "молодая женщина",
+        "gender": "ж",
+        "rule": "-ая"
+      },
+      {
+        "word": "дорогой подарок",
+        "gender": "м",
+        "rule": "stressed ending -ой"
+      },
+      {
+        "word": "дорогая машина",
+        "gender": "ж",
+        "rule": "-ая"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Вставьте правильную форму прилагательного",
+        "items": [
+          "(молодой) девушка",
+          "(большой) дом",
+          "(дорогой) вино",
+          "(плохой) погода"
+        ],
+        "answers": [
+          "молодая",
+          "большой",
+          "дорогое",
+          "плохая"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Описание людей и вещей",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Описание людей и вещей",
+          "sl": "Dialog: Описание людей и вещей",
+          "en": "Dialogue: Описание людей и вещей"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Кто этот молодой человек?",
+            "sl": "Kdo je ta mlad človek?",
+            "en": "(EN) Кто этот молодой человек?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Это мой коллега.",
+            "sl": "To je moj kolega.",
+            "en": "(EN) Это мой коллега."
+          },
+          {
+            "speaker": "A",
+            "ru": "Это дорогой ресторан?",
+            "sl": "Je to draga restavracija?",
+            "en": "(EN) Это дорогой ресторан?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, но там очень вкусно.",
+            "sl": "Da, ampak tam je zelo okusno.",
+            "en": "(EN) Да, но там очень вкусно."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Кто этот молодой человек?",
+        "sl": "Kdo je ta mlad človek?",
+        "audio": null,
+        "en": "(EN) Кто этот молодой человек?"
+      },
+      {
+        "ru": "Это мой коллега.",
+        "sl": "To je moj kolega.",
+        "audio": null,
+        "en": "(EN) Это мой коллега."
+      },
+      {
+        "ru": "Это дорогой ресторан?",
+        "sl": "Je to draga restavracija?",
+        "audio": null,
+        "en": "(EN) Это дорогой ресторан?"
+      },
+      {
+        "ru": "Да, но там очень вкусно.",
+        "sl": "Da, ampak tam je zelo okusno.",
+        "audio": null,
+        "en": "(EN) Да, но там очень вкусно."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "молодой",
+      "sl": "mlad",
+      "en": "(EN) молодой"
+    },
+    {
+      "ru": "дорогой",
+      "sl": "drag",
+      "en": "(EN) дорогой"
+    },
+    {
+      "ru": "дешёвый",
+      "sl": "poceni",
+      "en": "(EN) дешёвый"
+    },
+    {
+      "ru": "простой",
+      "sl": "preprost",
+      "en": "(EN) простой"
+    },
+    {
+      "ru": "сложный",
+      "sl": "zapleten",
+      "en": "(EN) сложный"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Описание людей и вещей»",
+      "Практиковать грамматику: Прилагательные с ударным окончанием",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Качество и характеристики (закрепление)»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Описание людей и вещей«",
+      "Vaditi slovnico: Прилагательные с ударным окончанием",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Качество и характеристики (закрепление)«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Описание людей и вещей”",
+      "Practice grammar: Прилагательные с ударным окончанием",
+      "Build 6–8 simple sentences and a mini-dialogue for “Качество и характеристики (закрепление)”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "молодой",
+            "sl": "mlad",
+            "en": "(EN) молодой"
+          },
+          {
+            "ru": "дорогой",
+            "sl": "drag",
+            "en": "(EN) дорогой"
+          },
+          {
+            "ru": "дешёвый",
+            "sl": "poceni",
+            "en": "(EN) дешёвый"
+          },
+          {
+            "ru": "простой",
+            "sl": "preprost",
+            "en": "(EN) простой"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "молодой",
+            "sl": "mlad",
+            "en": "(EN) молодой"
+          },
+          {
+            "ru": "дорогой",
+            "sl": "drag",
+            "en": "(EN) дорогой"
+          },
+          {
+            "ru": "дешёвый",
+            "sl": "poceni",
+            "en": "(EN) дешёвый"
+          },
+          {
+            "ru": "простой",
+            "sl": "preprost",
+            "en": "(EN) простой"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Качество и характеристики (закрепление)».",
+      "sl": "Napišite 6–8 stavkov na temo »Kakovost in lastnosti (utrjevanje)«.",
+      "en": "Write 6–8 sentences about “Quality and characteristics (consolidation)”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

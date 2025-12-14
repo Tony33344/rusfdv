@@ -1,0 +1,393 @@
+{
+  "id": 7,
+  "title": {
+    "ru": "Город",
+    "sl": "Mesto",
+    "en": "City"
+  },
+  "textbookTheme": 7,
+  "phonetics": {
+    "focus": [
+      "г",
+      "к",
+      "х"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "город",
+          "улица",
+          "магазин",
+          "банк",
+          "аптека",
+          "кино"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Предложный падеж (Prepositional case)",
+    "explanation": {
+      "ru": "Предложный падеж используется с предлогами «в» и «на» для обозначения места. Окончания: -е (для большинства), -и (для слов на -ия, -ие, -ий).",
+      "sl": "Mestnik se uporablja s predlogi «в» in «на» za označevanje kraja. Končnice: -е (za večino), -и (za besede na -ия, -ие, -ий).",
+      "en": "The prepositional case is used with «в» (in) and «на» (on/at) to answer «где?» (where?). Common endings: -е for many nouns (город → в городе), and -и for nouns ending in -ия/-ие/-ий (Россия → в России, здание → в здании)."
+    },
+    "examples": [
+      {
+        "word": "в городе",
+        "gender": "м",
+        "rule": "город → городе"
+      },
+      {
+        "word": "на улице",
+        "gender": "ж",
+        "rule": "улица → улице"
+      },
+      {
+        "word": "в России",
+        "gender": "ж",
+        "rule": "Россия → России"
+      },
+      {
+        "word": "в здании",
+        "gender": "ср",
+        "rule": "здание → здании"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Поставьте слова в предложный падеж с предлогом «в»",
+        "items": [
+          "школа",
+          "офис",
+          "магазин",
+          "библиотека",
+          "университет"
+        ],
+        "categories": [],
+        "answers": ["в школе", "в офисе", "в магазине", "в библиотеке", "в университете"]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Где это находится?",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Где это находится?",
+          "sl": "Dialog: Kje je to?",
+          "en": "Dialogue: Where is it located?"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Где находится банк?",
+            "sl": "Kje je banka?",
+            "en": "Where is the bank?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Банк находится на улице Ленина.",
+            "sl": "Banka je na Leninovi ulici.",
+            "en": "The bank is on Lenin Street."
+          },
+          {
+            "speaker": "A",
+            "ru": "Как пройти к метро?",
+            "sl": "Kako pridem do metroja?",
+            "en": "How do I get to the metro?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Идите прямо, потом направо.",
+            "sl": "Pojdite naravnost, potem desno.",
+            "en": "Go straight, then turn right."
+          },
+          {
+            "speaker": "A",
+            "ru": "Это далеко?",
+            "sl": "Je to daleč?",
+            "en": "Is it far?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Нет, это близко.",
+            "sl": "Ne, to je blizu.",
+            "en": "No, it’s close."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Где находится банк?",
+        "sl": "Kje je banka?",
+        "audio": null,
+        "en": "Where is the bank?"
+      },
+      {
+        "ru": "Банк находится на улице Ленина.",
+        "sl": "Banka je na Leninovi ulici.",
+        "audio": null,
+        "en": "The bank is on Lenin Street."
+      },
+      {
+        "ru": "Как пройти к метро?",
+        "sl": "Kako pridem do metroja?",
+        "audio": null,
+        "en": "How do I get to the metro?"
+      },
+      {
+        "ru": "Идите прямо, потом направо.",
+        "sl": "Pojdite naravnost, potem desno.",
+        "audio": null,
+        "en": "Go straight, then turn right."
+      },
+      {
+        "ru": "Это далеко?",
+        "sl": "Je to daleč?",
+        "audio": null,
+        "en": "Is it far?"
+      },
+      {
+        "ru": "Нет, это близко.",
+        "sl": "Ne, to je blizu.",
+        "audio": null,
+        "en": "No, it’s close."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Составьте 10 предложений с местом (где?): в школе, в магазине, в университете, на улице, в метро.",
+        "sl": "Naredite 10 stavkov s krajem (kje?): v šoli, v trgovini, na univerzi, na ulici, v metroju.",
+        "en": "Write 10 sentences about location (where?): at school, in the store, at the university, on the street, in the metro."
+      },
+      {
+        "ru": "Запишите голосом 5 вопросов «Где находится ...?» и 5 ответов (в/на + предложный падеж).",
+        "sl": "Posnemite 5 vprašanj »Kje je ...?« in 5 odgovorov (v/na + mestnik).",
+        "en": "Record 5 questions “Where is …?” and 5 answers (в/на + prepositional case)."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "город",
+      "sl": "mesto",
+      "en": "city"
+    },
+    {
+      "ru": "улица",
+      "sl": "ulica",
+      "en": "street"
+    },
+    {
+      "ru": "площадь",
+      "sl": "trg",
+      "en": "square / plaza"
+    },
+    {
+      "ru": "магазин",
+      "sl": "trgovina",
+      "en": "shop / store"
+    },
+    {
+      "ru": "банк",
+      "sl": "banka",
+      "en": "bank"
+    },
+    {
+      "ru": "аптека",
+      "sl": "lekarna",
+      "en": "pharmacy"
+    },
+    {
+      "ru": "больница",
+      "sl": "bolnišnica",
+      "en": "hospital"
+    },
+    {
+      "ru": "метро",
+      "sl": "metro",
+      "en": "metro / subway"
+    },
+    {
+      "ru": "автобус",
+      "sl": "avtobus",
+      "en": "bus"
+    },
+    {
+      "ru": "такси",
+      "sl": "taksi",
+      "en": "taxi"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Где это находится?»",
+      "Практиковать грамматику: Предложный падеж (Prepositional case)",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Город»"
+    ],
+    "sl": [
+      "Vprašati, kje se nekaj nahaja (Где находится ...?) in dati kratek odgovor",
+      "Vaditi mestnik (в/на + -е/-и) za lokacijo",
+      "Dati preprosta navodila (naravnost, levo, desno; blizu/daleč)"
+    ],
+    "en": [
+      "Ask where places are: «Где находится ...?» and give a short answer",
+      "Practice the prepositional case (в/на + endings -е/-и) for location",
+      "Give simple directions (straight/left/right; near/far)"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Где находится ...?",
+          "sl": "Vzorec: Kje je ...?",
+          "en": "Pattern: Where is ...?"
+        },
+        "model": {
+          "ru": "Где находится банк? — Банк на улице.",
+          "sl": "Kje je banka? — Banka je na ulici.",
+          "en": "Where is the bank? — The bank is on the street."
+        },
+        "prompts": [
+          {
+            "ru": "Где находится аптека? — Аптека в центре.",
+            "sl": "Kje je lekarna? — Lekarna je v centru.",
+            "en": "Where is the pharmacy? — It’s in the center."
+          },
+          {
+            "ru": "Где находится метро? — Метро рядом.",
+            "sl": "Kje je metro? — Metro je blizu.",
+            "en": "Where is the metro? — It’s nearby."
+          },
+          {
+            "ru": "Где находится магазин? — Магазин на площади.",
+            "sl": "Kje je trgovina? — Trgovina je na trgu.",
+            "en": "Where is the store? — It’s on the square."
+          },
+          {
+            "ru": "Где находится больница? — Больница далеко.",
+            "sl": "Kje je bolnišnica? — Bolnišnica je daleč.",
+            "en": "Where is the hospital? — It’s far."
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Как пройти к ...?",
+          "sl": "Vzorec: Kako pridem do ...?",
+          "en": "Pattern: How do I get to ...?"
+        },
+        "model": {
+          "ru": "Как пройти к метро? — Идите прямо, потом направо.",
+          "sl": "Kako pridem do metroja? — Pojdite naravnost, potem desno.",
+          "en": "How do I get to the metro? — Go straight, then turn right."
+        },
+        "prompts": [
+          {
+            "ru": "Как пройти к банку? — Идите прямо.",
+            "sl": "Kako pridem do banke? — Pojdite naravnost.",
+            "en": "How do I get to the bank? — Go straight."
+          },
+          {
+            "ru": "Как пройти к аптеке? — Идите налево.",
+            "sl": "Kako pridem do lekarne? — Pojdite levo.",
+            "en": "How do I get to the pharmacy? — Go left."
+          },
+          {
+            "ru": "Как пройти к магазину? — Идите прямо, потом налево.",
+            "sl": "Kako pridem do trgovine? — Pojdite naravnost, potem levo.",
+            "en": "How do I get to the store? — Go straight, then turn left."
+          },
+          {
+            "ru": "Как пройти к автобусу? — Идите направо.",
+            "sl": "Kako pridem do avtobusa? — Pojdite desno.",
+            "en": "How do I get to the bus? — Go right."
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Выберите правильную форму: Я в ... (город)",
+          "sl": "Izberi pravilno obliko: Jaz sem v ... (mesto)",
+          "en": "Choose the correct form: I am in the ... (city)"
+        },
+        "options": [
+          { "ru": "город", "sl": "mesto", "en": "city (nom.)" },
+          { "ru": "городе", "sl": "mestu", "en": "in the city (prep.)" },
+          { "ru": "городу", "sl": "mestu (dat.)", "en": "to the city (dat.)" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "С «в» + «где?» используем предложный: в городе.",
+          "sl": "Z »v« + »kje?« uporabimo mestnik: в городе.",
+          "en": "With «в» + “where?”, use prepositional: в городе."
+        }
+      },
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я в ___. (магазин)",
+          "sl": "Dopolni: Jaz sem v ___. (trgovina)",
+          "en": "Fill in: I am in the ___. (store)"
+        },
+        "answerText": { "ru": "магазине", "sl": "trgovini", "en": "store" },
+        "explanation": {
+          "ru": "магазин → в магазине (предложный падеж).",
+          "sl": "магазин → v магазине (mestnik).",
+          "en": "магазин → в магазине (prepositional case)."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 8–10 предложений: опишите ваш город и объясните, как пройти к банку/магазину/метро.",
+      "sl": "Napišite 8–10 stavkov: opišite svoje mesto in razložite, kako priti do banke/trgovine/metroja.",
+      "en": "Write 8–10 sentences: describe your city and explain how to get to the bank/store/metro."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте минимум 2 предложения с «в/на» + предложный падеж",
+        "Добавьте 2 вопроса (Где находится...? Как пройти...?)"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte vsaj 2 stavka z «в/на» + mestnik",
+        "Dodajte 2 vprašanji (Kje je...? Kako pridem...?)"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include at least 2 sentences with «в/на» + prepositional",
+        "Include 2 questions (Where is...? How do I get...?)"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "В адресах обычно говорят «на улице ...», «на площади ...», но «в городе», «в метро», «в магазине». Это хороший способ запомнить «в»/«на».",
+      "sl": "Pri naslovih pogosto rečejo »na ulici ...«, »na trgu ...«, ampak »v mestu«, »v metroju«, »v trgovini«. Tako si lažje zapomniš »в«/«на«.",
+      "en": "With addresses you often say “on the street/square” (на улице, на площади), but “in the city/metro/store” (в городе, в метро, в магазине). This helps memorize when to use «в» vs «на»."
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "id": 30,
+  "title": {
+    "ru": "Повторение. Подготовка к экзамену",
+    "sl": "Ponavljanje. Priprava na izpit",
+    "en": "Review. Exam preparation"
+  },
+  "textbookTheme": "Review",
+  "phonetics": {
+    "focus": [
+      "Все изученные звуки"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "Здравствуйте!",
+          "Как дела?",
+          "Спасибо, хорошо.",
+          "До свидания!"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Повторение всех тем",
+    "explanation": {
+      "ru": "Повторение основных грамматических тем курса: род существительных, падежи (именительный, винительный, предложный, родительный), глаголы (настоящее и прошедшее время, I и II спряжение), прилагательные, наречия, местоимения.",
+      "sl": "Ponavljanje glavnih slovničnih tem tečaja: spol samostalnikov, skloni (imenovalnik, tožilnik, mestnik, rodilnik), glagoli (sedanjik in preteklik, I. in II. spregatev), pridevniki, prislovi, zaimki.",
+      "en": "Grammar focus: Повторение всех тем. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Именительный падеж: кто? что?",
+        "gender": "",
+        "rule": "Nominative: who? what?"
+      },
+      {
+        "word": "Винительный падеж: кого? что?",
+        "gender": "",
+        "rule": "Accusative: whom? what?"
+      },
+      {
+        "word": "Предложный падеж: о ком? о чём? где?",
+        "gender": "",
+        "rule": "Prepositional: about whom? where?"
+      },
+      {
+        "word": "Родительный падеж: кого? чего?",
+        "gender": "",
+        "rule": "Genitive: whose? of what?"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mixed-review",
+        "instruction": "Комплексное упражнение на все темы",
+        "items": [
+          "Поставьте в правильную форму: Я живу в (Словения).",
+          "Проспрягайте: работать (я, ты, он)",
+          "Образуйте прошедшее время: читать (она)",
+          "Согласуйте: (новый) книга"
+        ],
+        "answers": [
+          "Словении",
+          "работаю, работаешь, работает",
+          "читала",
+          "новая"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Подготовка к экзамену",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Подготовка к экзамену",
+          "sl": "Dialog: Подготовка к экзамену",
+          "en": "Dialogue: Подготовка к экзамену"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Вы готовы к экзамену?",
+            "sl": "Ste pripravljeni na izpit?",
+            "en": "(EN) Вы готовы к экзамену?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, я много занимался/занималась.",
+            "sl": "Da, veliko sem se učil/a.",
+            "en": "(EN) Да, я много занимался/занималась."
+          },
+          {
+            "speaker": "A",
+            "ru": "Удачи на экзамене!",
+            "sl": "Srečno na izpitu!",
+            "en": "(EN) Удачи на экзамене!"
+          },
+          {
+            "speaker": "B",
+            "ru": "Спасибо! И вам тоже.",
+            "sl": "Hvala! Tudi vam.",
+            "en": "(EN) Спасибо! И вам тоже."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Вы готовы к экзамену?",
+        "sl": "Ste pripravljeni na izpit?",
+        "audio": null,
+        "en": "(EN) Вы готовы к экзамену?"
+      },
+      {
+        "ru": "Да, я много занимался/занималась.",
+        "sl": "Da, veliko sem se učil/a.",
+        "audio": null,
+        "en": "(EN) Да, я много занимался/занималась."
+      },
+      {
+        "ru": "Удачи на экзамене!",
+        "sl": "Srečno na izpitu!",
+        "audio": null,
+        "en": "(EN) Удачи на экзамене!"
+      },
+      {
+        "ru": "Спасибо! И вам тоже.",
+        "sl": "Hvala! Tudi vam.",
+        "audio": null,
+        "en": "(EN) Спасибо! И вам тоже."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "type": "review",
+        "description": "Повторите все темы учебника",
+        "page": "Темы 1-22"
+      },
+      {
+        "type": "practice",
+        "description": "Сделайте все упражнения из рабочей тетради",
+        "page": "Все темы"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "экзамен",
+      "sl": "izpit",
+      "en": "(EN) экзамен"
+    },
+    {
+      "ru": "подготовка",
+      "sl": "priprava",
+      "en": "(EN) подготовка"
+    },
+    {
+      "ru": "повторение",
+      "sl": "ponavljanje",
+      "en": "(EN) повторение"
+    },
+    {
+      "ru": "успех",
+      "sl": "uspeh",
+      "en": "(EN) успех"
+    },
+    {
+      "ru": "удача",
+      "sl": "sreča",
+      "en": "(EN) удача"
+    },
+    {
+      "ru": "результат",
+      "sl": "rezultat",
+      "en": "(EN) результат"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Подготовка к экзамену»",
+      "Практиковать грамматику: Повторение всех тем",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Повторение. Подготовка к экзамену»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Подготовка к экзамену«",
+      "Vaditi slovnico: Повторение всех тем",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Повторение. Подготовка к экзамену«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Подготовка к экзамену”",
+      "Practice grammar: Повторение всех тем",
+      "Build 6–8 simple sentences and a mini-dialogue for “Повторение. Подготовка к экзамену”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "экзамен",
+            "sl": "izpit",
+            "en": "(EN) экзамен"
+          },
+          {
+            "ru": "подготовка",
+            "sl": "priprava",
+            "en": "(EN) подготовка"
+          },
+          {
+            "ru": "повторение",
+            "sl": "ponavljanje",
+            "en": "(EN) повторение"
+          },
+          {
+            "ru": "успех",
+            "sl": "uspeh",
+            "en": "(EN) успех"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "экзамен",
+            "sl": "izpit",
+            "en": "(EN) экзамен"
+          },
+          {
+            "ru": "подготовка",
+            "sl": "priprava",
+            "en": "(EN) подготовка"
+          },
+          {
+            "ru": "повторение",
+            "sl": "ponavljanje",
+            "en": "(EN) повторение"
+          },
+          {
+            "ru": "успех",
+            "sl": "uspeh",
+            "en": "(EN) успех"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Повторение. Подготовка к экзамену».",
+      "sl": "Napišite 6–8 stavkov na temo »Ponavljanje. Priprava na izpit«.",
+      "en": "Write 6–8 sentences about “Review. Exam preparation”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

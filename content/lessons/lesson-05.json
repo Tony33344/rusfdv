@@ -1,0 +1,243 @@
+{
+  "id": 5,
+  "title": {
+    "ru": "Мой день",
+    "sl": "Moj dan",
+    "en": "My day"
+  },
+  "textbookTheme": 5,
+  "objectives": {
+    "ru": [
+      "Говорить о распорядке дня: вставать, завтракать, работать/учиться, отдыхать, ложиться",
+      "Спросить и ответить о времени (Во сколько? В семь часов / в восемь)",
+      "Спрягать типичные глаголы II спряжения (говорить, смотреть) в настоящем времени"
+    ],
+    "sl": [
+      "Govoriti o dnevni rutini: vstati, zajtrkovati, delati/študirati, počivati, iti spat",
+      "Vprašati in odgovoriti o času (Ob kateri uri? Ob sedmih / ob osmih)",
+      "Spregati tipične glagole II. spregatve (говорить, смотреть) v sedanjiku"
+    ],
+    "en": [
+      "Talk about a daily routine: get up, have breakfast, work/study, rest, go to bed",
+      "Ask and answer about time (At what time? At seven / at eight)",
+      "Conjugate common 2nd conjugation verbs (говорить, смотреть) in the present tense"
+    ]
+  },
+  "phonetics": {
+    "focus": ["voiced/voiceless pairs", "в/ф", "б/п", "д/т"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["завтрак", "обед", "ужин", "вставать", "ложиться", "спать"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глаголы II спряжения",
+    "explanation": {
+      "ru": "Глаголы II спряжения имеют окончания: -у/-ю, -ишь, -ит, -им, -ите, -ат/-ят. Например: говорить → я говорю, ты говоришь, он говорит.",
+      "sl": "Glagoli II. spregatve imajo končnice: -у/-ю, -ишь, -ит, -им, -ите, -ат/-ят. Na primer: говорить → я говорю, ты говоришь, он говорит.",
+      "en": "2nd conjugation verbs take these present-tense endings: -у/-ю, -ишь, -ит, -им, -ите, -ат/-ят. Example: говорить → я говорю, ты говоришь, он/она говорит."
+    },
+    "examples": [
+      { "word": "я говорю", "gender": "", "rule": "I speak" },
+      { "word": "ты говоришь", "gender": "", "rule": "you speak" },
+      { "word": "он/она говорит", "gender": "", "rule": "he/she speaks" },
+      { "word": "мы говорим", "gender": "", "rule": "we speak" },
+      { "word": "вы говорите", "gender": "", "rule": "you (pl.) speak" },
+      { "word": "они говорят", "gender": "", "rule": "they speak" }
+    ],
+    "exercises": [
+      {
+        "type": "conjugation",
+        "instruction": "Проспрягайте глагол «смотреть»",
+        "items": ["я ___", "ты ___", "он ___", "мы ___", "вы ___", "они ___"],
+        "categories": [],
+        "answers": ["смотрю", "смотришь", "смотрит", "смотрим", "смотрите", "смотрят"]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Распорядок дня",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Обычный день",
+          "sl": "Dialog: Običajen dan",
+          "en": "Dialogue: A typical day"
+        },
+        "context": {
+          "ru": "Два студента сравнивают свой распорядок.",
+          "sl": "Dva študenta primerjata svojo rutino.",
+          "en": "Two students compare their daily routine."
+        },
+        "lines": [
+          {
+            "speaker": "Тони",
+            "ru": "Во сколько ты встаёшь?",
+            "sl": "Ob kateri uri vstaneš?",
+            "en": "What time do you get up? (informal)"
+          },
+          {
+            "speaker": "Аня",
+            "ru": "Я встаю в семь часов. А ты?",
+            "sl": "Vstanem ob sedmih. In ti?",
+            "en": "I get up at seven. And you?"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Я встаю в восемь. Потом я завтракаю и работаю.",
+            "sl": "Vstanem ob osmih. Potem zajtrkujem in delam.",
+            "en": "I get up at eight. Then I have breakfast and work."
+          },
+          {
+            "speaker": "Аня",
+            "ru": "А вечером что ты делаешь?",
+            "sl": "In kaj počneš zvečer?",
+            "en": "And what do you do in the evening?"
+          },
+          {
+            "speaker": "Тони",
+            "ru": "Вечером я смотрю фильм и ложусь поздно.",
+            "sl": "Zvečer gledam film in grem pozno spat.",
+            "en": "In the evening I watch a movie and go to bed late."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Во сколько вы встаёте?", "sl": "Ob kateri uri vstanete?", "en": "What time do you get up? (formal)", "audio": null },
+      { "ru": "Я встаю в семь часов.", "sl": "Vstanem ob sedmih.", "en": "I get up at seven o'clock.", "audio": null },
+      { "ru": "Когда вы завтракаете?", "sl": "Kdaj zajtrukujete?", "en": "When do you have breakfast?", "audio": null },
+      { "ru": "Я завтракаю в восемь.", "sl": "Zajtrkujem ob osmih.", "en": "I have breakfast at eight.", "audio": null },
+      { "ru": "Что вы делаете вечером?", "sl": "Kaj počnete zvečer?", "en": "What do you do in the evening?", "audio": null },
+      { "ru": "Вечером я смотрю телевизор.", "sl": "Zvečer gledam televizijo.", "en": "In the evening I watch TV.", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я (встаю/работаю/ложусь) в ...",
+          "sl": "Vzorec: (vstanem/delam/grem spat) ob ...",
+          "en": "Pattern: I (get up/work/go to bed) at ..."
+        },
+        "model": {
+          "ru": "Я встаю в семь часов.",
+          "sl": "Vstanem ob sedmih.",
+          "en": "I get up at seven."
+        },
+        "prompts": [
+          { "ru": "Я завтракаю в восемь.", "sl": "Zajtrkujem ob osmih.", "en": "I have breakfast at eight." },
+          { "ru": "Я работаю в девять.", "sl": "Delam ob devetih.", "en": "I work at nine." },
+          { "ru": "Я обедаю в два.", "sl": "Kosim ob dveh.", "en": "I have lunch at two." },
+          { "ru": "Я ложусь в одиннадцать.", "sl": "Grem spat ob enajstih.", "en": "I go to bed at eleven." }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Вечером я ...",
+          "sl": "Vzorec: Zvečer jaz ...",
+          "en": "Pattern: In the evening I ..."
+        },
+        "model": {
+          "ru": "Вечером я читаю и отдыхаю.",
+          "sl": "Zvečer berem in počivam.",
+          "en": "In the evening I read and rest."
+        },
+        "prompts": [
+          { "ru": "Вечером я смотрю сериал.", "sl": "Zvečer gledam serijo.", "en": "In the evening I watch a series." },
+          { "ru": "Вечером я учу русский.", "sl": "Zvečer se učim ruščino.", "en": "In the evening I study Russian." },
+          { "ru": "Вечером я гуляю.", "sl": "Zvečer se sprehajam.", "en": "In the evening I go for a walk." },
+          { "ru": "Вечером я ...", "sl": "Zvečer jaz ...", "en": "In the evening I ..." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ в семь часов.",
+          "sl": "Dopolni: Jaz ___ ob sedmih.",
+          "en": "Fill in: Я ___ в семь часов."
+        },
+        "answerText": { "ru": "встаю", "sl": "vstanem", "en": "get up" },
+        "explanation": {
+          "ru": "С «я» используем форму «встаю».",
+          "sl": "Z »jaz« uporabimo obliko »встаю«.",
+          "en": "With «я» you use the form «встаю»."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Выберите правильную форму: ты ___",
+          "sl": "Izberi pravilno obliko: ti ___",
+          "en": "Choose the correct form: ты ___"
+        },
+        "options": [
+          { "ru": "говорю", "sl": "govorim", "en": "(I) speak" },
+          { "ru": "говоришь", "sl": "govoriš", "en": "(you) speak" },
+          { "ru": "говорят", "sl": "govorijo", "en": "(they) speak" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "Для «ты» окончание -ишь.",
+          "sl": "Za »ti« je končnica -ишь.",
+          "en": "With «ты», 2nd conjugation uses -ишь."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Опишите ваш день (6–8 предложений): во сколько вы встаёте, когда завтракаете, что делаете днём и вечером.",
+      "sl": "Opišite svoj dan (6–8 stavkov): kdaj vstanete, kdaj zajtrkujete, kaj delate čez dan in zvečer.",
+      "en": "Describe your day (6–8 sentences): what time you get up, when you have breakfast, what you do during the day and in the evening."
+    },
+    "checklist": {
+      "ru": ["Используйте минимум 3 времени (в семь, в восемь...)", "Используйте 2 глагола II спряжения"],
+      "sl": ["Uporabite vsaj 3 čase (ob sedmih, ob osmih ...)", "Uporabite 2 glagola II. spregatve"],
+      "en": ["Use at least 3 time expressions", "Use 2 second conjugation verbs"]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Проспрягайте «смотреть» и «говорить» (я/ты/он/мы/вы/они).",
+        "sl": "Spregajte «смотреть» in «говорить» (jaz/ti/on/mi/vi/oni).",
+        "en": "Conjugate «смотреть» and «говорить» (I/you/he/we/you(pl)/they)."
+      },
+      {
+        "ru": "Запишите голосом (Voice Teacher): 5 предложений про ваш день.",
+        "sl": "Posnemite: 5 stavkov o vašem dnevu.",
+        "en": "Record: 5 sentences about your day."
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В разговоре часто говорят просто «в семь», «в восемь», но в учебной речи полезно добавлять «часов».",
+      "sl": "V pogovoru pogosto rečejo samo »v sedmih«, »v osmih«, v učni rabi pa je koristno dodati »часов«.",
+      "en": "In everyday speech people often say just «в семь», «в восемь», but adding «часов» is useful in formal/learning context."
+    }
+  },
+  "vocabulary": [
+    { "ru": "утро", "sl": "jutro", "en": "morning" },
+    { "ru": "день", "sl": "dan", "en": "day" },
+    { "ru": "вечер", "sl": "večer", "en": "evening" },
+    { "ru": "ночь", "sl": "noč", "en": "night" },
+    { "ru": "вставать", "sl": "vstati", "en": "to get up" },
+    { "ru": "завтракать", "sl": "zajtrkovati", "en": "to have breakfast" },
+    { "ru": "обедать", "sl": "kositi", "en": "to have lunch" },
+    { "ru": "ужинать", "sl": "večerjati", "en": "to have dinner" },
+    { "ru": "работать", "sl": "delati", "en": "to work" },
+    { "ru": "отдыхать", "sl": "počivati", "en": "to rest" },
+    { "ru": "спать", "sl": "spati", "en": "to sleep" }
+  ],
+  "audioResources": []
+}

@@ -1,0 +1,370 @@
+{
+  "id": 13,
+  "title": {
+    "ru": "Прошедшее время",
+    "sl": "Pretekli čas",
+    "en": "Past tense"
+  },
+  "textbookTheme": 12,
+  "phonetics": {
+    "focus": [
+      "Суффикс -л-",
+      "согласование по роду"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "читал",
+          "читала",
+          "читало",
+          "читали",
+          "жил",
+          "жила",
+          "жили"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глаголы. Прошедшее время",
+    "explanation": {
+      "ru": "Прошедшее время образуется от основы инфинитива + суффикс -л- + родовое окончание: -∅ (м.р.), -а (ж.р.), -о (ср.р.), -и (мн.ч.).",
+      "sl": "Pretekli čas se tvori iz osnove nedoločnika + pripona -л- + spolska končnica: -∅ (m.), -а (ž.), -о (sr.), -и (mn.).",
+      "en": "Grammar focus: Глаголы. Прошедшее время. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "он читал",
+        "gender": "м",
+        "rule": "he read"
+      },
+      {
+        "word": "она читала",
+        "gender": "ж",
+        "rule": "she read"
+      },
+      {
+        "word": "оно читало",
+        "gender": "ср",
+        "rule": "it read"
+      },
+      {
+        "word": "они читали",
+        "gender": "мн",
+        "rule": "they read"
+      },
+      {
+        "word": "я жил / жила",
+        "gender": "",
+        "rule": "I lived (m/f)"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "conjugation",
+        "instruction": "Образуйте формы прошедшего времени",
+        "items": [
+          "работать (он)",
+          "работать (она)",
+          "работать (они)",
+          "жить (я, м)",
+          "жить (я, ж)"
+        ],
+        "answers": [
+          "работал",
+          "работала",
+          "работали",
+          "жил",
+          "жила"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Жизнь в разных странах",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Жизнь в разных странах",
+          "sl": "Dialog: Жизнь в разных странах",
+          "en": "Dialogue: Жизнь в разных странах"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Где вы раньше жили?",
+            "sl": "Kje ste prej živeli?",
+            "en": "(EN) Где вы раньше жили?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Раньше я жил в Германии.",
+            "sl": "Prej sem živel v Nemčiji.",
+            "en": "(EN) Раньше я жил в Германии."
+          },
+          {
+            "speaker": "A",
+            "ru": "Что вы там делали?",
+            "sl": "Kaj ste tam počeli?",
+            "en": "(EN) Что вы там делали?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я там работал и учился.",
+            "sl": "Tam sem delal in študiral.",
+            "en": "(EN) Я там работал и учился."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вам там нравилось?",
+            "sl": "Vam je bilo tam všeč?",
+            "en": "(EN) Вам там нравилось?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, очень нравилось.",
+            "sl": "Da, zelo mi je bilo všeč.",
+            "en": "(EN) Да, очень нравилось."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Где вы раньше жили?",
+        "sl": "Kje ste prej živeli?",
+        "audio": null,
+        "en": "(EN) Где вы раньше жили?"
+      },
+      {
+        "ru": "Раньше я жил в Германии.",
+        "sl": "Prej sem živel v Nemčiji.",
+        "audio": null,
+        "en": "(EN) Раньше я жил в Германии."
+      },
+      {
+        "ru": "Что вы там делали?",
+        "sl": "Kaj ste tam počeli?",
+        "audio": null,
+        "en": "(EN) Что вы там делали?"
+      },
+      {
+        "ru": "Я там работал и учился.",
+        "sl": "Tam sem delal in študiral.",
+        "audio": null,
+        "en": "(EN) Я там работал и учился."
+      },
+      {
+        "ru": "Вам там нравилось?",
+        "sl": "Vam je bilo tam všeč?",
+        "audio": null,
+        "en": "(EN) Вам там нравилось?"
+      },
+      {
+        "ru": "Да, очень нравилось.",
+        "sl": "Da, zelo mi je bilo všeč.",
+        "audio": null,
+        "en": "(EN) Да, очень нравилось."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "раньше",
+      "sl": "prej",
+      "en": "(EN) раньше"
+    },
+    {
+      "ru": "вчера",
+      "sl": "včeraj",
+      "en": "(EN) вчера"
+    },
+    {
+      "ru": "позавчера",
+      "sl": "predvčerajšnjim",
+      "en": "(EN) позавчера"
+    },
+    {
+      "ru": "на прошлой неделе",
+      "sl": "prejšnji teden",
+      "en": "(EN) на прошлой неделе"
+    },
+    {
+      "ru": "в прошлом году",
+      "sl": "lani",
+      "en": "(EN) в прошлом году"
+    },
+    {
+      "ru": "давно",
+      "sl": "davno",
+      "en": "(EN) давно"
+    },
+    {
+      "ru": "недавно",
+      "sl": "nedavno",
+      "en": "(EN) недавно"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Жизнь в разных странах»",
+      "Практиковать грамматику: Глаголы. Прошедшее время",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Прошедшее время»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Жизнь в разных странах«",
+      "Vaditi slovnico: Глаголы. Прошедшее время",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Прошедшее время«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Жизнь в разных странах”",
+      "Practice grammar: Глаголы. Прошедшее время",
+      "Build 6–8 simple sentences and a mini-dialogue for “Прошедшее время”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "раньше",
+            "sl": "prej",
+            "en": "(EN) раньше"
+          },
+          {
+            "ru": "вчера",
+            "sl": "včeraj",
+            "en": "(EN) вчера"
+          },
+          {
+            "ru": "позавчера",
+            "sl": "predvčerajšnjim",
+            "en": "(EN) позавчера"
+          },
+          {
+            "ru": "на прошлой неделе",
+            "sl": "prejšnji teden",
+            "en": "(EN) на прошлой неделе"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "раньше",
+            "sl": "prej",
+            "en": "(EN) раньше"
+          },
+          {
+            "ru": "вчера",
+            "sl": "včeraj",
+            "en": "(EN) вчера"
+          },
+          {
+            "ru": "позавчера",
+            "sl": "predvčerajšnjim",
+            "en": "(EN) позавчера"
+          },
+          {
+            "ru": "на прошлой неделе",
+            "sl": "prejšnji teden",
+            "en": "(EN) на прошлой неделе"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Прошедшее время».",
+      "sl": "Napišite 6–8 stavkov na temo »Pretekli čas«.",
+      "en": "Write 6–8 sentences about “Past tense”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

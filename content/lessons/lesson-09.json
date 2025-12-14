@@ -1,0 +1,382 @@
+{
+  "id": 9,
+  "title": {
+    "ru": "Погода и времена года",
+    "sl": "Vreme in letni časi",
+    "en": "Weather and seasons"
+  },
+  "textbookTheme": 9,
+  "phonetics": {
+    "focus": [
+      "soft sign ь",
+      "palatalization"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "дождь",
+          "снег",
+          "солнце",
+          "осень",
+          "весна",
+          "лето"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Безличные предложения",
+    "explanation": {
+      "ru": "В русском языке погода описывается безличными конструкциями: «Холодно», «Жарко», «Идёт дождь». Нет подлежащего в именительном падеже.",
+      "sl": "V ruščini se vreme opisuje z brezosebnimi konstrukcijami: «Холодно», «Жарко», «Идёт дождь». Ni osebka v imenovalniku.",
+      "en": "Grammar focus: Безличные предложения. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Сегодня холодно.",
+        "gender": "",
+        "rule": "It's cold today."
+      },
+      {
+        "word": "Вчера было жарко.",
+        "gender": "",
+        "rule": "It was hot yesterday."
+      },
+      {
+        "word": "Завтра будет тепло.",
+        "gender": "",
+        "rule": "It will be warm tomorrow."
+      },
+      {
+        "word": "Идёт дождь.",
+        "gender": "",
+        "rule": "It's raining."
+      },
+      {
+        "word": "Идёт снег.",
+        "gender": "",
+        "rule": "It's snowing."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "translation",
+        "instruction": "Переведите на русский язык",
+        "items": [
+          "It's cold.",
+          "It's raining.",
+          "It was warm.",
+          "It will snow."
+        ],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Какая сегодня погода?",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Какая сегодня погода?",
+          "sl": "Dialog: Какая сегодня погода?",
+          "en": "Dialogue: Какая сегодня погода?"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какая сегодня погода?",
+            "sl": "Kakšno je danes vreme?",
+            "en": "(EN) Какая сегодня погода?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Сегодня солнечно и тепло.",
+            "sl": "Danes je sončno in toplo.",
+            "en": "(EN) Сегодня солнечно и тепло."
+          },
+          {
+            "speaker": "A",
+            "ru": "Какое ваше любимое время года?",
+            "sl": "Kateri je vaš najljubši letni čas?",
+            "en": "(EN) Какое ваше любимое время года?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я люблю лето.",
+            "sl": "Rad/a imam poletje.",
+            "en": "(EN) Я люблю лето."
+          },
+          {
+            "speaker": "A",
+            "ru": "Зимой очень холодно.",
+            "sl": "Pozimi je zelo mrzlo.",
+            "en": "(EN) Зимой очень холодно."
+          },
+          {
+            "speaker": "B",
+            "ru": "Весной всё цветёт.",
+            "sl": "Spomladi vse cveti.",
+            "en": "(EN) Весной всё цветёт."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какая сегодня погода?",
+        "sl": "Kakšno je danes vreme?",
+        "audio": null,
+        "en": "(EN) Какая сегодня погода?"
+      },
+      {
+        "ru": "Сегодня солнечно и тепло.",
+        "sl": "Danes je sončno in toplo.",
+        "audio": null,
+        "en": "(EN) Сегодня солнечно и тепло."
+      },
+      {
+        "ru": "Какое ваше любимое время года?",
+        "sl": "Kateri je vaš najljubši letni čas?",
+        "audio": null,
+        "en": "(EN) Какое ваше любимое время года?"
+      },
+      {
+        "ru": "Я люблю лето.",
+        "sl": "Rad/a imam poletje.",
+        "audio": null,
+        "en": "(EN) Я люблю лето."
+      },
+      {
+        "ru": "Зимой очень холодно.",
+        "sl": "Pozimi je zelo mrzlo.",
+        "audio": null,
+        "en": "(EN) Зимой очень холодно."
+      },
+      {
+        "ru": "Весной всё цветёт.",
+        "sl": "Spomladi vse cveti.",
+        "audio": null,
+        "en": "(EN) Весной всё цветёт."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "погода",
+      "sl": "vreme",
+      "en": "(EN) погода"
+    },
+    {
+      "ru": "весна",
+      "sl": "pomlad",
+      "en": "(EN) весна"
+    },
+    {
+      "ru": "лето",
+      "sl": "poletje",
+      "en": "(EN) лето"
+    },
+    {
+      "ru": "осень",
+      "sl": "jesen",
+      "en": "(EN) осень"
+    },
+    {
+      "ru": "зима",
+      "sl": "zima",
+      "en": "(EN) зима"
+    },
+    {
+      "ru": "солнце",
+      "sl": "sonce",
+      "en": "(EN) солнце"
+    },
+    {
+      "ru": "дождь",
+      "sl": "dež",
+      "en": "(EN) дождь"
+    },
+    {
+      "ru": "снег",
+      "sl": "sneg",
+      "en": "(EN) снег"
+    },
+    {
+      "ru": "холодно",
+      "sl": "mrzlo",
+      "en": "(EN) холодно"
+    },
+    {
+      "ru": "тепло",
+      "sl": "toplo",
+      "en": "(EN) тепло"
+    },
+    {
+      "ru": "жарко",
+      "sl": "vroče",
+      "en": "(EN) жарко"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Какая сегодня погода?»",
+      "Практиковать грамматику: Безличные предложения",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Погода и времена года»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Какая сегодня погода?«",
+      "Vaditi slovnico: Безличные предложения",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Погода и времена года«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Какая сегодня погода?”",
+      "Practice grammar: Безличные предложения",
+      "Build 6–8 simple sentences and a mini-dialogue for “Погода и времена года”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "погода",
+            "sl": "vreme",
+            "en": "(EN) погода"
+          },
+          {
+            "ru": "весна",
+            "sl": "pomlad",
+            "en": "(EN) весна"
+          },
+          {
+            "ru": "лето",
+            "sl": "poletje",
+            "en": "(EN) лето"
+          },
+          {
+            "ru": "осень",
+            "sl": "jesen",
+            "en": "(EN) осень"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "погода",
+            "sl": "vreme",
+            "en": "(EN) погода"
+          },
+          {
+            "ru": "весна",
+            "sl": "pomlad",
+            "en": "(EN) весна"
+          },
+          {
+            "ru": "лето",
+            "sl": "poletje",
+            "en": "(EN) лето"
+          },
+          {
+            "ru": "осень",
+            "sl": "jesen",
+            "en": "(EN) осень"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Погода и времена года».",
+      "sl": "Napišite 6–8 stavkov na temo »Vreme in letni časi«.",
+      "en": "Write 6–8 sentences about “Weather and seasons”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

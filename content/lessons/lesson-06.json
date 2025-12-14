@@ -1,0 +1,217 @@
+{
+  "id": 6,
+  "title": {
+    "ru": "Еда и напитки",
+    "sl": "Hrana in pijača",
+    "en": "Food and drinks"
+  },
+  "textbookTheme": 6,
+  "objectives": {
+    "ru": [
+      "Заказывать еду и напитки в кафе/ресторане",
+      "Использовать вежливые слова: пожалуйста, счёт, спасибо",
+      "Понимать винительный падеж (кого? что?) на базовых примерах"
+    ],
+    "sl": [
+      "Naročiti hrano in pijačo v kavarni/restavraciji",
+      "Uporabljati vljudne besede: пожалуйста, счёт, спасибо",
+      "Razumeti tožilnik (koga? kaj?) na osnovnih primerih"
+    ],
+    "en": [
+      "Order food and drinks in a café/restaurant",
+      "Use polite words: пожалуйста, счёт, спасибо",
+      "Understand the accusative case (whom? what?) in basic examples"
+    ]
+  },
+  "phonetics": {
+    "focus": ["reduction of unstressed о", "а vs о"],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": ["молоко", "хорошо", "вода", "кофе", "чай", "хлеб"]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Винительный падеж (Accusative case)",
+    "explanation": {
+      "ru": "Винительный падеж отвечает на вопросы «кого? что?» и используется с переходными глаголами. Для неодушевлённых существительных мужского рода форма совпадает с именительным падежом.",
+      "sl": "Tožilnik odgovarja na vprašanja «koga? kaj?» in se uporablja s prehodnimi glagoli. Pri neživih samostalnikih moškega spola je oblika enaka imenovalniku.",
+      "en": "The accusative answers “whom? what?” and is used with direct objects. For many inanimate masculine nouns, accusative = nominative (хлеб → хлеб), but feminine -а often changes to -у (вода → воду)."
+    },
+    "examples": [
+      { "word": "Я пью воду.", "gender": "ж", "rule": "вода → воду" },
+      { "word": "Я ем хлеб.", "gender": "м", "rule": "хлеб → хлеб (inanimate)" },
+      { "word": "Я люблю маму.", "gender": "ж", "rule": "мама → маму (animate)" },
+      { "word": "Я вижу брата.", "gender": "м", "rule": "брат → брата (animate)" }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Поставьте слова в винительный падеж",
+        "items": ["вода", "кофе", "суп", "рыба", "мясо"],
+        "categories": [],
+        "answers": ["воду", "кофе", "суп", "рыбу", "мясо"]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "В ресторане",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Заказ",
+          "sl": "Dialog: Naročilo",
+          "en": "Dialogue: Ordering"
+        },
+        "context": {
+          "ru": "Гость делает заказ официанту.",
+          "sl": "Gost naroči pri natakarju.",
+          "en": "A guest orders from a waiter."
+        },
+        "lines": [
+          {
+            "speaker": "Официант",
+            "ru": "Здравствуйте! Что вы будете?",
+            "sl": "Pozdravljeni! Kaj boste?",
+            "en": "Hello! What would you like?"
+          },
+          {
+            "speaker": "Гость",
+            "ru": "Я буду суп и чай, пожалуйста.",
+            "sl": "Jaz bom juho in čaj, prosim.",
+            "en": "I'll have soup and tea, please."
+          },
+          {
+            "speaker": "Официант",
+            "ru": "Хорошо. Ещё что-нибудь?",
+            "sl": "V redu. Še kaj?",
+            "en": "Okay. Anything else?"
+          },
+          {
+            "speaker": "Гость",
+            "ru": "Да. Принесите, пожалуйста, воду.",
+            "sl": "Da. Prinesite, prosim, vodo.",
+            "en": "Yes. Please bring water."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      { "ru": "Что вы будете?", "sl": "Kaj boste?", "en": "What would you like?", "audio": null },
+      { "ru": "Я буду суп.", "sl": "Jaz bom juho.", "en": "I'll have soup.", "audio": null },
+      { "ru": "Принесите, пожалуйста, меню.", "sl": "Prinesite, prosim, jedilnik.", "en": "Please bring the menu.", "audio": null },
+      { "ru": "Счёт, пожалуйста.", "sl": "Račun, prosim.", "en": "The bill, please.", "audio": null },
+      { "ru": "Это очень вкусно!", "sl": "To je zelo okusno!", "en": "It's very tasty!", "audio": null },
+      { "ru": "Я не ем мясо.", "sl": "Ne jem mesa.", "en": "I don't eat meat.", "audio": null }
+    ],
+    "rolePlayScenarios": []
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я буду ...",
+          "sl": "Vzorec: Jaz bom ...",
+          "en": "Pattern: I'll have ..."
+        },
+        "model": {
+          "ru": "Я буду чай, пожалуйста.",
+          "sl": "Jaz bom čaj, prosim.",
+          "en": "I'll have tea, please."
+        },
+        "prompts": [
+          { "ru": "Я буду кофе, пожалуйста.", "sl": "Jaz bom kavo, prosim.", "en": "I'll have coffee, please." },
+          { "ru": "Я буду воду, пожалуйста.", "sl": "Jaz bom vodo, prosim.", "en": "I'll have water, please." },
+          { "ru": "Я буду суп, пожалуйста.", "sl": "Jaz bom juho, prosim.", "en": "I'll have soup, please." },
+          { "ru": "Я буду хлеб, пожалуйста.", "sl": "Jaz bom kruh, prosim.", "en": "I'll have bread, please." }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я (пью/ем) ...",
+          "sl": "Vzorec: (pijem/jem) ...",
+          "en": "Pattern: I (drink/eat) ..."
+        },
+        "model": {
+          "ru": "Я пью воду.",
+          "sl": "Pijem vodo.",
+          "en": "I drink water."
+        },
+        "prompts": [
+          { "ru": "Я пью чай.", "sl": "Pijem čaj.", "en": "I drink tea." },
+          { "ru": "Я пью кофе.", "sl": "Pijem kavo.", "en": "I drink coffee." },
+          { "ru": "Я ем хлеб.", "sl": "Jem kruh.", "en": "I eat bread." },
+          { "ru": "Я ем суп.", "sl": "Jem juho.", "en": "I eat soup." }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "prompt": {
+          "ru": "Выберите правильную форму (винительный): Я пью ...",
+          "sl": "Izberi pravilno obliko (tožilnik): Pijem ...",
+          "en": "Choose the correct accusative form: I drink ..."
+        },
+        "options": [
+          { "ru": "вода", "sl": "voda", "en": "water (nom.)" },
+          { "ru": "воду", "sl": "vodo", "en": "water (acc.)" },
+          { "ru": "воде", "sl": "vodi", "en": "water (prep.)" }
+        ],
+        "answerIndex": 1,
+        "explanation": {
+          "ru": "После «пить» нужен винительный: вода → воду.",
+          "sl": "Po »пить« je tožilnik: вода → воду.",
+          "en": "After «пить» you need accusative: вода → воду."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите короткий заказ (4–6 предложений): что вы будете и попросите счёт.",
+      "sl": "Napišite kratko naročilo (4–6 stavkov): kaj boste in prosite za račun.",
+      "en": "Write a short order (4–6 sentences): what you will have and ask for the bill."
+    },
+    "checklist": {
+      "ru": ["Используйте 3 раза «пожалуйста»", "Используйте минимум 2 слова в винительном падеже (воду, рыбу...)"],
+      "sl": ["3× uporabite »пожалуйста«", "Uporabite vsaj 2 besedi v tožilniku (воду, рыбу ...)"],
+      "en": ["Use «пожалуйста» 3 times", "Use at least 2 accusative forms (воду, рыбу, ...)" ]
+    }
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Составьте 8 предложений с «я ем/пью ...» (используйте винительный падеж).",
+        "sl": "Naredite 8 stavkov z »я ем/пью ...« (uporabite tožilnik).",
+        "en": "Make 8 sentences with «я ем/пью ...» (use the accusative)."
+      }
+    ]
+  },
+  "culture": {
+    "note": {
+      "ru": "В кафе/ресторане почти всегда добавляют «пожалуйста». «Счёт, пожалуйста» — стандартная фраза.",
+      "sl": "V kavarni/restavraciji skoraj vedno dodajo »пожалуйста«. »Счёт, пожалуйста« je standardna fraza.",
+      "en": "In cafés/restaurants, «пожалуйста» is used constantly. «Счёт, пожалуйста» is a standard phrase."
+    }
+  },
+  "vocabulary": [
+    { "ru": "еда", "sl": "hrana", "en": "food" },
+    { "ru": "напиток", "sl": "pijača", "en": "drink" },
+    { "ru": "вода", "sl": "voda", "en": "water" },
+    { "ru": "чай", "sl": "čaj", "en": "tea" },
+    { "ru": "кофе", "sl": "kava", "en": "coffee" },
+    { "ru": "молоко", "sl": "mleko", "en": "milk" },
+    { "ru": "хлеб", "sl": "kruh", "en": "bread" },
+    { "ru": "суп", "sl": "juha", "en": "soup" },
+    { "ru": "мясо", "sl": "meso", "en": "meat" },
+    { "ru": "рыба", "sl": "riba", "en": "fish" },
+    { "ru": "овощи", "sl": "zelenjava", "en": "vegetables" },
+    { "ru": "фрукты", "sl": "sadje", "en": "fruit" }
+  ],
+  "audioResources": []
+}

@@ -1,0 +1,348 @@
+{
+  "id": 17,
+  "title": {
+    "ru": "Стиль жизни",
+    "sl": "Življenjski slog",
+    "en": "Lifestyle"
+  },
+  "textbookTheme": 16,
+  "phonetics": {
+    "focus": [
+      "Конструкции пора, хватит + инфинитив"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "пора идти",
+          "пора спать",
+          "хватит работать",
+          "хватит говорить",
+          "надо отдыхать"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Пора, хватит + инфинитив",
+    "explanation": {
+      "ru": "Конструкция «пора + инфинитив» означает, что время делать что-то. «Хватит + инфинитив» означает, что нужно прекратить действие. Обе конструкции безличные.",
+      "sl": "Konstrukcija «пора + nedoločnik» pomeni, da je čas za nekaj. «Хватит + nedoločnik» pomeni, da je treba prenehati. Obe konstrukciji sta brezosebni.",
+      "en": "Grammar focus: Пора, хватит + инфинитив. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Пора идти домой.",
+        "gender": "",
+        "rule": "It's time to go home."
+      },
+      {
+        "word": "Пора спать.",
+        "gender": "",
+        "rule": "It's time to sleep."
+      },
+      {
+        "word": "Хватит работать!",
+        "gender": "",
+        "rule": "Stop working!"
+      },
+      {
+        "word": "Хватит разговаривать!",
+        "gender": "",
+        "rule": "Stop talking!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "translation",
+        "instruction": "Переведите на русский язык",
+        "items": [
+          "It's time to eat.",
+          "It's time to study.",
+          "Stop playing!",
+          "It's time to go."
+        ],
+        "answers": [
+          "Пора есть.",
+          "Пора учиться.",
+          "Хватит играть!",
+          "Пора идти."
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Стиль жизни",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Стиль жизни",
+          "sl": "Dialog: Стиль жизни",
+          "en": "Dialogue: Стиль жизни"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какой у вас образ жизни?",
+            "sl": "Kakšen življenjski slog imate?",
+            "en": "(EN) Какой у вас образ жизни?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я веду активный образ жизни.",
+            "sl": "Vodim aktiven življenjski slog.",
+            "en": "(EN) Я веду активный образ жизни."
+          },
+          {
+            "speaker": "A",
+            "ru": "Пора менять привычки.",
+            "sl": "Čas je spremeniti navade.",
+            "en": "(EN) Пора менять привычки."
+          },
+          {
+            "speaker": "B",
+            "ru": "Хватит сидеть дома!",
+            "sl": "Dovolj sedenja doma!",
+            "en": "(EN) Хватит сидеть дома!"
+          },
+          {
+            "speaker": "A",
+            "ru": "Надо больше двигаться.",
+            "sl": "Treba se je več gibati.",
+            "en": "(EN) Надо больше двигаться."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какой у вас образ жизни?",
+        "sl": "Kakšen življenjski slog imate?",
+        "audio": null,
+        "en": "(EN) Какой у вас образ жизни?"
+      },
+      {
+        "ru": "Я веду активный образ жизни.",
+        "sl": "Vodim aktiven življenjski slog.",
+        "audio": null,
+        "en": "(EN) Я веду активный образ жизни."
+      },
+      {
+        "ru": "Пора менять привычки.",
+        "sl": "Čas je spremeniti navade.",
+        "audio": null,
+        "en": "(EN) Пора менять привычки."
+      },
+      {
+        "ru": "Хватит сидеть дома!",
+        "sl": "Dovolj sedenja doma!",
+        "audio": null,
+        "en": "(EN) Хватит сидеть дома!"
+      },
+      {
+        "ru": "Надо больше двигаться.",
+        "sl": "Treba se je več gibati.",
+        "audio": null,
+        "en": "(EN) Надо больше двигаться."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "образ жизни",
+      "sl": "življenjski slog",
+      "en": "(EN) образ жизни"
+    },
+    {
+      "ru": "привычка",
+      "sl": "navada",
+      "en": "(EN) привычка"
+    },
+    {
+      "ru": "здоровье",
+      "sl": "zdravje",
+      "en": "(EN) здоровье"
+    },
+    {
+      "ru": "спорт",
+      "sl": "šport",
+      "en": "(EN) спорт"
+    },
+    {
+      "ru": "отдых",
+      "sl": "počitek",
+      "en": "(EN) отдых"
+    },
+    {
+      "ru": "пора",
+      "sl": "čas je",
+      "en": "(EN) пора"
+    },
+    {
+      "ru": "хватит",
+      "sl": "dovolj",
+      "en": "(EN) хватит"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Стиль жизни»",
+      "Практиковать грамматику: Пора, хватит + инфинитив",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Стиль жизни»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Стиль жизни«",
+      "Vaditi slovnico: Пора, хватит + инфинитив",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Стиль жизни«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Стиль жизни”",
+      "Practice grammar: Пора, хватит + инфинитив",
+      "Build 6–8 simple sentences and a mini-dialogue for “Стиль жизни”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "образ жизни",
+            "sl": "življenjski slog",
+            "en": "(EN) образ жизни"
+          },
+          {
+            "ru": "привычка",
+            "sl": "navada",
+            "en": "(EN) привычка"
+          },
+          {
+            "ru": "здоровье",
+            "sl": "zdravje",
+            "en": "(EN) здоровье"
+          },
+          {
+            "ru": "спорт",
+            "sl": "šport",
+            "en": "(EN) спорт"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "образ жизни",
+            "sl": "življenjski slog",
+            "en": "(EN) образ жизни"
+          },
+          {
+            "ru": "привычка",
+            "sl": "navada",
+            "en": "(EN) привычка"
+          },
+          {
+            "ru": "здоровье",
+            "sl": "zdravje",
+            "en": "(EN) здоровье"
+          },
+          {
+            "ru": "спорт",
+            "sl": "šport",
+            "en": "(EN) спорт"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Стиль жизни».",
+      "sl": "Napišite 6–8 stavkov na temo »Življenjski slog«.",
+      "en": "Write 6–8 sentences about “Lifestyle”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

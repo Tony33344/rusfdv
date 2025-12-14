@@ -1,0 +1,359 @@
+{
+  "id": 18,
+  "title": {
+    "ru": "Мой день",
+    "sl": "Moj dan",
+    "en": "My day"
+  },
+  "textbookTheme": 17,
+  "phonetics": {
+    "focus": [
+      "Глаголы с суффиксом -ВА-"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "давать",
+          "вставать",
+          "узнавать",
+          "продавать",
+          "создавать"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глаголы с суффиксом -ВА-",
+    "explanation": {
+      "ru": "Глаголы с суффиксом -ва- теряют его в настоящем времени: давать → даю, даёшь; вставать → встаю, встаёшь. В прошедшем времени суффикс сохраняется: давал, вставал.",
+      "sl": "Glagoli s pripono -ва- jo izgubijo v sedanjiku: давать → даю, даёшь; вставать → встаю, встаёшь. V pretekliku se pripona ohrani: давал, вставал.",
+      "en": "Grammar focus: Глаголы с суффиксом -ВА-. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "давать → даю, даёшь, даёт",
+        "gender": "",
+        "rule": "-ва- drops in present"
+      },
+      {
+        "word": "вставать → встаю, встаёшь, встаёт",
+        "gender": "",
+        "rule": "-ва- drops in present"
+      },
+      {
+        "word": "узнавать → узнаю, узнаёшь",
+        "gender": "",
+        "rule": "-ва- drops in present"
+      },
+      {
+        "word": "давал, давала, давали",
+        "gender": "",
+        "rule": "-ва- kept in past"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "conjugation",
+        "instruction": "Проспрягайте глагол «вставать» в настоящем времени",
+        "items": [
+          "я ___",
+          "ты ___",
+          "он ___",
+          "мы ___",
+          "вы ___",
+          "они ___"
+        ],
+        "answers": [
+          "встаю",
+          "встаёшь",
+          "встаёт",
+          "встаём",
+          "встаёте",
+          "встают"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Мой день",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Мой день",
+          "sl": "Dialog: Мой день",
+          "en": "Dialogue: Мой день"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Во сколько вы встаёте?",
+            "sl": "Ob kateri uri vstanete?",
+            "en": "(EN) Во сколько вы встаёте?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я встаю в семь часов.",
+            "sl": "Vstanem ob sedmih.",
+            "en": "(EN) Я встаю в семь часов."
+          },
+          {
+            "speaker": "A",
+            "ru": "Что вы делаете утром?",
+            "sl": "Kaj počnete zjutraj?",
+            "en": "(EN) Что вы делаете утром?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Утром я завтракаю и иду на работу.",
+            "sl": "Zjutraj zajtrukujem in grem v službo.",
+            "en": "(EN) Утром я завтракаю и иду на работу."
+          },
+          {
+            "speaker": "A",
+            "ru": "Когда вы ложитесь спать?",
+            "sl": "Kdaj greste spat?",
+            "en": "(EN) Когда вы ложитесь спать?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Обычно в одиннадцать.",
+            "sl": "Običajno ob enajstih.",
+            "en": "(EN) Обычно в одиннадцать."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Во сколько вы встаёте?",
+        "sl": "Ob kateri uri vstanete?",
+        "audio": null,
+        "en": "(EN) Во сколько вы встаёте?"
+      },
+      {
+        "ru": "Я встаю в семь часов.",
+        "sl": "Vstanem ob sedmih.",
+        "audio": null,
+        "en": "(EN) Я встаю в семь часов."
+      },
+      {
+        "ru": "Что вы делаете утром?",
+        "sl": "Kaj počnete zjutraj?",
+        "audio": null,
+        "en": "(EN) Что вы делаете утром?"
+      },
+      {
+        "ru": "Утром я завтракаю и иду на работу.",
+        "sl": "Zjutraj zajtrukujem in grem v službo.",
+        "audio": null,
+        "en": "(EN) Утром я завтракаю и иду на работу."
+      },
+      {
+        "ru": "Когда вы ложитесь спать?",
+        "sl": "Kdaj greste spat?",
+        "audio": null,
+        "en": "(EN) Когда вы ложитесь спать?"
+      },
+      {
+        "ru": "Обычно в одиннадцать.",
+        "sl": "Običajno ob enajstih.",
+        "audio": null,
+        "en": "(EN) Обычно в одиннадцать."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "вставать",
+      "sl": "vstati",
+      "en": "(EN) вставать"
+    },
+    {
+      "ru": "ложиться",
+      "sl": "leči",
+      "en": "(EN) ложиться"
+    },
+    {
+      "ru": "давать",
+      "sl": "dati",
+      "en": "(EN) давать"
+    },
+    {
+      "ru": "узнавать",
+      "sl": "izvedeti",
+      "en": "(EN) узнавать"
+    },
+    {
+      "ru": "распорядок дня",
+      "sl": "dnevni red",
+      "en": "(EN) распорядок дня"
+    },
+    {
+      "ru": "обычно",
+      "sl": "običajno",
+      "en": "(EN) обычно"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Мой день»",
+      "Практиковать грамматику: Глаголы с суффиксом -ВА-",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Мой день»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Мой день«",
+      "Vaditi slovnico: Глаголы с суффиксом -ВА-",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Мой день«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Мой день”",
+      "Practice grammar: Глаголы с суффиксом -ВА-",
+      "Build 6–8 simple sentences and a mini-dialogue for “Мой день”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "вставать",
+            "sl": "vstati",
+            "en": "(EN) вставать"
+          },
+          {
+            "ru": "ложиться",
+            "sl": "leči",
+            "en": "(EN) ложиться"
+          },
+          {
+            "ru": "давать",
+            "sl": "dati",
+            "en": "(EN) давать"
+          },
+          {
+            "ru": "узнавать",
+            "sl": "izvedeti",
+            "en": "(EN) узнавать"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "вставать",
+            "sl": "vstati",
+            "en": "(EN) вставать"
+          },
+          {
+            "ru": "ложиться",
+            "sl": "leči",
+            "en": "(EN) ложиться"
+          },
+          {
+            "ru": "давать",
+            "sl": "dati",
+            "en": "(EN) давать"
+          },
+          {
+            "ru": "узнавать",
+            "sl": "izvedeti",
+            "en": "(EN) узнавать"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Мой день».",
+      "sl": "Napišite 6–8 stavkov na temo »Moj dan«.",
+      "en": "Write 6–8 sentences about “My day”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

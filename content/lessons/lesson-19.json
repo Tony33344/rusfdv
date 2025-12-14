@@ -1,0 +1,377 @@
+{
+  "id": 19,
+  "title": {
+    "ru": "Качество и характеристики",
+    "sl": "Kakovost in lastnosti",
+    "en": "Quality and characteristics"
+  },
+  "textbookTheme": 18,
+  "phonetics": {
+    "focus": [
+      "Окончания прилагательных"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "новый",
+          "новая",
+          "новое",
+          "новые",
+          "большой",
+          "большая",
+          "большое"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Именительный падеж прилагательных",
+    "explanation": {
+      "ru": "Прилагательные согласуются с существительным в роде, числе и падеже. Окончания в именительном падеже: м.р. -ый/-ий/-ой, ж.р. -ая/-яя, ср.р. -ое/-ее, мн.ч. -ые/-ие.",
+      "sl": "Pridevniki se ujemajo s samostalnikom v spolu, številu in sklonu. Končnice v imenovalniku: m. -ый/-ий/-ой, ž. -ая/-яя, sr. -ое/-ее, mn. -ые/-ие.",
+      "en": "Grammar focus: Именительный падеж прилагательных. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "новый дом",
+        "gender": "м",
+        "rule": "-ый (hard stem)"
+      },
+      {
+        "word": "синий костюм",
+        "gender": "м",
+        "rule": "-ий (soft stem)"
+      },
+      {
+        "word": "большой город",
+        "gender": "м",
+        "rule": "-ой (stressed)"
+      },
+      {
+        "word": "красивая девушка",
+        "gender": "ж",
+        "rule": "-ая"
+      },
+      {
+        "word": "интересное кино",
+        "gender": "ср",
+        "rule": "-ое"
+      },
+      {
+        "word": "хорошие люди",
+        "gender": "мн",
+        "rule": "-ие (soft stem)"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "agreement",
+        "instruction": "Согласуйте прилагательное с существительным",
+        "items": [
+          "(красивый) девушка",
+          "(интересный) книга",
+          "(большой) окно",
+          "(новый) друзья"
+        ],
+        "answers": [
+          "красивая",
+          "интересная",
+          "большое",
+          "новые"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Качество и характеристики",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Качество и характеристики",
+          "sl": "Dialog: Качество и характеристики",
+          "en": "Dialogue: Качество и характеристики"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Какой это дом?",
+            "sl": "Kakšna je ta hiša?",
+            "en": "(EN) Какой это дом?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Это большой и красивый дом.",
+            "sl": "To je velika in lepa hiša.",
+            "en": "(EN) Это большой и красивый дом."
+          },
+          {
+            "speaker": "A",
+            "ru": "Какая у вас машина?",
+            "sl": "Kakšen avto imate?",
+            "en": "(EN) Какая у вас машина?"
+          },
+          {
+            "speaker": "B",
+            "ru": "У меня новая немецкая машина.",
+            "sl": "Imam nov nemški avto.",
+            "en": "(EN) У меня новая немецкая машина."
+          },
+          {
+            "speaker": "A",
+            "ru": "Какое это вино?",
+            "sl": "Kakšno je to vino?",
+            "en": "(EN) Какое это вино?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Это хорошее словенское вино.",
+            "sl": "To je dobro slovensko vino.",
+            "en": "(EN) Это хорошее словенское вино."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какой это дом?",
+        "sl": "Kakšna je ta hiša?",
+        "audio": null,
+        "en": "(EN) Какой это дом?"
+      },
+      {
+        "ru": "Это большой и красивый дом.",
+        "sl": "To je velika in lepa hiša.",
+        "audio": null,
+        "en": "(EN) Это большой и красивый дом."
+      },
+      {
+        "ru": "Какая у вас машина?",
+        "sl": "Kakšen avto imate?",
+        "audio": null,
+        "en": "(EN) Какая у вас машина?"
+      },
+      {
+        "ru": "У меня новая немецкая машина.",
+        "sl": "Imam nov nemški avto.",
+        "audio": null,
+        "en": "(EN) У меня новая немецкая машина."
+      },
+      {
+        "ru": "Какое это вино?",
+        "sl": "Kakšno je to vino?",
+        "audio": null,
+        "en": "(EN) Какое это вино?"
+      },
+      {
+        "ru": "Это хорошее словенское вино.",
+        "sl": "To je dobro slovensko vino.",
+        "audio": null,
+        "en": "(EN) Это хорошее словенское вино."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "новый",
+      "sl": "nov",
+      "en": "(EN) новый"
+    },
+    {
+      "ru": "старый",
+      "sl": "star",
+      "en": "(EN) старый"
+    },
+    {
+      "ru": "большой",
+      "sl": "velik",
+      "en": "(EN) большой"
+    },
+    {
+      "ru": "маленький",
+      "sl": "majhen",
+      "en": "(EN) маленький"
+    },
+    {
+      "ru": "красивый",
+      "sl": "lep",
+      "en": "(EN) красивый"
+    },
+    {
+      "ru": "интересный",
+      "sl": "zanimiv",
+      "en": "(EN) интересный"
+    },
+    {
+      "ru": "хороший",
+      "sl": "dober",
+      "en": "(EN) хороший"
+    },
+    {
+      "ru": "плохой",
+      "sl": "slab",
+      "en": "(EN) плохой"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Качество и характеристики»",
+      "Практиковать грамматику: Именительный падеж прилагательных",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Качество и характеристики»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Качество и характеристики«",
+      "Vaditi slovnico: Именительный падеж прилагательных",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Качество и характеристики«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Качество и характеристики”",
+      "Practice grammar: Именительный падеж прилагательных",
+      "Build 6–8 simple sentences and a mini-dialogue for “Качество и характеристики”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "новый",
+            "sl": "nov",
+            "en": "(EN) новый"
+          },
+          {
+            "ru": "старый",
+            "sl": "star",
+            "en": "(EN) старый"
+          },
+          {
+            "ru": "большой",
+            "sl": "velik",
+            "en": "(EN) большой"
+          },
+          {
+            "ru": "маленький",
+            "sl": "majhen",
+            "en": "(EN) маленький"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "новый",
+            "sl": "nov",
+            "en": "(EN) новый"
+          },
+          {
+            "ru": "старый",
+            "sl": "star",
+            "en": "(EN) старый"
+          },
+          {
+            "ru": "большой",
+            "sl": "velik",
+            "en": "(EN) большой"
+          },
+          {
+            "ru": "маленький",
+            "sl": "majhen",
+            "en": "(EN) маленький"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Качество и характеристики».",
+      "sl": "Napišite 6–8 stavkov na temo »Kakovost in lastnosti«.",
+      "en": "Write 6–8 sentences about “Quality and characteristics”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

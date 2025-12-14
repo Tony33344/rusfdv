@@ -1,0 +1,351 @@
+{
+  "id": 28,
+  "title": {
+    "ru": "Языки и национальности",
+    "sl": "Jeziki in narodnosti",
+    "en": "Languages and nationalities"
+  },
+  "textbookTheme": 22,
+  "phonetics": {
+    "focus": [
+      "Суффиксы национальностей"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "русский",
+          "английский",
+          "немецкий",
+          "французский",
+          "словенский",
+          "итальянский"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Россия — русский — по-русски",
+    "explanation": {
+      "ru": "Страна → прилагательное → наречие: Россия → русский → по-русски. Прилагательное согласуется с существительным, наречие не изменяется.",
+      "sl": "Država → pridevnik → prislov: Rusija → ruski → rusko. Pridevnik se ujema s samostalnikom, prislov se ne spreminja.",
+      "en": "Grammar focus: Россия — русский — по-русски. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Россия → русский язык → по-русски",
+        "gender": "",
+        "rule": "Russia → Russian language → in Russian"
+      },
+      {
+        "word": "Словения → словенский язык → по-словенски",
+        "gender": "",
+        "rule": "Slovenia → Slovenian language → in Slovenian"
+      },
+      {
+        "word": "Германия → немецкий язык → по-немецки",
+        "gender": "",
+        "rule": "Germany → German language → in German"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "instruction": "Образуйте формы: страна → прилагательное → наречие",
+        "items": [
+          "Франция",
+          "Италия",
+          "Англия",
+          "Испания"
+        ],
+        "answers": [
+          "французский, по-французски",
+          "итальянский, по-итальянски",
+          "английский, по-английски",
+          "испанский, по-испански"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Языки и национальности",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Языки и национальности",
+          "sl": "Dialog: Языки и национальности",
+          "en": "Dialogue: Языки и национальности"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "На каких языках вы говорите?",
+            "sl": "Katere jezike govorite?",
+            "en": "(EN) На каких языках вы говорите?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я говорю по-словенски и по-английски.",
+            "sl": "Govorim slovensko in angleško.",
+            "en": "(EN) Я говорю по-словенски и по-английски."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы изучаете русский язык?",
+            "sl": "Se učite ruščine?",
+            "en": "(EN) Вы изучаете русский язык?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, я учу русский уже год.",
+            "sl": "Da, učim se ruščine že eno leto.",
+            "en": "(EN) Да, я учу русский уже год."
+          },
+          {
+            "speaker": "A",
+            "ru": "Русский язык сложный?",
+            "sl": "Je ruščina težka?",
+            "en": "(EN) Русский язык сложный?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, но очень интересный.",
+            "sl": "Da, ampak zelo zanimiva.",
+            "en": "(EN) Да, но очень интересный."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "На каких языках вы говорите?",
+        "sl": "Katere jezike govorite?",
+        "audio": null,
+        "en": "(EN) На каких языках вы говорите?"
+      },
+      {
+        "ru": "Я говорю по-словенски и по-английски.",
+        "sl": "Govorim slovensko in angleško.",
+        "audio": null,
+        "en": "(EN) Я говорю по-словенски и по-английски."
+      },
+      {
+        "ru": "Вы изучаете русский язык?",
+        "sl": "Se učite ruščine?",
+        "audio": null,
+        "en": "(EN) Вы изучаете русский язык?"
+      },
+      {
+        "ru": "Да, я учу русский уже год.",
+        "sl": "Da, učim se ruščine že eno leto.",
+        "audio": null,
+        "en": "(EN) Да, я учу русский уже год."
+      },
+      {
+        "ru": "Русский язык сложный?",
+        "sl": "Je ruščina težka?",
+        "audio": null,
+        "en": "(EN) Русский язык сложный?"
+      },
+      {
+        "ru": "Да, но очень интересный.",
+        "sl": "Da, ampak zelo zanimiva.",
+        "audio": null,
+        "en": "(EN) Да, но очень интересный."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "язык",
+      "sl": "jezik",
+      "en": "(EN) язык"
+    },
+    {
+      "ru": "национальность",
+      "sl": "narodnost",
+      "en": "(EN) национальность"
+    },
+    {
+      "ru": "русский",
+      "sl": "ruski",
+      "en": "(EN) русский"
+    },
+    {
+      "ru": "по-русски",
+      "sl": "rusko",
+      "en": "(EN) по-русски"
+    },
+    {
+      "ru": "изучать",
+      "sl": "učiti se",
+      "en": "(EN) изучать"
+    },
+    {
+      "ru": "говорить",
+      "sl": "govoriti",
+      "en": "(EN) говорить"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Языки и национальности»",
+      "Практиковать грамматику: Россия — русский — по-русски",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Языки и национальности»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Языки и национальности«",
+      "Vaditi slovnico: Россия — русский — по-русски",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Языки и национальности«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Языки и национальности”",
+      "Practice grammar: Россия — русский — по-русски",
+      "Build 6–8 simple sentences and a mini-dialogue for “Языки и национальности”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "язык",
+            "sl": "jezik",
+            "en": "(EN) язык"
+          },
+          {
+            "ru": "национальность",
+            "sl": "narodnost",
+            "en": "(EN) национальность"
+          },
+          {
+            "ru": "русский",
+            "sl": "ruski",
+            "en": "(EN) русский"
+          },
+          {
+            "ru": "по-русски",
+            "sl": "rusko",
+            "en": "(EN) по-русски"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "язык",
+            "sl": "jezik",
+            "en": "(EN) язык"
+          },
+          {
+            "ru": "национальность",
+            "sl": "narodnost",
+            "en": "(EN) национальность"
+          },
+          {
+            "ru": "русский",
+            "sl": "ruski",
+            "en": "(EN) русский"
+          },
+          {
+            "ru": "по-русски",
+            "sl": "rusko",
+            "en": "(EN) по-русски"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Языки и национальности».",
+      "sl": "Napišite 6–8 stavkov na temo »Jeziki in narodnosti«.",
+      "en": "Write 6–8 sentences about “Languages and nationalities”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

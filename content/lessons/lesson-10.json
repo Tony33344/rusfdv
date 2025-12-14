@@ -1,0 +1,378 @@
+{
+  "id": 10,
+  "title": {
+    "ru": "Свободное время",
+    "sl": "Prosti čas",
+    "en": "Free time"
+  },
+  "textbookTheme": 10,
+  "phonetics": {
+    "focus": [
+      "consonant clusters",
+      "гр",
+      "кр",
+      "пр"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "играть",
+          "гулять",
+          "кино",
+          "театр",
+          "музыка",
+          "спорт"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Глаголы с инфинитивом",
+    "explanation": {
+      "ru": "Некоторые глаголы требуют инфинитива: любить + инф., хотеть + инф., мочь + инф., уметь + инф. Например: «Я люблю читать», «Я хочу поехать».",
+      "sl": "Nekateri glagoli zahtevajo nedoločnik: любить + inf., хотеть + inf., мочь + inf., уметь + inf. Na primer: «Я люблю читать», «Я хочу поехать».",
+      "en": "Grammar focus: Глаголы с инфинитивом. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "Я люблю читать.",
+        "gender": "",
+        "rule": "I like to read."
+      },
+      {
+        "word": "Я хочу поехать в Москву.",
+        "gender": "",
+        "rule": "I want to go to Moscow."
+      },
+      {
+        "word": "Вы умеете плавать?",
+        "gender": "",
+        "rule": "Can you swim?"
+      },
+      {
+        "word": "Я могу помочь.",
+        "gender": "",
+        "rule": "I can help."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "sentence-building",
+        "instruction": "Составьте предложения с глаголами любить, хотеть, мочь",
+        "items": [
+          "любить / танцевать",
+          "хотеть / путешествовать",
+          "мочь / говорить по-русски"
+        ],
+        "categories": []
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Хобби и увлечения",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Хобби и увлечения",
+          "sl": "Dialog: Хобби и увлечения",
+          "en": "Dialogue: Хобби и увлечения"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Чем вы занимаетесь в свободное время?",
+            "sl": "S čim se ukvarjate v prostem času?",
+            "en": "(EN) Чем вы занимаетесь в свободное время?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я люблю читать книги.",
+            "sl": "Rad/a berem knjige.",
+            "en": "(EN) Я люблю читать книги."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы занимаетесь спортом?",
+            "sl": "Se ukvarjate s športom?",
+            "en": "(EN) Вы занимаетесь спортом?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, я играю в футбол.",
+            "sl": "Da, igram nogomet.",
+            "en": "(EN) Да, я играю в футбол."
+          },
+          {
+            "speaker": "A",
+            "ru": "Пойдём в кино?",
+            "sl": "Greva v kino?",
+            "en": "(EN) Пойдём в кино?"
+          },
+          {
+            "speaker": "B",
+            "ru": "С удовольствием!",
+            "sl": "Z veseljem!",
+            "en": "(EN) С удовольствием!"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Чем вы занимаетесь в свободное время?",
+        "sl": "S čim se ukvarjate v prostem času?",
+        "audio": null,
+        "en": "(EN) Чем вы занимаетесь в свободное время?"
+      },
+      {
+        "ru": "Я люблю читать книги.",
+        "sl": "Rad/a berem knjige.",
+        "audio": null,
+        "en": "(EN) Я люблю читать книги."
+      },
+      {
+        "ru": "Вы занимаетесь спортом?",
+        "sl": "Se ukvarjate s športom?",
+        "audio": null,
+        "en": "(EN) Вы занимаетесь спортом?"
+      },
+      {
+        "ru": "Да, я играю в футбол.",
+        "sl": "Da, igram nogomet.",
+        "audio": null,
+        "en": "(EN) Да, я играю в футбол."
+      },
+      {
+        "ru": "Пойдём в кино?",
+        "sl": "Greva v kino?",
+        "audio": null,
+        "en": "(EN) Пойдём в кино?"
+      },
+      {
+        "ru": "С удовольствием!",
+        "sl": "Z veseljem!",
+        "audio": null,
+        "en": "(EN) С удовольствием!"
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "хобби",
+      "sl": "hobi",
+      "en": "(EN) хобби"
+    },
+    {
+      "ru": "читать",
+      "sl": "brati",
+      "en": "(EN) читать"
+    },
+    {
+      "ru": "смотреть",
+      "sl": "gledati",
+      "en": "(EN) смотреть"
+    },
+    {
+      "ru": "слушать",
+      "sl": "poslušati",
+      "en": "(EN) слушать"
+    },
+    {
+      "ru": "играть",
+      "sl": "igrati",
+      "en": "(EN) играть"
+    },
+    {
+      "ru": "гулять",
+      "sl": "sprehajati se",
+      "en": "(EN) гулять"
+    },
+    {
+      "ru": "путешествовать",
+      "sl": "potovati",
+      "en": "(EN) путешествовать"
+    },
+    {
+      "ru": "кино",
+      "sl": "kino",
+      "en": "(EN) кино"
+    },
+    {
+      "ru": "театр",
+      "sl": "gledališče",
+      "en": "(EN) театр"
+    },
+    {
+      "ru": "музыка",
+      "sl": "glasba",
+      "en": "(EN) музыка"
+    },
+    {
+      "ru": "спорт",
+      "sl": "šport",
+      "en": "(EN) спорт"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Хобби и увлечения»",
+      "Практиковать грамматику: Глаголы с инфинитивом",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Свободное время»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Хобби и увлечения«",
+      "Vaditi slovnico: Глаголы с инфинитивом",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Свободное время«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Хобби и увлечения”",
+      "Practice grammar: Глаголы с инфинитивом",
+      "Build 6–8 simple sentences and a mini-dialogue for “Свободное время”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "хобби",
+            "sl": "hobi",
+            "en": "(EN) хобби"
+          },
+          {
+            "ru": "читать",
+            "sl": "brati",
+            "en": "(EN) читать"
+          },
+          {
+            "ru": "смотреть",
+            "sl": "gledati",
+            "en": "(EN) смотреть"
+          },
+          {
+            "ru": "слушать",
+            "sl": "poslušati",
+            "en": "(EN) слушать"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "хобби",
+            "sl": "hobi",
+            "en": "(EN) хобби"
+          },
+          {
+            "ru": "читать",
+            "sl": "brati",
+            "en": "(EN) читать"
+          },
+          {
+            "ru": "смотреть",
+            "sl": "gledati",
+            "en": "(EN) смотреть"
+          },
+          {
+            "ru": "слушать",
+            "sl": "poslušati",
+            "en": "(EN) слушать"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Свободное время».",
+      "sl": "Napišite 6–8 stavkov na temo »Prosti čas«.",
+      "en": "Write 6–8 sentences about “Free time”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}

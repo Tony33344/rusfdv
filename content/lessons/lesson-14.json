@@ -1,0 +1,371 @@
+{
+  "id": 14,
+  "title": {
+    "ru": "Свободное время",
+    "sl": "Prosti čas",
+    "en": "Free time"
+  },
+  "textbookTheme": 13,
+  "phonetics": {
+    "focus": [
+      "Предлоги В и НА с предложным падежом"
+    ],
+    "exercises": [
+      {
+        "type": "listen-repeat",
+        "items": [
+          "в театре",
+          "в кино",
+          "на концерте",
+          "на стадионе",
+          "в парке",
+          "на улице"
+        ]
+      }
+    ],
+    "audioExamples": []
+  },
+  "grammar": {
+    "topic": "Предлоги В и НА. Предложный падеж",
+    "explanation": {
+      "ru": "Предлог В используется для закрытых пространств (в театре, в музее). Предлог НА — для открытых пространств, мероприятий, островов (на концерте, на улице, на Кубе).",
+      "sl": "Predlog В se uporablja za zaprte prostore (v gledališču, v muzeju). Predlog НА — za odprte prostore, dogodke, otoke (na koncertu, na ulici, na Kubi).",
+      "en": "Grammar focus: Предлоги В и НА. Предложный падеж. See Russian explanation above."
+    },
+    "examples": [
+      {
+        "word": "в театре",
+        "gender": "",
+        "rule": "closed space"
+      },
+      {
+        "word": "в музее",
+        "gender": "",
+        "rule": "closed space"
+      },
+      {
+        "word": "на концерте",
+        "gender": "",
+        "rule": "event"
+      },
+      {
+        "word": "на стадионе",
+        "gender": "",
+        "rule": "open space"
+      },
+      {
+        "word": "на работе",
+        "gender": "",
+        "rule": "fixed expression"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Вставьте В или НА",
+        "items": [
+          "Я был ___ театре.",
+          "Она была ___ концерте.",
+          "Мы были ___ парке.",
+          "Они были ___ стадионе."
+        ],
+        "answers": [
+          "в",
+          "на",
+          "в",
+          "на"
+        ]
+      }
+    ]
+  },
+  "conversation": {
+    "topic": "Свободное время",
+    "dialogues": [
+      {
+        "title": {
+          "ru": "Диалог: Свободное время",
+          "sl": "Dialog: Свободное время",
+          "en": "Dialogue: Свободное время"
+        },
+        "context": {
+          "ru": "Мини-диалог для тренировки речи.",
+          "sl": "Mini dialog za govor.",
+          "en": "A mini-dialogue for speaking practice."
+        },
+        "lines": [
+          {
+            "speaker": "A",
+            "ru": "Что вы делаете в свободное время?",
+            "sl": "Kaj počnete v prostem času?",
+            "en": "(EN) Что вы делаете в свободное время?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Я люблю ходить в кино.",
+            "sl": "Rad/a hodim v kino.",
+            "en": "(EN) Я люблю ходить в кино."
+          },
+          {
+            "speaker": "A",
+            "ru": "Вы часто ходите в театр?",
+            "sl": "Ali pogosto hodite v gledališče?",
+            "en": "(EN) Вы часто ходите в театр?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Нет, редко. Билеты дорогие.",
+            "sl": "Ne, redko. Vstopnice so drage.",
+            "en": "(EN) Нет, редко. Билеты дорогие."
+          },
+          {
+            "speaker": "A",
+            "ru": "А на концерты?",
+            "sl": "In na koncerte?",
+            "en": "(EN) А на концерты?"
+          },
+          {
+            "speaker": "B",
+            "ru": "Да, я люблю музыку.",
+            "sl": "Da, rad/a imam glasbo.",
+            "en": "(EN) Да, я люблю музыку."
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Что вы делаете в свободное время?",
+        "sl": "Kaj počnete v prostem času?",
+        "audio": null,
+        "en": "(EN) Что вы делаете в свободное время?"
+      },
+      {
+        "ru": "Я люблю ходить в кино.",
+        "sl": "Rad/a hodim v kino.",
+        "audio": null,
+        "en": "(EN) Я люблю ходить в кино."
+      },
+      {
+        "ru": "Вы часто ходите в театр?",
+        "sl": "Ali pogosto hodite v gledališče?",
+        "audio": null,
+        "en": "(EN) Вы часто ходите в театр?"
+      },
+      {
+        "ru": "Нет, редко. Билеты дорогие.",
+        "sl": "Ne, redko. Vstopnice so drage.",
+        "audio": null,
+        "en": "(EN) Нет, редко. Билеты дорогие."
+      },
+      {
+        "ru": "А на концерты?",
+        "sl": "In na koncerte?",
+        "audio": null,
+        "en": "(EN) А на концерты?"
+      },
+      {
+        "ru": "Да, я люблю музыку.",
+        "sl": "Da, rad/a imam glasbo.",
+        "audio": null,
+        "en": "(EN) Да, я люблю музыку."
+      }
+    ],
+    "rolePlayScenarios": []
+  },
+  "homework": {
+    "tasks": [
+      {
+        "ru": "Сделайте 10 предложений с лексикой урока.",
+        "sl": "Naredite 10 stavkov z besediščem lekcije.",
+        "en": "Make 10 sentences using the lesson vocabulary."
+      },
+      {
+        "ru": "Запишите голосом 5 предложений (Voice Teacher) и повторите за TTS.",
+        "sl": "Posnemite 5 stavkov (Voice Teacher) in ponovite za TTS.",
+        "en": "Record 5 sentences (Voice Teacher) and repeat after TTS."
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "ru": "свободное время",
+      "sl": "prosti čas",
+      "en": "(EN) свободное время"
+    },
+    {
+      "ru": "театр",
+      "sl": "gledališče",
+      "en": "(EN) театр"
+    },
+    {
+      "ru": "кино",
+      "sl": "kino",
+      "en": "(EN) кино"
+    },
+    {
+      "ru": "концерт",
+      "sl": "koncert",
+      "en": "(EN) концерт"
+    },
+    {
+      "ru": "музей",
+      "sl": "muzej",
+      "en": "(EN) музей"
+    },
+    {
+      "ru": "парк",
+      "sl": "park",
+      "en": "(EN) парк"
+    },
+    {
+      "ru": "стадион",
+      "sl": "stadion",
+      "en": "(EN) стадион"
+    },
+    {
+      "ru": "билет",
+      "sl": "vstopnica",
+      "en": "(EN) билет"
+    }
+  ],
+  "audioResources": [],
+  "objectives": {
+    "ru": [
+      "Понимать и использовать лексику по теме «Свободное время»",
+      "Практиковать грамматику: Предлоги В и НА. Предложный падеж",
+      "Построить 6–8 простых фраз и мини-диалог по теме «Свободное время»"
+    ],
+    "sl": [
+      "Uporabljati besedišče na temo »Свободное время«",
+      "Vaditi slovnico: Предлоги В и НА. Предложный падеж",
+      "Sestaviti 6–8 preprostih stavkov in mini dialog na temo »Свободное время«"
+    ],
+    "en": [
+      "Use key vocabulary for the topic “Свободное время”",
+      "Practice grammar: Предлоги В и НА. Предложный падеж",
+      "Build 6–8 simple sentences and a mini-dialogue for “Свободное время”"
+    ]
+  },
+  "drills": {
+    "patterns": [
+      {
+        "title": {
+          "ru": "Шаблон: Я люблю ...",
+          "sl": "Vzorec: Rad/a imam ...",
+          "en": "Pattern: I like ..."
+        },
+        "model": {
+          "ru": "Я люблю ...",
+          "sl": "Rad/a imam ...",
+          "en": "I like ..."
+        },
+        "prompts": [
+          {
+            "ru": "свободное время",
+            "sl": "prosti čas",
+            "en": "(EN) свободное время"
+          },
+          {
+            "ru": "театр",
+            "sl": "gledališče",
+            "en": "(EN) театр"
+          },
+          {
+            "ru": "кино",
+            "sl": "kino",
+            "en": "(EN) кино"
+          },
+          {
+            "ru": "концерт",
+            "sl": "koncert",
+            "en": "(EN) концерт"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ru": "Шаблон: Я хочу ...",
+          "sl": "Vzorec: Hočem ...",
+          "en": "Pattern: I want ..."
+        },
+        "model": {
+          "ru": "Я хочу ...",
+          "sl": "Hočem ...",
+          "en": "I want ..."
+        },
+        "prompts": [
+          {
+            "ru": "свободное время",
+            "sl": "prosti čas",
+            "en": "(EN) свободное время"
+          },
+          {
+            "ru": "театр",
+            "sl": "gledališče",
+            "en": "(EN) театр"
+          },
+          {
+            "ru": "кино",
+            "sl": "kino",
+            "en": "(EN) кино"
+          },
+          {
+            "ru": "концерт",
+            "sl": "koncert",
+            "en": "(EN) концерт"
+          }
+        ]
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "type": "fill_blank",
+        "prompt": {
+          "ru": "Заполните: Я ___ русский язык.",
+          "sl": "Dopolni: Jaz ___ ruski jezik.",
+          "en": "Fill in: Я ___ Russian."
+        },
+        "answerText": {
+          "ru": "учу",
+          "sl": "se učim",
+          "en": "study/learn"
+        },
+        "explanation": {
+          "ru": "Базовая фраза: «Я учу русский язык».",
+          "sl": "Osnovna fraza: «Я учу русский язык».",
+          "en": "Basic phrase: «Я учу русский язык»."
+        }
+      }
+    ]
+  },
+  "writing": {
+    "prompt": {
+      "ru": "Напишите 6–8 предложений по теме «Свободное время».",
+      "sl": "Napišite 6–8 stavkov na temo »Prosti čas«.",
+      "en": "Write 6–8 sentences about “Free time”."
+    },
+    "checklist": {
+      "ru": [
+        "Используйте 8 слов из словаря",
+        "Добавьте 2 вопроса"
+      ],
+      "sl": [
+        "Uporabite 8 besed iz slovarja",
+        "Dodajte 2 vprašanji"
+      ],
+      "en": [
+        "Use 8 vocabulary words",
+        "Include 2 questions"
+      ]
+    }
+  },
+  "culture": {
+    "note": {
+      "ru": "Культурная заметка: обращайте внимание на форму «вы» в вежливой речи.",
+      "sl": "Kulturna opomba: bodite pozorni na vljudno obliko «вы».",
+      "en": "Culture note: pay attention to polite «вы» forms in public situations."
+    }
+  }
+}
