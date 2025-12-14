@@ -1,3 +1,15 @@
-import { handlers } from "@/lib/auth";
+import { NextResponse } from "next/server";
 
-export const { GET, POST } = handlers;
+export async function GET() {
+  return NextResponse.json(
+    { error: "NextAuth is not configured for this project." },
+    { status: 501 },
+  );
+}
+
+export async function POST() {
+  return NextResponse.json(
+    { error: "NextAuth is not configured for this project." },
+    { status: 501 },
+  );
+}
