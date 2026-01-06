@@ -74,8 +74,7 @@ export default function ShowcaseSimplePage() {
       });
 
       if (!response.ok) {
-        const errorData = await response.json().catch(() => ({ error: 'Unknown error' }));
-        console.error('Error generating audio:', errorData);
+        const errorData = await response.json().catch(() => ({ error: 'Failed to generate audio' }));
         throw new Error(errorData.error || 'Failed to generate audio');
       }
 
@@ -99,18 +98,25 @@ export default function ShowcaseSimplePage() {
   };
 
   const playLine = async (lineId: number) => {
+    // Stop any existing playback
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.onended = null;
+    }
+
     if (playingId === lineId) {
-      audioRef.current?.pause();
       setPlayingId(null);
       return;
     }
 
-    const audioUrl = await generateAudio(lineId);
-    if (!audioUrl) return;
+    const line = lines.find(l => l.id === lineId);
+    let audioUrl = line?.audioUrl;
 
-    if (audioRef.current) {
-      audioRef.current.pause();
+    if (!audioUrl) {
+      audioUrl = await generateAudio(lineId) || undefined;
     }
+
+    if (!audioUrl) return;
 
     const audio = new Audio(audioUrl);
     audioRef.current = audio;
@@ -119,17 +125,16 @@ export default function ShowcaseSimplePage() {
     audio.onended = () => {
       setPlayingId(null);
       if (isPlayingAll) {
-        const nextIndex = currentPlayIndex + 1;
-        if (nextIndex < lines.length) {
-          setCurrentPlayIndex(nextIndex);
-        } else {
-          setIsPlayingAll(false);
-          setCurrentPlayIndex(0);
-        }
+        setCurrentPlayIndex(prev => prev + 1);
       }
     };
 
-    audio.play();
+    try {
+      await audio.play();
+    } catch (err) {
+      console.error('Playback failed:', err);
+      setPlayingId(null);
+    }
   };
 
   const generateAllAudio = async () => {
