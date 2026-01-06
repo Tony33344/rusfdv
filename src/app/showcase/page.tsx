@@ -20,13 +20,11 @@ interface VoiceOption {
 const VOICE_OPTIONS: Record<'А' | 'Б', VoiceOption[]> = {
   'А': [
     { id: 'EXAVITQu4vr4xnSDxMaL', name: 'Sarah' },
-    { id: '21m00Tcm4TlvDq8ikWAM', name: 'Rachel' },
-    { id: 'pMsXgV9v3BLzUgSXRplE', name: 'Bella' }
+    { id: '21m00Tcm4TlvDq8ikWAM', name: 'Rachel' }
   ],
   'Б': [
     { id: 'onwK4e9ZLuTAKqWW03F9', name: 'Daniel' },
-    { id: 'VR6AewLTigWG4xSOukaG', name: 'Sam' },
-    { id: 'AZnzlk1XvdvUeBnXmlld', name: 'Harry' }
+    { id: 'VR6AewLTigWG4xSOukaG', name: 'Sam' }
   ]
 };
 
