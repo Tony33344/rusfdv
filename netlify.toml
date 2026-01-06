@@ -4,8 +4,11 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/:splat"
+  to = "/.netlify/functions/api/:splat"
   status = 200
 
 [functions]
   directory = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "18"
