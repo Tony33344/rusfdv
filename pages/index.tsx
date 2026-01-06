@@ -20,23 +20,11 @@ export default function HomePage() {
           </div>
           
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 border border-white/20">
-            <h2 className="text-2xl font-bold text-white mb-4">Available Conversations</h2>
+            <h2 className="text-2xl font-bold text-white mb-4">Voice Showcase</h2>
             <div className="grid gap-4">
-              <a href="/conversation-sarah-daniel" className="block p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all text-white">
-                <h3 className="font-bold">Sarah & Daniel</h3>
-                <p className="text-purple-300">Warm female voice with clear male voice</p>
-              </a>
-              <a href="/conversation-rachel-daniel" className="block p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all text-white">
-                <h3 className="font-bold">Rachel & Daniel</h3>
-                <p className="text-purple-300">Professional female voice with clear male voice</p>
-              </a>
-              <a href="/conversation-sarah-sam" className="block p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all text-white">
-                <h3 className="font-bold">Sarah & Sam</h3>
-                <p className="text-purple-300">Warm female voice with casual male voice</p>
-              </a>
-              <a href="/conversation-rachel-sam" className="block p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all text-white">
-                <h3 className="font-bold">Rachel & Sam</h3>
-                <p className="text-purple-300">Professional female voice with casual male voice</p>
+              <a href="/showcase-simple" className="block p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all text-white">
+                <h3 className="font-bold">Voice Generation Showcase</h3>
+                <p className="text-purple-300">Generate and play Russian conversations with different voices</p>
               </a>
             </div>
           </div>
