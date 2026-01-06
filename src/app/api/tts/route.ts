@@ -1,4 +1,6 @@
-import { NextApiRequest, NextApiResponse } from 'next';
+import { NextRequest, NextResponse } from 'next/server';
+
+const API_KEY = process.env.VOICE_API_KEY || process.env.ELEVENLABS_API_KEY;
 
 // Voice options for different speakers
 const VOICE_OPTIONS = {
@@ -12,38 +14,29 @@ const VOICE_OPTIONS = {
   ]
 };
 
-const API_KEY = process.env.VOICE_API_KEY || process.env.ELEVENLABS_API_KEY;
-
-export const config = {
-  api: {
-    bodyParser: true,
-  },
-};
-
-export default async function handler(req: NextApiRequest, res: NextApiResponse) {
-  // Add static export directive
-  res.setHeader('Cache-Control', 's-maxage=1, stale-while-revalidate');
-  
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
-  }
-
+export async function POST(request: NextRequest) {
   try {
-    const { text, speaker } = req.body;
+    const { text, speaker } = await request.json();
 
     if (!text) {
-      return res.status(400).json({ error: 'Text is required' });
+      return NextResponse.json({ error: 'Text is required' }, { status: 400 });
     }
 
     if (!speaker || (speaker !== 'А' && speaker !== 'Б')) {
-      return res.status(400).json({ error: 'Invalid speaker' });
+      return NextResponse.json({ error: 'Invalid speaker' }, { status: 400 });
     }
+
+    // Type guard to ensure speaker is of type 'А' | 'Б'
+    const validSpeaker: 'А' | 'Б' = speaker;
 
     if (!API_KEY) {
-      return res.status(500).json({ error: 'Voice API key not configured' });
+      return NextResponse.json(
+        { error: 'Voice API key not configured' },
+        { status: 500 }
+      );
     }
 
-    const voiceId = (req.query.voiceId as string) || VOICE_OPTIONS[speaker as 'А' | 'Б'][0].id;
+    const voiceId = request.nextUrl.searchParams.get('voiceId') || VOICE_OPTIONS[validSpeaker][0].id;
 
     console.log('TTS Request:', { text: text.substring(0, 50) + '...', speaker, voiceId });
 
@@ -70,21 +63,27 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     if (!response.ok) {
       const errorText = await response.text();
       console.error('Voice API error:', response.status, response.statusText, errorText);
-      return res.status(response.status).json({ 
-        error: 'Failed to generate speech', 
-        details: errorText 
-      });
+      return NextResponse.json(
+        { error: 'Failed to generate speech', details: errorText },
+        { status: response.status }
+      );
     }
 
     const audioBuffer = await response.arrayBuffer();
-    
-    res.setHeader('Content-Type', 'audio/mpeg');
-    res.setHeader('Content-Length', audioBuffer.byteLength.toString());
-    res.setHeader('X-Cache', 'MISS');
-    
-    return res.send(Buffer.from(audioBuffer));
+
+    return new NextResponse(audioBuffer, {
+      headers: {
+        'Content-Type': 'audio/mpeg',
+        'Content-Length': audioBuffer.byteLength.toString(),
+      },
+    });
   } catch (error) {
     console.error('TTS API error:', error);
-    return res.status(500).json({ error: 'Internal server error' });
+    return NextResponse.json(
+      { error: 'Internal server error' },
+      { status: 500 }
+    );
   }
 }
+
+export { VOICE_OPTIONS };
